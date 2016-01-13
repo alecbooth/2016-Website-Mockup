@@ -1,12 +1,17 @@
 #homeLogo {
 	height: 225px;
 	margin-left: 3%;
-	margin-top: 1.75%;
+	margin-top: 35.75%;
 }
-
+.headerDiv {
+	display: inline-block;
+}
 header > img {
 	margin-bottom: none;
+}
+header {
 	background-color: #0f64f0;
+	display: inline-block;
 }
 div{
 	border-width: 3px;
@@ -17,6 +22,31 @@ div{
 	text-align: center;
 	vertical-align: center;
 }
+.slideDiv{
+	height: 475px;
+}
+.secondaryDiv{
+	display: inline-block;
+	border-color: pink;
+	border-width: 4px;
+	height: 360px;
+	width: 500px;
+	margin-top: 0px;
+	border-top: none;
+	border-bottom: none;
+}
+#p{
+	display: inline-block;
+	margin-left: 296px;
+	text-align: center;
+	vertical-align: top;
+}
+#secondP{
+	display: inline-block;
+	margin-right: 292px;
+	text-align: center;
+	vertical-align: top;
+}
 li {
 	display: inline;
 	float: right;
@@ -25,6 +55,7 @@ a {
 	display: block;
 	padding: 8px;
 	background-color: ;
+	font-family: comic-sans;
 }
 ul {
 	background-color: blue;
@@ -42,8 +73,9 @@ li a {
 	display: block;
 	color: white;
 	text-align: center;
-	padding: 14px 16px;
+	padding: 14px 45px;
 	text-decoration: none;
+	margin-top: 245px;
 }
 li a:hover {
 	background-color: #fbc005;
@@ -57,4 +89,3 @@ li a:hover {
 .slideDiv{
 	height: 475px;
 }
-
