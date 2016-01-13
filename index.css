@@ -1,10 +1,15 @@
 #homeLogo {
 	height: 225px;
 	margin-left: 3%;
-	margin-top: 35.75%;
 }
-.headerDiv {
+#headerDiv {
 	display: inline-block;
+	padding-top: 2%;
+	border: none;
+}
+#headerDivTwo {
+	display: inline-block;
+	border: none;
 }
 header > img {
 	margin-bottom: none;
@@ -17,14 +22,9 @@ div{
 	border-width: 3px;
 	border-style: solid;
 	border-color: black;
-	margin-top: 3px;
-	height: 360px;
 	text-align: center;
-	vertical-align: center;
 }
-.slideDiv{
-	height: 475px;
-}
+
 .secondaryDiv{
 	display: inline-block;
 	border-color: pink;
