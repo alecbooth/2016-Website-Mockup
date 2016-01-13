@@ -75,6 +75,9 @@ li {
 	display: inline;
 	float: right;
 }
+.navbar{
+	font-family: "Verdana", serif;
+}
 a {
 	display: block;
 	padding: 8px;
