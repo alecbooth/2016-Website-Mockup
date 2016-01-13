@@ -22,6 +22,31 @@ div{
 	text-align: center;
 	vertical-align: center;
 }
+.slideDiv{
+	height: 475px;
+}
+.secondaryDiv{
+	display: inline-block;
+	border-color: pink;
+	border-width: 4px;
+	height: 360px;
+	width: 500px;
+	margin-top: 0px;
+	border-top: none;
+	border-bottom: none;
+}
+#p{
+	display: inline-block;
+	margin-left: 296px;
+	text-align: center;
+	vertical-align: top;
+}
+#secondP{
+	display: inline-block;
+	margin-right: 292px;
+	text-align: center;
+	vertical-align: top;
+}
 li {
 	display: inline;
 	float: right;
@@ -64,4 +89,3 @@ li a:hover {
 .slideDiv{
 	height: 475px;
 }
-
