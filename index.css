@@ -12,9 +12,9 @@ div{
 	text-align: center;
 	vertical-align: center;
 }
-#slide {
+/*#slide {
 	height: 300px;
-}
-#slideDiv{
+}*/
+.slideDiv{
 	height: 475px;
 }
