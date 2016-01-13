@@ -3,6 +3,11 @@
 	margin-left: 3%;
 	margin-top: 1.75%;
 }
+
+header > img {
+	margin-bottom: none;
+	background-color: #0f64f0;
+}
 div{
 	border-width: 3px;
 	border-style: solid;
@@ -36,4 +41,44 @@ div{
 	margin-right: 292px;
 	text-align: center;
 	vertical-align: top;
+}
+li {
+	display: inline;
+	float: right;
+}
+a {
+	display: block;
+	padding: 8px;
+	background-color: ;
+}
+ul {
+	background-color: blue;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #0f64f0;
+	top: 0;
+	width: 100%;
+	
+	float:right;
+	list-style-type:none;
+}
+li a {
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+li a:hover {
+	background-color: #fbc005;
+}
+.active {
+	background-color: yellow;
+}
+/*#slide {
+	height: 300px;
+}*/
+.slideDiv{
+	height: 475px;
 }
