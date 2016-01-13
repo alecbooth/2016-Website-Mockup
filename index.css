@@ -10,7 +10,9 @@ div{
 	margin-top: 3px;
 	height: 360px;
 	text-align: center;
+	vertical-align: center;
 }
 #slide {
 	height: 300px;
 }
+#slideDiv
