@@ -13,7 +13,7 @@ header {
 	background-color: #0f64f0;
 	display: inline-block;
 }
-div{
+.div{
 	border-width: 3px;
 	border-style: solid;
 	border-color: black;
@@ -23,10 +23,15 @@ div{
 	vertical-align: center;
 }
 .slideDiv{
-	height: 475px;
+	margin: 0;
+	height:500px;
+	border-width: 3px;
+	border-style: solid;
+	border-color:black
 }
 .slideImg{
-	height: 475px;
+	margin: 0;
+	height: 315px;
 }
 .secondaryDiv{
 	display: inline-block;
@@ -85,10 +90,4 @@ li a:hover {
 }
 .active {
 	background-color: yellow;
-}
-/*#slide {
-	height: 300px;
-}*/
-.slideDiv{
-	height: 475px;
 }
