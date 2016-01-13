@@ -1,12 +1,9 @@
 $(document).ready(function(){
 	$('.slideDiv').slick({
-		setting-name: setting-value
+		slidesToShow: 1,
+		slidesToScroll: 1,
+		autoplay: true,
+		autoplaySpeed: 6000,
+		arrows: false
 	});
 });
-$('.autoplay').slick({
-	slidesToShow: 1,
-	slidesToScroll: 1,
-	autoplay: true,
-	autoplaySpeed: 1000,
-});
-$('.single-item').slick();

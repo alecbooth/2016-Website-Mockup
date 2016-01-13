@@ -25,6 +25,9 @@ div{
 .slideDiv{
 	height: 475px;
 }
+.slideImg{
+	height: 475px;
+}
 .secondaryDiv{
 	display: inline-block;
 	border-color: pink;
