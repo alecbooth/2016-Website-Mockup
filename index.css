@@ -104,3 +104,39 @@ li a:hover {
 .slideDiv{
 	height: 475px;
 }
+.footer {
+	text-align: center;
+	background-color: #FFF;
+	margin-left: auto;
+	margin-right: auto;
+	border-top: 1px solid #BDBDBD;
+	padding: 14px 15px 10px;
+	display: inline-block;
+}
+
+.footer a {
+	text-decoration: none;
+}
+.clearfix {
+	overflow:hidden;
+	display: inline-block;
+}
+.socialmedia {
+	width: 50px;
+	height: 50px;
+	border-radius: 10px;
+	margin: 0 5px;
+}
+.footer {
+	text-align: center;
+	background-color: #FFF;
+	margin-left: auto;
+	margin-right: auto;
+	border-top: 1px solid #BDBDBD;
+	padding: 14px 15px 10px;
+	display: inline-block;
+}
+
+.footer a {
+	text-decoration: none;
+}
