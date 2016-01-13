@@ -8,4 +8,6 @@ div{
 	border-style: solid;
 	border-color: black;
 	margin-top: 3px;
+	height: 360px;
+	text-align: center;
 }
