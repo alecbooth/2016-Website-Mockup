@@ -29,15 +29,24 @@ header {
 	width: 100%;
 	display: inline-block;
 }
-div{
+.div{
 	border-width: 3px;
 	border-style: solid;
 	border-color: black;
 	text-align: center;
+	vertical-align: center;
+}
+.slideDiv{
+	margin: 0;
+	height:500px;
+	border-width: 3px;
+	border-style: solid;
+	border-color:black
 }
 
 .slideImg{
-	height: 475px;
+	margin: 0;
+	height: 315px;
 }
 
 .secondaryDiv{
@@ -65,6 +74,9 @@ div{
 li {
 	display: inline;
 	float: right;
+}
+.navbar{
+	font-family: "Verdana", serif;
 }
 a {
 	display: block;
