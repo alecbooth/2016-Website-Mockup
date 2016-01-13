@@ -1,12 +1,22 @@
-#homeLogo {
-	height: 225px;
-	margin-left: 3%;
+body, html {
+	margin: 0;
+	padding: 0;
 }
+
+*, *:before, *:after {
+	box-sizing: border-box;
+}
+
 #headerDiv {
 	display: inline-block;
 	padding-top: 2%;
 	border: none;
 }
+
+#homeLogo {
+	height: 225px;
+}
+
 #headerDivTwo {
 	display: inline-block;
 	border: none;
@@ -16,6 +26,7 @@ header > img {
 }
 header {
 	background-color: #0f64f0;
+	width: 100%;
 	display: inline-block;
 }
 div{
