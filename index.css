@@ -39,17 +39,28 @@ header {
 }
 .slideDiv{
 	margin: 0;
-	height:500px;
+	height:321px;
 	border-width: 3px;
 	border-style: solid;
-	border-color:black
+	border-color:black;
+	width: 479px;
+	display: inline-block;
+	margin-right: 0px;
 }
-
+.robotDiv{
+	height:321px;
+	border-width:3px;
+	border-color:green;
+	display: inline-block;
+	width: 400px;
+}	
 .slideImg{
 	margin: 0;
 	height: 315px;
 }
-
+#slideId {
+	display:inline-block;
+}
 .secondaryDiv{
 	display: inline-block;
 	border-color: pink;
@@ -106,12 +117,6 @@ li a:hover {
 }
 .active {
 	background-color: yellow;
-}
-/*#slide {
-	height: 300px;
-}*/
-.slideDiv{
-	height: 475px;
 }
 .footer {
 	text-align: center;
