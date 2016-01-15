@@ -57,11 +57,10 @@ header > img {
 }
 
 .div{
-	border-width: 3px;
-	border-style: solid;
+	border-top: 10px solid #bfc1ca;
 	text-align: center;
 	vertical-align: center;
-	background-color: #325894;
+	background-color: #184776;
 }
 .slideDiv{
 	margin: 0;
