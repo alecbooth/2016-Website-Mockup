@@ -1,6 +1,7 @@
 body, html {
 	margin: 0;
 	padding: 0;
+	font-family: 'Montserrat', sans-serif;
 }
 
 *, *:before, *:after {
@@ -29,31 +30,42 @@ header {
 	background-color: #0f64f0;
 	width: 100%;
 	display: inline-block;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 13px;
 }
 .div{
 	border-width: 3px;
 	border-style: solid;
-	border-color: black;
 	text-align: center;
 	vertical-align: center;
 }
 .slideDiv{
 	margin: 0;
-	height:500px;
+	height:321px;
 	border-width: 3px;
 	border-style: solid;
-	border-color:black
+	border-color:black;
+	width: 479px;
+	display: inline-block;
+	margin-right: 0px;
 }
-
+.robotDiv{
+	height:321px;
+	border-width:3px;
+	border-color:green;
+	display: inline-block;
+	width: 400px;
+}	
 .slideImg{
 	margin: 0;
 	height: 315px;
 }
-
+#slideId {
+	display:inline-block;
+}
 .secondaryDiv{
 	display: inline-block;
 	border-color: pink;
-	border-width: 4px;
 	height: 360px;
 	width: 500px;
 	margin-top: 0px;
@@ -62,13 +74,13 @@ header {
 }
 #p{
 	display: inline-block;
-	margin-left: 296px;
+	margin-left: 24px;
 	text-align: center;
 	vertical-align: top;
 }
 #secondP{
 	display: inline-block;
-	margin-right: 292px;
+	margin-right: 202px;
 	text-align: center;
 	vertical-align: top;
 }
@@ -79,8 +91,6 @@ li {
 a {
 	display: block;
 	padding: 8px;
-	background-color: ;
-	font-family: comic-sans;
 }
 ul {
 	background-color: blue;
@@ -108,12 +118,6 @@ li a:hover {
 }
 .active {
 	background-color: yellow;
-}
-/*#slide {
-	height: 300px;
-}*/
-.slideDiv{
-	height: 475px;
 }
 .footer {
 	text-align: center;
@@ -169,4 +173,10 @@ li a:hover {
 	float: left;
 	display: inline; 
 	padding-right: 472px;
+}
+.infoPic {
+	margin-left: -147px;
+	display: inline-block;
+	height: 100%;
+	height: 354px;
 }
