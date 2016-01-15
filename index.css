@@ -2,6 +2,7 @@ body, html {
 	margin: 0;
 	padding: 0;
 	font-family: 'Montserrat', sans-serif;
+	background-color: #0f64f0;
 }
 
 *, *:before, *:after {
@@ -56,6 +57,7 @@ header > img {
 	border-style: solid;
 	text-align: center;
 	vertical-align: center;
+	background-color: #042965;
 }
 .slideDiv{
 	margin: 0;
@@ -66,6 +68,7 @@ header > img {
 	width: 479px;
 	display: inline-block;
 	margin-right: 0px;
+	background-color: #000080;
 }
 .robotDiv{
 	height:321px;
@@ -95,12 +98,14 @@ header > img {
 	margin-left: 24px;
 	text-align: center;
 	vertical-align: top;
+	color: white;
 }
 #secondP{
 	display: inline-block;
 	margin-right: 202px;
 	text-align: center;
 	vertical-align: top;
+	color: white;
 }
 .active {
 	background-color: yellow;
