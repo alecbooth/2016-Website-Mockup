@@ -195,7 +195,6 @@ header > img {
 .infoPic {
 	display: inline-block;
 	height: 354px;
-	width: -153px;
 }
 .surround{
 	height:650px;
@@ -205,12 +204,7 @@ header > img {
 	
 	background-color: white;
 }
-.flexItem{
-	display: flex;
-	align-items: center;
-	flex-shrink: 5px;
-	flex-flow: row nowrap;
-}
+
 #secondInfoPic {
 	padding-left: 177px;
 }
