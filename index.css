@@ -20,12 +20,16 @@ header {
 	flex-flow: row nowrap;
 	align-items: center;
 	background-color: #0f64f0;
-	padding-bottom:15px;
+
 	font-size:17px;
+	
 	border-bottom:20px solid #bfc1ca;
+	
 	margin-left: 100px;
 	margin-right: 100px;
-	margin-top: 50px
+	margin-top: 20px;
+	
+	padding-bottom:15px;
 }
 #headerDivTwo {
 	margin-left: -180px;
@@ -83,15 +87,6 @@ header > img {
 	margin-top: 15px;
 	margin-left: 45px;
 	margin-bottom: 15px;
-	
-	height:600px;
-	border-width: 3px;
-	border-style: solid;
-	border-color:black;
-	width: 973px;
-	display: inline-block;
-	margin-right: 0px;
-	border-bottom:10px solid #bfc1ca;
 }
 .robotDiv{
 	height:321px;
@@ -122,7 +117,7 @@ header > img {
 	text-align: center;
 	vertical-align: top;
 	color: white;
-	padding-left: 88px;
+	padding-left: 74px;
 }
 #secondP{
 	display: inline-block;
@@ -166,8 +161,11 @@ header > img {
 	margin: 0 5px;
 	display: inline;
 	float: right;
+	opacity: 1;	
 }
-
+.socialmedia:hover{
+	opacity: .65;
+}
 
 .url {
 	float: right;
@@ -186,9 +184,10 @@ header > img {
 .surround{
 	height:650px;
 	width:1063px;
-	margin-left:100px;
+	
+	margin: 10px 100px;
+	
 	background-color: white;
-	border-bottom: 20px solid #bfc1ca;
 }
 .flexItem{
 	display: flex;
