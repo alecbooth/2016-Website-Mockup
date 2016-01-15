@@ -69,15 +69,15 @@ header > img {
 	margin-bottom: 10px;
 }
 .slideDiv{
-	margin-top: 80px;
-	margin-left: 135px;
-	margin-bottom: 80px;
+	margin-top: 15px;
+	margin-left: 154px;
+	margin-bottom: 15px;
 	
-	height:411px;
+	height:600px;
 	border-width: 3px;
 	border-style: solid;
 	border-color:black;
-	width: 641px;
+	width: 973px;
 	display: inline-block;
 	margin-right: 0px;
 }
@@ -90,8 +90,8 @@ header > img {
 }	
 .slideImg{
 	margin: 0;
-	height: 405px;
-	width: 635px;
+	height: 594px;
+	width: 967px;
 }
 #slideId {
 	display:inline-block;
@@ -180,4 +180,8 @@ header > img {
 .infoPic {
 	display: inline-block;
 	height: 354px;
+}
+.surround{
+	height:630px;
+	background-color: #807D8D;
 }
