@@ -2,6 +2,7 @@ body, html {
 	margin: 0;
 	padding: 0;
 	font-family: 'Montserrat', sans-serif;
+	background-color: #bfc1ca;
 }
 
 *, *:before, *:after {
@@ -21,12 +22,14 @@ header {
 	background-color: #0f64f0;
 	padding-bottom:15px;
 	font-size:17px;
-	border-bottom:10px solid #bfc1ca;
+	border-bottom:20px solid #bfc1ca;
+	margin-left: 100px;
+	margin-right: 100px;
+	margin-top: 50px
 }
-
 #headerDivTwo {
-	margin-left: 35px;
-	margin-top:60px;
+	margin-left: -180px;
+	margin-top:-120px;
 }
 
 header ul {
@@ -70,7 +73,7 @@ header > img {
 }
 .slideDiv{
 	margin-top: 15px;
-	margin-left: 154px;
+	margin-left: 45px;
 	margin-bottom: 15px;
 	
 	height:600px;
@@ -80,6 +83,7 @@ header > img {
 	width: 973px;
 	display: inline-block;
 	margin-right: 0px;
+	border-bottom:10px solid #bfc1ca;
 }
 .robotDiv{
 	height:321px;
@@ -95,6 +99,7 @@ header > img {
 }
 #slideId {
 	display:inline-block;
+	
 }
 .secondaryDiv{
 	display: inline-block;
@@ -120,20 +125,20 @@ header > img {
 .active {
 	background-color: yellow;
 }
+
 .footer {
 	text-align: center;
 	background-color: #FFF;
-	margin-left: auto;
-	margin-right: auto;
-	border-top: 1px solid #BDBDBD;
+	border-top: 6px solid black;
 	padding: 14px 15px 10px;
-	display: inline-block;
+	height:80px;
 }
 
 .footer a {
 	text-decoration: none;
 	display: inline;
 	float: right;
+	
 }
 .clearfix {
 	overflow:hidden;
@@ -141,6 +146,11 @@ header > img {
 	display: inline;
 	float: right;
 }
+.footer::after {
+	content: "";
+	clear: both;
+}
+
 .socialmedia {
 	width: 50px;
 	height: 50px;
@@ -149,23 +159,8 @@ header > img {
 	display: inline;
 	float: right;
 }
-.footer {
-	text-align: center;
-	background-color: #FFF;
-	margin-left: auto;
-	margin-right: auto;
-	border-top: 1px solid #BDBDBD;
-	padding: 14px 15px 10px;
-	display: inline-block;
-	display: inline;
-	float: right;
-}
 
-.footer a {
-	text-decoration: none;
-	display: inline;
-	float: right;
-}
+
 .url {
 	float: right;
 	display: inline;
@@ -178,14 +173,9 @@ header > img {
 .infoPic {
 	display: inline-block;
 	height: 354px;
+	width: -153px;
 }
 .surround{
 	height:630px;
 	background-color: #807D8D;
-}
-.flexItem{
-	display: flex;
-	align-items: center;
-	flex-shrink: 5px;
-	flex-flow: row nowrap;
 }
