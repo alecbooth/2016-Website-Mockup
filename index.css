@@ -9,10 +9,8 @@ body, html {
 	box-sizing: border-box;
 }
 
-#headerDiv {
+#headerDiv, #headerDivTwo {
 	display: inline-block;
-	padding-top: 2%;
-	border: none;
 }
 
 #homeLogo {
@@ -20,20 +18,32 @@ body, html {
 	padding-left: 15px;
 }
 
-#headerDivTwo {
-	display: inline-block;
-	border: none;
+header {
+	background-color: #0f64f0;
 }
+
+header ul {
+	overflow: hidden;
+	list-style-type:none;
+}
+
+header ul > li {
+	display: inline-block;
+}
+
+header ul > li > a {
+	color: white;
+	text-align: center;
+	text-decoration: none;
+}
+header ul > li > a:hover {
+	background-color: #fbc005;
+}
+
 header > img {
 	margin-bottom: none;
 }
-header {
-	background-color: #0f64f0;
-	width: 100%;
-	display: inline-block;
-	font-family: 'Montserrat', sans-serif;
-	font-size: 13px;
-}
+
 .div{
 	border-width: 3px;
 	border-style: solid;
@@ -85,38 +95,6 @@ header {
 	margin-right: 202px;
 	text-align: center;
 	vertical-align: top;
-}
-li {
-	display: inline;
-	float: right;
-}
-a {
-	display: block;
-	padding: 8px;
-}
-ul {
-	background-color: blue;
-	margin: 0;
-	padding: 0;
-	overflow: hidden;
-	background-color: #0f64f0;
-	top: 0;
-	width: 100%;
-	
-	float:right;
-	list-style-type:none;
-}
-li a {
-	display: block;
-	color: white;
-	text-align: center;
-	padding: 3px 36px;
-	text-decoration: none;
-	margin-top: 245px;
-}
-li a:hover {
-	background-color: #fbc005;
-	color: black;
 }
 .active {
 	background-color: yellow;
