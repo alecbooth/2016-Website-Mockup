@@ -9,16 +9,15 @@ body, html {
 	box-sizing: border-box;
 }
 
-#headerDiv, #headerDivTwo {
-	display: inline-block;
-}
-
 #homeLogo {
 	height: 225px;
 	padding-left: 15px;
 }
 
 header {
+	display: flex;
+	flex-flow: row nowrap;
+	align-items: center;
 	background-color: #0f64f0;
 }
 
@@ -29,6 +28,7 @@ header ul {
 
 header ul > li {
 	display: inline-block;
+	padding: 10px;
 }
 
 header ul > li > a {
@@ -36,8 +36,11 @@ header ul > li > a {
 	text-align: center;
 	text-decoration: none;
 }
-header ul > li > a:hover {
+header ul > li:hover {
 	background-color: #fbc005;
+}
+header ul > li:hover > a {
+	color: black;
 }
 
 header > img {
