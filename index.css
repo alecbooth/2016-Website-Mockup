@@ -79,7 +79,7 @@ header {
 }
 #secondP{
 	display: inline-block;
-	margin-right: 292px;
+	margin-right: 202px;
 	text-align: center;
 	vertical-align: top;
 }
@@ -154,7 +154,8 @@ li a:hover {
 	text-decoration: none;
 }
 .infoPic {
-	margin-left: -29px;
+	margin-left: -147px;
 	display: inline-block;
 	height: 100%;
+	height: 354px;
 }
