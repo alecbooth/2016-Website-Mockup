@@ -158,13 +158,13 @@ header > img {
 	float: right;
 }
 .url {
-	float: left;
+	float: right;
 	display: inline;
 }
 .url1 {
 	float: left;
 	display: inline; 
-	padding-right: 472px;
+	padding-right: 432px;
 }
 .infoPic {
 	margin-left: -147px;
