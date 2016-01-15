@@ -8,20 +8,15 @@ body, html {
 	box-sizing: border-box;
 }
 
-#headerDiv {
-	display: inline-block;
-} 
-
-#headerDivTwo {
-	display: inline-block;
-}
-
 #homeLogo {
 	height: 225px;
 	padding-left: 15px;
 }
 
 header {
+	display: flex;
+	flex-flow: row nowrap;
+	align-items: center;
 	background-color: #0f64f0;
 	height: 229px;
 }
