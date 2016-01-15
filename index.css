@@ -59,12 +59,20 @@ header > img {
 	margin-bottom: none;
 }
 
+
 /*.div{
 	border-top: 10px solid #bfc1ca;
 	text-align: center;
 	vertical-align: center;
 	background-color: #184776;
 }*/
+
+.div{
+	text-align: center;
+	vertical-align: center;
+	background-color: #184776;
+	border-bottom: 10px solid #bfc1ca;
+}
 
 .robotImg {
 	width: 394px;
@@ -105,6 +113,9 @@ header > img {
 	display: inline-block;
 	height: 360px;
 	width: 100%;
+	border-color: pink;
+	height: 356px;
+	width: 500px;
 	margin-top: 0px;
 	background-color: #184776;
 }
@@ -176,6 +187,15 @@ header > img {
 	width: -153px;
 }
 .surround{
-	height:630px;
-	background-color: #807D8D;
+	height:650px;
+	width:1063px;
+	margin-left:100px;
+	background-color: white;
+	border-bottom: 20px solid #bfc1ca;
+}
+.flexItem{
+	display: flex;
+	align-items: center;
+	flex-shrink: 5px;
+	flex-flow: row nowrap;
 }
