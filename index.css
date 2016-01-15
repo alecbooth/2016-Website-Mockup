@@ -2,7 +2,7 @@ body, html {
 	margin: 0;
 	padding: 0;
 	font-family: 'Montserrat', sans-serif;
-	background-color: #bfc1ca;
+	background-color: #bfc1ca;	
 }
 
 *, *:before, *:after {
@@ -19,8 +19,10 @@ header {
 	display: flex;
 	flex-flow: row nowrap;
 	align-items: center;
+	
 	background-color: #0f64f0;
 
+	
 	font-size:17px;
 	
 	border-bottom:20px solid #bfc1ca;
@@ -62,14 +64,6 @@ header ul > li:hover > a {
 header > img {
 	margin-bottom: none;
 }
-
-
-/*.div{
-	border-top: 10px solid #bfc1ca;
-	text-align: center;
-	vertical-align: center;
-	background-color: #184776;
-}*/
 
 .div{
 	text-align: center;
@@ -194,4 +188,11 @@ header > img {
 	align-items: center;
 	flex-shrink: 5px;
 	flex-flow: row nowrap;
+}
+#secondInfoPic {
+	padding-left: 177px;
+}
+#thisDiv {
+	margin-left: 100px;
+	margin-right: 100px;	
 }
