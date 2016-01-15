@@ -1,4 +1,4 @@
-/*#ffcc66 is the light yellow hex #f0af8b is a no-bright orange*/:
+/*#ffcc66 is the light yellow hex #f0af8b is a no-bright orange*/
 body, html {
 	margin: 0;
 	padding: 0;
@@ -21,11 +21,9 @@ body, html {
 header {
 	display: flex;
 	flex-flow: row nowrap;
-<<<<<<< HEAD
+
 	align-items: center;
-=======
 	align-items: flex-end;
->>>>>>> 9cf3d6fce03bca8428bc64c34c3047e1ac969f8d
 	
 	background-color: #0f64f0;
 
@@ -75,8 +73,6 @@ header > img {
 	margin-bottom: none;
 }
 
-<<<<<<< HEAD
-=======
 #headerDivTwo > h2 {
 	margin: 0;
 	padding-top: 15px;
@@ -96,7 +92,6 @@ header > img {
 	background-color: #184776;
 }*/
 
->>>>>>> 9cf3d6fce03bca8428bc64c34c3047e1ac969f8d
 .div{
 	text-align: center;
 	vertical-align: center;
