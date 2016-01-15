@@ -1,3 +1,4 @@
+/*#ffcc66 is the light yellow hex #f0af8b is a no-bright orange*/:
 body, html {
 	margin: 0;
 	padding: 0;
@@ -56,6 +57,7 @@ header ul > li > a {
 	color: white;
 	text-align: center;
 	text-decoration: none;
+	font-family: Titillium Web;
 }
 header ul > li:hover {
 	background-color: #fbc005;
