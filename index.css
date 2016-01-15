@@ -57,10 +57,10 @@ header > img {
 }
 
 .div{
-	/*border-top: 10px solid #bfc1ca;*/
 	text-align: center;
 	vertical-align: center;
 	background-color: #184776;
+	border-bottom: 10px solid #bfc1ca;
 }
 
 .robotImg {
@@ -80,6 +80,7 @@ header > img {
 	width: 641px;
 	display: inline-block;
 	margin-right: 0px;
+	border-bottom:10px solid #bfc1ca;
 }
 .robotDiv{
 	height:321px;
@@ -95,11 +96,12 @@ header > img {
 }
 #slideId {
 	display:inline-block;
+	
 }
 .secondaryDiv{
 	display: inline-block;
 	border-color: pink;
-	height: 360px;
+	height: 356px;
 	width: 500px;
 	margin-top: 0px;
 	border-top: none;
@@ -136,12 +138,14 @@ header > img {
 	text-decoration: none;
 	display: inline;
 	float: right;
+	
 }
 .clearfix {
 	overflow:hidden;
 	display: inline-block;
 	display: inline;
 	float: right;
+	
 }
 .socialmedia {
 	width: 50px;
@@ -180,4 +184,5 @@ header > img {
 .infoPic {
 	display: inline-block;
 	height: 354px;
+	width: -153px;
 }
