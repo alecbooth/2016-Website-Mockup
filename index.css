@@ -18,7 +18,6 @@ header {
 	flex-flow: row nowrap;
 	align-items: center;
 	background-color: #0f64f0;
-	height: 229px;
 }
 
 header ul {
@@ -28,6 +27,7 @@ header ul {
 
 header ul > li {
 	display: inline-block;
+	padding: 10px;
 }
 
 header ul > li > a {
@@ -35,8 +35,11 @@ header ul > li > a {
 	text-align: center;
 	text-decoration: none;
 }
-header ul > li > a:hover {
+header ul > li:hover {
 	background-color: #fbc005;
+}
+header ul > li:hover > a {
+	color: black;
 }
 
 header > img {
