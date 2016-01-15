@@ -19,6 +19,9 @@ header {
 	flex-flow: row nowrap;
 	align-items: center;
 	background-color: #0f64f0;
+	padding-bottom:15px;
+	font-size:17px;
+	border-bottom:10px solid #bfc1ca;
 }
 
 #headerDivTwo {
@@ -62,11 +65,11 @@ header > img {
 }
 .slideDiv{
 	margin: 0;
-	height:321px;
+	height:411px;
 	border-width: 3px;
 	border-style: solid;
 	border-color:black;
-	width: 479px;
+	width: 641px;
 	display: inline-block;
 	margin-right: 0px;
 }
@@ -79,7 +82,8 @@ header > img {
 }	
 .slideImg{
 	margin: 0;
-	height: 315px;
+	height: 405px;
+	width: 635px;
 }
 #slideId {
 	display:inline-block;
