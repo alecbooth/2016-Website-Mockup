@@ -49,6 +49,7 @@ header > img {
 	border-style: solid;
 	text-align: center;
 	vertical-align: center;
+	background-color: #042965;
 }
 .slideDiv{
 	margin: 0;
@@ -89,12 +90,14 @@ header > img {
 	margin-left: 24px;
 	text-align: center;
 	vertical-align: top;
+	color: white;
 }
 #secondP{
 	display: inline-block;
 	margin-right: 202px;
 	text-align: center;
 	vertical-align: top;
+	color: white;
 }
 .active {
 	background-color: yellow;
