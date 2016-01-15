@@ -12,6 +12,7 @@ body, html {
 #homeLogo {
 	height: 225px;
 	padding-left: 15px;
+	padding-top: 15px
 }
 
 header {
