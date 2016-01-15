@@ -21,17 +21,11 @@ body, html {
 header {
 	display: flex;
 	flex-flow: row nowrap;
-<<<<<<< HEAD
 	align-items: center;
-=======
 	align-items: flex-end;
->>>>>>> 9cf3d6fce03bca8428bc64c34c3047e1ac969f8d
 	
-	background-color: #0f64f0;
-
-	
-	font-size:17px;
-	
+	background-color: #0f64f0;	
+	font-size:17px;	
 	border-bottom: 20px solid #bfc1ca;
 	
 	margin-left: 100px;
