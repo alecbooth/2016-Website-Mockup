@@ -21,6 +21,11 @@ header {
 	background-color: #0f64f0;
 }
 
+#headerDivTwo {
+	margin-left: 80px;
+	margin-top:100px;
+}
+
 header ul {
 	overflow: hidden;
 	list-style-type:none;
@@ -28,7 +33,7 @@ header ul {
 
 header ul > li {
 	display: inline-block;
-	padding: 10px;
+	padding: 18px;
 }
 
 header ul > li > a {
