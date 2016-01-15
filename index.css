@@ -56,12 +56,12 @@ header > img {
 	margin-bottom: none;
 }
 
-.div{
-	/*border-top: 10px solid #bfc1ca;*/
+/*.div{
+	border-top: 10px solid #bfc1ca;
 	text-align: center;
 	vertical-align: center;
 	background-color: #184776;
-}
+}*/
 
 .robotImg {
 	width: 394px;
@@ -98,12 +98,10 @@ header > img {
 }
 .secondaryDiv{
 	display: inline-block;
-	border-color: pink;
 	height: 360px;
-	width: 500px;
+	width: 100%;
 	margin-top: 0px;
-	border-top: none;
-	border-bottom: none;
+	background-color: #184776;
 }
 #p{
 	display: inline-block;
@@ -111,10 +109,10 @@ header > img {
 	text-align: center;
 	vertical-align: top;
 	color: white;
+	padding-left: 88px;
 }
 #secondP{
 	display: inline-block;
-	margin-right: 202px;
 	text-align: center;
 	vertical-align: top;
 	color: white;
@@ -184,4 +182,10 @@ header > img {
 .surround{
 	height:630px;
 	background-color: #807D8D;
+}
+.flexItem{
+	display: flex;
+	align-items: center;
+	flex-shrink: 5px;
+	flex-flow: row nowrap;
 }
