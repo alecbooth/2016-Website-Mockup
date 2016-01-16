@@ -8,7 +8,6 @@ body, html {
 		linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
 		url("header_bg.jpg");
 
-	
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-attachment: fixed;
@@ -31,7 +30,7 @@ header {
 	
 	background-color: #0f64f0;
 	
-	font-size:17px;
+	font-size: 17px;
 	
 	margin-left: 100px;
 	margin-right: 100px;
@@ -90,6 +89,12 @@ header > img {
 	font-size: 1.2em;
 }
 
+.navbar {
+	border-bottom: 2px solid white;
+	padding-left: 5px;
+	margin-left: 35px;
+}
+
 .div{
 	text-align: center;
 	vertical-align: center;
@@ -103,10 +108,14 @@ header > img {
 	margin-bottom: 10px;
 }
 .slideDiv{
-	margin-top: 25px;
-	margin-left: 45px;
-	height:594px;
-	width: 967px;
+	padding: 25px;
+
+	height:669px;
+	width: 1063px;
+	
+	border-left: 25px solid gray;
+	border-right: 25px solid gray;
+	border-bottom: 25px solid #0f64f0;
 }
 .robotDiv{
 	height:321px;
@@ -141,10 +150,10 @@ header > img {
 	padding: 10px 50px;
 }
 #p {
-	text-align: left;
+	text-align: center;
 }
 #secondP {
-	text-align: right;
+	text-align: center;
 }
 
 .active {
@@ -154,7 +163,6 @@ header > img {
 .footer {
 	text-align: center;
 	background-color: #FFF;
-	border-top: 6px solid black;
 	padding: 14px 15px 10px;
 	height:80px;
 	margin-top: 20px;
@@ -207,7 +215,7 @@ header > img {
 
 .inBetween {
 	background-color: #0f64f0;
-	margin: 24px 100px;
+	margin: 50px 100px;
 	padding: 75px;	
 	display: flex;
 	align-items:center;
@@ -255,6 +263,21 @@ header > img {
 	font-family: "Oswald", sans-serif;
 	letter-spacing: 5px;
 }
+
+#thing1 {
+	padding: 30px 0px 5px;
+	border-bottom: 2px solid white;
+	margin-left: 150px;
+	margin-right: 150px;
+}
+
+#thing2 {
+	padding: 30px 0px 5px 10px;
+	border-bottom: 2px solid white;
+	margin-left: 150px;
+	margin-right: 150px;
+}
+
 .secondUpper{
 	font-size: 40px;
 }
