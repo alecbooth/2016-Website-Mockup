@@ -71,11 +71,16 @@ header > img {
 	padding-top: 15px;
 	
 	font-size: 64px;
-	letter-spacing: 5px;
+	font-family: 'Oswald', sans-serif;
+	letter-spacing: 18px;
 	
 	text-align: center;
 	
 	color: white;
+}
+
+.upper {
+	font-size: 1.2em;
 }
 
 .div{
@@ -118,15 +123,18 @@ header > img {
 	width: 100%;
 	margin: 0px;
 	background-color: #184776;
+	display: flex;
+	
+	justify-content: center; 
+	align-items: center;
 }
 #p{
 	display: inline-block;
-	margin-left: 24px;
 	text-align: center;
 	vertical-align: top;
 	color: white;
-	padding-left: 32px;
 	font-size: 12px;
+	max-width: 50%;
 }
 #secondP{
 	display: inline-block;
@@ -136,7 +144,6 @@ header > img {
 	font-size: 12px;
 	height: 100%;
 	width: 98%;
-	padding-top: 100px;
 }
 .active {
 	background-color: yellow;
@@ -203,7 +210,6 @@ header > img {
 	margin-right: 100px;
 	margin-top: 24px;
 }
-
 #secondInfoPic {
 	display: inline-block;
 	margin-bottom:20px;
@@ -214,9 +220,9 @@ header > img {
 	margin-top: 4px;
 }
 .tertiaryDiv {
-	display: inline-block;
-	vertical-align: top;
+	width: 527.5;
 	height: 100%;
-	width: 527.5px;
+	display: flex;
 	text-align: center;
+	align-items: center;
 }
