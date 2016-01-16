@@ -125,13 +125,18 @@ header > img {
 	text-align: center;
 	vertical-align: top;
 	color: white;
-	padding-left: 74px;
+	padding-left: 32px;
+	font-size: 12px;
 }
 #secondP{
 	display: inline-block;
 	text-align: center;
 	vertical-align: top;
 	color: white;
+	font-size: 12px;
+	height: 100%;
+	width: 98%;
+	padding-top: 100px;
 }
 .active {
 	background-color: yellow;
@@ -198,9 +203,16 @@ header > img {
 }
 
 #secondInfoPic {
-	padding-left: 177px;
+	display: inline-block;
 }
 #thisDiv {
 	margin-left: 100px;
 	margin-right: 100px;	
+}
+.tertiaryDiv {
+	display: inline-block;
+	vertical-align: top;
+	height: 100%;
+	width: 527.5px;
+	text-align: center;
 }
