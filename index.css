@@ -4,7 +4,11 @@ body, html {
 	padding: 0;
 	font-family: 'Montserrat', sans-serif;
 	
-	background-image: url("header_bg.jpg");
+	background-image:
+		linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
+		url("header_bg.jpg");
+
+	
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-attachment: fixed;
@@ -137,6 +141,7 @@ header > img {
 	max-width: 75%;
 	padding-left: 125px;
 }
+
 .active {
 	background-color: yellow;
 }
@@ -196,8 +201,6 @@ header > img {
 }
 
 .inBetween {
-	/*width:1063px;
-	height: 500px;*/
 	background-color: #0f64f0;
 	margin: 24px 100px;
 	padding: 75px;	
@@ -243,7 +246,7 @@ header > img {
 	text-align: center;
 }
 .bodyHeader{
-	color: black;
+	color: white;
 	text-align: center;
 	font-family: "Oswald", sans-serif;
 	letter-spacing: 5px;
