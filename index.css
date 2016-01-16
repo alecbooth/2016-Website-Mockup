@@ -125,25 +125,13 @@ header > img {
 	background-color: #184776;
 	display: flex;
 	
-	justify-content: center; 
+	justify-content: space-between;
 	align-items: center;
 }
-#p{
-	display: inline-block;
+.tertiaryDiv > p {
 	text-align: center;
-	vertical-align: top;
 	color: white;
 	font-size: 12px;
-	max-width: 50%;
-}
-#secondP{
-	display: inline-block;
-	text-align: center;
-	vertical-align: top;
-	color: white;
-	font-size: 12px;
-	height: 100%;
-	width: 98%;
 }
 .active {
 	background-color: yellow;
@@ -212,7 +200,7 @@ header > img {
 }
 #secondInfoPic {
 	display: inline-block;
-	margin-bottom:20px;
+	padding-left: 4px;
 }
 #thisDiv {
 	margin-left: 100px;
@@ -220,9 +208,10 @@ header > img {
 	margin-top: 4px;
 }
 .tertiaryDiv {
-	width: 527.5;
+	width: 527.5px;
 	height: 100%;
-	display: flex;
+}
+.bodyHeader{
+	color: white;
 	text-align: center;
-	align-items: center;
 }
