@@ -71,11 +71,16 @@ header > img {
 	padding-top: 15px;
 	
 	font-size: 64px;
-	letter-spacing: 5px;
+	font-family: 'Oswald', sans-serif;
+	letter-spacing: 18px;
 	
 	text-align: center;
 	
 	color: white;
+}
+
+.upper {
+	font-size: 1.2em;
 }
 
 .div{
@@ -113,13 +118,14 @@ header > img {
 	
 }
 .secondaryDiv{
-	display: inline-block;
 	height: 360px;
 	width: 100%;
 	margin: 0px;
 	background-color: #184776;
 	display: flex;
-	align-items: flex-center;
+	
+	justify-content: center; 
+	align-items: center;
 }
 #p{
 	display: inline-block;
@@ -127,6 +133,7 @@ header > img {
 	vertical-align: top;
 	color: white;
 	font-size: 12px;
+	max-width: 50%;
 }
 #secondP{
 	display: inline-block;
@@ -136,7 +143,6 @@ header > img {
 	font-size: 12px;
 	height: 100%;
 	width: 98%;
-	padding-top: 100px;
 }
 .active {
 	background-color: yellow;
@@ -196,9 +202,8 @@ header > img {
 }
 
 .inBetween {
-	width:1063px;
-	height: 200px;
-	
+	width: 1063px;
+	height: 500px;
 	margin: 100px;
 }
 
@@ -210,9 +215,7 @@ header > img {
 	margin-right: 100px;	
 }
 .tertiaryDiv {
-	display: inline-block;
-	vertical-align: top;
-	height: 100%;
-	width: 527.5px;
+	display: flex;
 	text-align: center;
+	align-items: center;
 }
