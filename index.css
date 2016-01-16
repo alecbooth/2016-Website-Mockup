@@ -29,7 +29,8 @@ header {
 	flex-flow: row nowrap;
 	align-items: flex-end;
 	
-	background-color: #0f64f0;	
+	background-color: #0f64f0;
+	
 	font-size:17px;
 	
 	margin-left: 100px;
@@ -231,8 +232,7 @@ header > img {
 
 .FIRST {
 	height: 100px;
-	width: 100px;
-	margin-top: 40px;
+	margin-top: 15px;
 }
 
 #secondInfoPic {
