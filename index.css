@@ -114,7 +114,7 @@ header > img {
 }
 .secondaryDiv{
 	display: inline-block;
-	height: 360px;
+	height: 354px;
 	width: 100%;
 	margin: 0px;
 	background-color: #184776;
@@ -197,17 +197,21 @@ header > img {
 
 .inBetween {
 	width:1063px;
-	height: 200px;
-	
-	margin: 100px;
+	height: 500px;
+	background-color: #0f64f0;
+	margin-left: 100px;
+	margin-right: 100px;
+	margin-top: 24px;
 }
 
 #secondInfoPic {
 	display: inline-block;
+	margin-bottom:20px;
 }
 #thisDiv {
 	margin-left: 100px;
-	margin-right: 100px;	
+	margin-right: 100px;
+	margin-top: 4px;
 }
 .tertiaryDiv {
 	display: inline-block;
