@@ -13,9 +13,7 @@ body, html {
 #homeLogo {
 	height: 170px;
 	padding-left: 15px;
-	padding-top: 15px;
-	margin-left: 5px;
-	margin-bottom: 10px;
+	align-self: center;
 }
 
 header {
@@ -145,6 +143,7 @@ header > img {
 	border-top: 6px solid black;
 	padding: 14px 15px 10px;
 	height:80px;
+	margin-top: 20px;
 }
 
 .footer a {
@@ -201,20 +200,24 @@ header > img {
 	margin-top: 24px;
 	display: flex;
 	align-items:center;
-	padding-bottom: 75px;
+	padding-bottom: 2px;
 }
 
 .videoLinkDiv {
-	height: 300px;
-	margin-right: 250px;
-	margin-left: 250px;
-	width: 563px;
+	height: 348px;
+	margin-right: 100px;
+	margin-left: 100px;
+
+	border-top: 2px solid white;
+	border-bottom: 2px solid white;
+	
 	text-align: center;
 	color: white;
 }
 
 #linkColor {
 	color: white;
+	text-decoration: none;
 }
 
 .FIRST {
