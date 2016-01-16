@@ -96,7 +96,7 @@ header > img {
 	margin-bottom: 10px;
 }
 .slideDiv{
-	margin-top: 45px;
+	margin-top: 25px;
 	margin-left: 45px;
 	height:594px;
 	width: 967px;
@@ -192,7 +192,7 @@ header > img {
 	height: 354px;
 }
 .surround{
-	height:680px;
+	height:644px;
 	width:1063px;
 	
 	margin: 100px;
@@ -209,7 +209,30 @@ header > img {
 	margin-left: 100px;
 	margin-right: 100px;
 	margin-top: 24px;
+	display: flex;
+	align-items:center;
+	padding-bottom: 75px;
 }
+
+.videoLinkDiv {
+	height: 300px;
+	margin-right: 250px;
+	margin-left: 250px;
+	width: 563px;
+	text-align: center;
+	color: white;
+}
+
+#linkColor {
+	color: white;
+}
+
+.FIRST {
+	height: 100px;
+	width: 100px;
+	margin-top: 40px;
+}
+
 #secondInfoPic {
 	display: inline-block;
 	margin-bottom:20px;
