@@ -31,12 +31,9 @@ header {
 	background-color: #0f64f0;
 	
 	font-size: 17px;
-	
 	margin-left: 100px;
 	margin-right: 100px;
 	margin-top: 20px;
-	
-	padding-bottom:10px;
 }
 
 header p, header h1, header h2 {
@@ -108,14 +105,15 @@ header > img {
 	margin-bottom: 10px;
 }
 .slideDiv{
-	padding: 25px;
-
 	height:669px;
 	width: 1063px;
 	
-	border-left: 25px solid gray;
-	border-right: 25px solid gray;
-	border-bottom: 25px solid #0f64f0;
+	border-left: 25px solid white;
+	border-right: 25px solid white;
+	border-bottom: 25px solid white;
+	border-top: 25px solid #0f64f0;
+	
+	z-index: 2;
 }
 .robotDiv{
 	height:321px;
@@ -126,8 +124,8 @@ header > img {
 }	
 .slideImg{
 	margin: 0;
-	height: 594px;
-	width: 967px;
+	height:619px;
+	width: 1013px;
 }
 #slideId {
 	display:inline-block;
