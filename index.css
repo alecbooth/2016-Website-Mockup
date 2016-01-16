@@ -136,11 +136,15 @@ header > img {
 	align-items: center;
 }
 .tertiaryDiv > p {
-	text-align: center;
 	color: white;
 	font-size: 18px;
-	max-width: 75%;
-	padding-left: 125px;
+	padding: 10px 50px;
+}
+#p {
+	text-align: left;
+}
+#secondP {
+	text-align: right;
 }
 
 .active {
