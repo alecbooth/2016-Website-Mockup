@@ -185,7 +185,7 @@ header > img {
 	opacity: 1;	
 }
 .socialmedia:hover{
-	opacity: .65;
+	opacity: .4;
 }
 
 .url {
@@ -258,8 +258,9 @@ header > img {
 .bodyHeader{
 	color: white;
 	text-align: center;
-	font-family: "Oswald", sans-serif;
-	letter-spacing: 5px;
+	font-family: "Abel", sans-serif;
+	letter-spacing: 4.5px;
+	font-size: 34px;
 }
 
 #thing1 {
