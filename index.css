@@ -3,7 +3,14 @@ body, html {
 	margin: 0;
 	padding: 0;
 	font-family: 'Montserrat', sans-serif;
-	background-color: #bfc1ca;
+	
+	background-image:
+		linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
+		url("header_bg.jpg");
+
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
 }
 
 *, *:before, *:after {
@@ -13,9 +20,7 @@ body, html {
 #homeLogo {
 	height: 170px;
 	padding-left: 15px;
-	padding-top: 15px;
-	margin-left: 5px;
-	margin-bottom: 10px;
+	align-self: center;
 }
 
 header {
@@ -24,16 +29,11 @@ header {
 	align-items: flex-end;
 	
 	background-color: #0f64f0;
-
-	font-size:17px;
 	
-	border-bottom: 20px solid #bfc1ca;
-	
+	font-size: 17px;
 	margin-left: 100px;
 	margin-right: 100px;
 	margin-top: 20px;
-	
-	padding-bottom:10px;
 }
 
 header p, header h1, header h2 {
@@ -57,7 +57,6 @@ header ul > li > a {
 	color: white;
 	text-align: center;
 	text-decoration: none;
-	font-family: Titillium Web;
 }
 header ul > li:hover {
 	background-color: #fbc005;
@@ -75,19 +74,23 @@ header > img {
 	padding-top: 15px;
 	
 	font-size: 64px;
-	letter-spacing: 5px;
+	font-family: 'Abel', sans-serif;
+	letter-spacing: 12px;
 	
 	text-align: center;
 	
 	color: white;
 }
 
-/*.div{
-	border-top: 10px solid #bfc1ca;
-	text-align: center;
-	vertical-align: center;
-	background-color: #184776;
-}*/
+.upper {
+	font-size: 1.2em;
+}
+
+.navbar {
+	border-bottom: 2px solid white;
+	padding-left: 5px;
+	margin-left: 35px;
+}
 
 .div{
 	text-align: center;
@@ -102,9 +105,15 @@ header > img {
 	margin-bottom: 10px;
 }
 .slideDiv{
-	margin-top: 15px;
-	margin-left: 45px;
-	margin-bottom: 15px;
+	height:669px;
+	width: 1063px;
+	
+	border-left: 25px solid white;
+	border-right: 25px solid white;
+	border-bottom: 25px solid white;
+	border-top: 25px solid #0f64f0;
+	
+	z-index: 2;
 }
 .robotDiv{
 	height:321px;
@@ -115,8 +124,8 @@ header > img {
 }	
 .slideImg{
 	margin: 0;
-	height: 594px;
-	width: 967px;
+	height:619px;
+	width: 1013px;
 }
 #slideId {
 	display:inline-block;
@@ -124,25 +133,27 @@ header > img {
 }
 .secondaryDiv{
 	display: inline-block;
-	height: 360px;
+	height: 354px;
 	width: 100%;
 	margin: 0px;
-	background-color: #184776;
+	background-color: none;
+	display: flex;
+	
+	justify-content: space-between;
+	align-items: center;
 }
-#p{
-	display: inline-block;
-	margin-left: 24px;
-	text-align: center;
-	vertical-align: top;
+.tertiaryDiv > p {
 	color: white;
-	padding-left: 74px;
+	font-size: 18px;
+	padding: 10px 50px;
 }
-#secondP{
-	display: inline-block;
+#p {
 	text-align: center;
-	vertical-align: top;
-	color: white;
 }
+#secondP {
+	text-align: center;
+}
+
 .active {
 	background-color: yellow;
 }
@@ -150,20 +161,13 @@ header > img {
 .footer {
 	text-align: center;
 	background-color: #FFF;
-	border-top: 6px solid black;
 	padding: 14px 15px 10px;
 	height:80px;
+	margin-top: 20px;
 }
 
 .footer a {
 	text-decoration: none;
-	display: inline;
-	float: right;
-	
-}
-.clearfix {
-	overflow:hidden;
-	display: inline-block;
 	display: inline;
 	float: right;
 }
@@ -178,15 +182,13 @@ header > img {
 	border-radius: 10px;
 	margin: 0 5px;
 	display: inline;
-	float: right;
 	opacity: 1;	
 }
 .socialmedia:hover{
-	opacity: .65;
+	opacity: .4;
 }
 
 .url {
-	float: right;
 	display: inline;
 }
 .url1 {
@@ -197,19 +199,80 @@ header > img {
 .infoPic {
 	display: inline-block;
 	height: 354px;
-	width: -153px;
 }
 .surround{
-	height:650px;
+	height:644px;
 	width:1063px;
 	
-	margin: 10px 100px;
+	margin: 100px;
+	margin-top: 0;
+	margin-bottom: 0;
 	
 	background-color: white;
 }
-.flexItem{
+
+.inBetween {
+	background-color: #0f64f0;
+	margin: 50px 100px;
+	padding: 75px;	
 	display: flex;
-	align-items: center;
-	flex-shrink: 5px;
-	flex-flow: row nowrap;
+	align-items:center;
+}
+
+.videoLinkDiv {
+	height: 348px;
+	margin-right: 98px;
+	margin-left: 98px;
+
+	border-top: 2px solid #fbc005;
+	border-bottom: 2px solid #fbc005;
+	
+	text-align: center;
+	color: white;
+}
+
+#linkColor {
+	color: white;
+	text-decoration: none;
+}
+
+.FIRST {
+	height: 100px;
+	margin-top: 15px;
+}
+
+#secondInfoPic {
+	display: inline-block;
+	padding-left: 4px;
+}
+#thisDiv {
+	margin-left: 100px;
+	margin-right: 100px;
+	margin-top: 4px;
+}
+.tertiaryDiv {
+	width: 527.5px;
+	height: 100%;
+	text-align: center;
+}
+.bodyHeader{
+	color: white;
+	text-align: center;
+	font-family: "Abel", sans-serif;
+	letter-spacing: 4.5px;
+	font-size: 34px;
+}
+
+#thing1 {
+	padding: 30px 0px 5px;
+	border-bottom: 2px solid #fbc005;
+	margin-left: 150px;
+	margin-right: 150px;
+}
+
+#thing2 {
+	padding: 30px 0px 5px 10px;
+	border-bottom: 2px solid #fbc005;
+	margin-left: 150px;
+	margin-right: 150px;
 }
