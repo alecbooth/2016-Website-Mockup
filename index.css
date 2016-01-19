@@ -276,3 +276,43 @@ header > img {
 	margin-left: 150px;
 	margin-right: 150px;
 }
+table {
+	/*border: 4px solid #0f64f0;*/
+	margin-left: 100px;
+	margin-right: 100px;
+	width: 1063px;
+}
+tr {
+	height: 200px;
+	
+	font-family: "Abel", sans-serif;
+	color: white;
+}
+#topRow{
+	border-bottom: 2px solid #fbc005;
+}
+td {
+	text-align: center;
+	vertical-align: top;
+}
+#programming{
+	margin-bottom: 2px solid #fbc005;
+	margin-left: 2px solid #fbc005;
+	margin-right:2px solid #fbc005;
+}
+#electrical{
+	margin-right: 2px solid #fbc005;
+	margin-top:2px solid #fbc005;
+}
+#pr{
+	margin-left: 2px solid #fbc005;
+	margin-top: 2px solid #fbc005;
+}
+td > h1 {
+	border-bottom: 2px solid #fbc005;
+	margin-left: 40px;
+	margin-right: 40px;
+}
+.blueDivision {
+	background-color: #0f64f0;
+}
