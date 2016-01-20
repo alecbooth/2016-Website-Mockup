@@ -1,9 +1,6 @@
 .titleOfPage {
-	color: white;
-	text-align: center;
-	font-family: "Abel", sans-serif;
-	letter-spacing: 4.5px;
-	font-size: 40px;
+	margin-left: 50px;
+	margin-right: 50px;
 }
 
 .teamPic {
@@ -38,7 +35,20 @@
 
 html, body {
 	background: #FBC005;
-	border-left: 15px solid white;
-	border-right: 15px solid white;
-	margin-left: 25px;
+	
+}
+
+.titleText {
+	color: white;
+	text-align: center;
+	font-family: "Abel", sans-serif;
+	letter-spacing: 4.5px;
+	font-size: 40px;
+}
+.firstblock {
+	background-color: #0f64f0;
+	align-items: center;
+	height: 279px;
+	margin-left: 15px;
+	margin-right: 15px;
 }
