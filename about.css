@@ -12,6 +12,11 @@
 	float: left;
 }
 
+.teamPic::after {
+	content: "";
+	clear: both;
+}
+
 .subTitle {
 	color: black;
 	text-align: left;
@@ -57,6 +62,42 @@ html, body {
 	font-size: 40px;
 	padding-top: 15px;
 }
+.leaderpic {
+	width: 25%;
+	float: left;	
+}
+.leadertext {
+	font-size: 15px;
+	color: black;
+}
+
+.woodie {
+	
+	border-left: 2px solid #fbc005;
+}
+.sheri {
+	border-left: 2px solid #fbc005;
+}
+.robert {
+	border-left: 2px solid #fbc005;
+}
+.footer1 {
+	text-align: center;
+	background-color: #FFF;
+	padding: 14px 15px 10px;
+	height:80px;
+	margin-top: 500px;
+}
+
+.footer1 a {
+	text-decoration: none;
+	display: inline;
+	float: right;
+}
+.footer1::after {
+	content: "";
+	clear: both;
+
 
 .multiParagraph {
 	color: black;
@@ -81,9 +122,6 @@ html, body {
 	padding-bottom: 15px;
 }
 
-.missionSurround {
-	display: inline-block;
-}
 
 .whoWeAre {
 	padding-top: 150px;
