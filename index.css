@@ -284,60 +284,6 @@ header > img {
 	margin-left: 150px;
 	margin-right: 150px;
 }
-table {
-	margin-left: 100px;
-	margin-right: 100px;
-	width: 1063px;
-	margin-top: 25px;
-}
-tr {
-	height: 200px;
-	
-	font-family: "Abel", sans-serif;
-	color: white;
-}
-td {
-	text-align: center;
-	vertical-align: top;
-	height: 98px;
-	width: 353px;
-}
-#programming{
-	border: 2px solid #fbc005;
-}
-#electrical{
-	border: 2px solid #fbc005;
-}
-#pr{
-	border: 2px solid #fbc005;
-}
-td > h1 {
-	border-bottom: 2px solid #fbc005;
-	margin-left: 40px;
-	margin-right: 40px;
-}
-.blueDivision {
-	background-color: #0f64f0;
-}
-.FIRST {
-	
-}
-.titleOfPage {
-	color: white;
-	text-align: left;
-	font-family: "Abel", sans-serif;
-	letter-spacing: 4.5px;
-	font-size: 40px;
-}
-
-#itHeader{
-	margin-right: 200px;
-	margin-left: 200px;
-}
-#constructionHeader{
-	margin-left: 71px;
-	margin-right: 71px;
-}
 
 #divisions {
 	margin: 50px;
@@ -346,10 +292,13 @@ td > h1 {
 
 .division-row {
 	display: flex;
-	
 	height: 300px;
 	
 	justify-content: center;
+}
+
+#topRow {
+	border-bottom: 4px solid #fbc005;
 }
 
 .division-row > div {
@@ -357,20 +306,31 @@ td > h1 {
 	flex-basis: 0;
 }
 
+.divisionLeft{
+	border-right: 2px solid #fbc005;
+}
+
+.divisionCenter{
+	border-right: 2px solid #fbc005;
+	border-left: 2px solid #fbc005;
+}
+
+.divisionRight{
+	border-left: 2px solid #fbc005;
+}
+
 .division-row > div > h1 {
-	border-bottom: 2px solid #fbc005;
+	border-bottom: 2px solid white;
 	margin-left: 40px;
 	margin-right: 40px;
 }
- 
-
 
 .divisionP{
 	text-align: center;
 	vertical-align: top;
 	color: white;
-	font-size: 14px;
+	font-size: 17px;
 	font-family: "Montserrat", sans-serif;
-	padding-left: 15px;
-	padding-right: 15px;
+	padding-left: 30px;
+	padding-right: 30px;
 }
