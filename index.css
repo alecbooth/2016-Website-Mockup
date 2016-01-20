@@ -11,6 +11,8 @@ body, html {
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-attachment: fixed;
+	
+	line-height: 2em;
 }
 
 *, *:before, *:after {
@@ -34,6 +36,8 @@ header {
 	margin-left: 100px;
 	margin-right: 100px;
 	margin-top: 20px;
+	
+	line-height: 1em;
 }
 
 header p, header h1, header h2 {
@@ -80,6 +84,7 @@ header > img {
 #headerDivTwo > h2 {
 	margin: 0;
 	padding-top: 15px;
+	padding-bottom: 50px;
 	
 	font-size: 64px;
 	font-family: 'Abel', sans-serif;
@@ -88,6 +93,10 @@ header > img {
 	text-align: center;
 	
 	color: white;
+}
+
+#headerDivTwo {
+	margin-top: 25px;
 }
 
 .upper {
@@ -299,12 +308,10 @@ header > img {
 
 #divisions {
 	margin: 0px 100px 50px 100px;
-	height: 600px;
 }
 
 .division-row {
 	display: flex;
-	height: 300px;
 	
 	justify-content: center;
 }
@@ -363,4 +370,16 @@ header > img {
 .leftLogo{
 	color: white;
 	display: inline-table;
+}
+
+.videoLinkDiv2 {
+	border-top: 2px solid #fbc005;
+	border-bottom: 2px solid #fbc005;
+	
+	text-align: center;
+	color: white;
+}
+
+.gameContent {
+
 }
