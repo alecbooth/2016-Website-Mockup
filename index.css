@@ -1,4 +1,4 @@
-/*#ffcc66 is the light yellow hex #f0af8b is a no-bright orange*/
+/*#ffcc66 is the light yellow hex #0f64f0 is the blue*/
 body, html {
 	margin: 0;
 	padding: 0;
@@ -193,7 +193,7 @@ header > img {
 	opacity: 1;	
 }
 .socialmedia:hover{
-	opacity: .4;
+	opacity: .55;
 }
 
 .url {
@@ -221,7 +221,7 @@ header > img {
 
 .inBetween {
 	background-color: #0f64f0;
-	margin:  50px 100px 25px 100px;
+	margin:  50px 100px 50px 100px;
 	padding: 75px;	
 	display: flex;
 	align-items:center;
@@ -284,6 +284,21 @@ header > img {
 	margin-left: 150px;
 	margin-right: 150px;
 }
+
+.blueDivision {
+	background-color: rgba(15, 100, 240, .7);
+}
+.FIRST {
+	
+}
+.titleOfPage {
+	color: white;
+	text-align: left;
+	font-family: "Abel", sans-serif;
+	letter-spacing: 4.5px;
+	font-size: 40px;
+}
+
 
 #divisions {
 	margin: 50px;
