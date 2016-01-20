@@ -355,5 +355,10 @@ header > img {
 .stempic{
 	border-radius: 100%;
 	border: 4px solid rgba(150, 150, 150, 1);
-	margin: 25;
+	margin: 70px;
+	margin-bottom: 0px;
+}
+.leftLogo{
+	color: white;
+	display: inline-table;
 }
