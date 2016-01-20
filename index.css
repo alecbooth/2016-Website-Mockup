@@ -45,23 +45,23 @@ header ul {
 	list-style-type:none;
 }
 
-header ul > li {
+header ul > a {
 	display: inline-block;
 	padding: 18px;
 	margin: 6px;
-	
+	text-decoration: none;
 	margin-top: 0;
 }
 
-header ul > li > a {
+header ul > a > li {
 	color: white;
 	text-align: center;
 	text-decoration: none;
 }
-header ul > li:hover {
+header ul > a:hover {
 	background-color: #fbc005;
 }
-header ul > li:hover > a {
+header ul > a:hover > li {
 	color: black;
 	border-bottom-color: black;
 }
@@ -220,7 +220,7 @@ header > img {
 
 .inBetween {
 	background-color: #0f64f0;
-	margin:  50px 100px 50px 100px;
+	margin: 75px 100px 50px 100px;
 	padding: 75px;	
 	display: flex;
 	align-items:center;
@@ -299,7 +299,7 @@ header > img {
 
 
 #divisions {
-	margin: 50px 100px 50px 100px;
+	margin: 75px 100px 50px 100px;
 	height: 600px;
 }
 
