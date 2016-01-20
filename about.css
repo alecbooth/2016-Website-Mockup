@@ -12,6 +12,11 @@
 	float: left;
 }
 
+.teamPic::after {
+	content: "";
+	clear: both;
+}
+
 .subTitle {
 	color: black;
 	text-align: left;
