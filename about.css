@@ -1,0 +1,18 @@
+.teamPic {
+	height: 400px;
+}
+
+.underline {
+	border-bottom: 4px solid #fbc005;
+	padding-left: 8px;
+	padding-right: 8px;
+	padding-bottom: 5px;
+}
+.titleOfPage {
+	margin-left: 50px;
+	margin-right: 50px;
+}
+html, body {
+	background: #FBC005;
+	
+}
