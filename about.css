@@ -9,7 +9,9 @@
 	margin-left: 25px;
 	margin-right: 25px;
 	margin-bottom: 15px;
+	float: left;
 }
+
 .subTitle {
 	color: black;
 	text-align: left;
@@ -22,11 +24,12 @@
 	color: black;
 	text-align: left;
 	font-family: 'Montserrat', sans-serif;
-	font-size: 15px;
+	font-size: 17px;
 	margin-left: 25px;
 	margin-right: 25px;
 	margin-bottom: 15px;
 	letter-spacing: 0px;
+	padding-bottom: 15px;
 }
 
 .underline {
@@ -45,12 +48,14 @@
 html, body {
 	background: #FBC005;
 }
+
 .titleText {
 	color: black;
 	text-align: center;
 	font-family: "Abel", sans-serif;
 	letter-spacing: 4.5px;
 	font-size: 40px;
+	padding-top: 15px;
 }
 .leaderpic {
 	width: 25%;
@@ -87,4 +92,35 @@ html, body {
 .footer1::after {
 	content: "";
 	clear: both;
+
+
+.multiParagraph {
+	color: black;
+	text-align: left;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 17px;
+	margin-left: 25px;
+	margin-right: 25px;
+	margin-bottom: 15px;
+	letter-spacing: 0px;
+}
+
+.Mission {
+	color: black;
+	text-align: left;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 17px;
+	margin-left: 25px;
+	margin-right: 25px;
+	margin-bottom: 15px;
+	letter-spacing: 0px;
+	padding-bottom: 15px;
+}
+
+.missionSurround {
+	display: inline-block;
+}
+
+.whoWeAre {
+	padding-top: 150px;
 }
