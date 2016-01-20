@@ -78,6 +78,7 @@ html, body {
 .robert {
 	border-left: 2px solid #fbc005;
 }
+
 .footer1 {
 	text-align: center;
 	background-color: #FFF;
@@ -129,6 +130,8 @@ html, body {
 	margin-right: 100px;
 	background-color: white;
 	height: 600px;
+	margin-bottom: 50px;
+
 }
 
 .missionDiv {
