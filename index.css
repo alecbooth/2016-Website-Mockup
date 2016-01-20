@@ -352,3 +352,8 @@ header > img {
 #stronghold{
 	height: 110px;
 }
+.stempic{
+	border-radius: 100%;
+	border: 4px solid rgba(150, 150, 150, 1);
+	margin: 25;
+}
