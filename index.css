@@ -30,7 +30,7 @@ header {
 	flex-flow: row nowrap;
 	align-items: flex-end;
 	
-	background-color: #0f64f0;
+	background-color: #0A46A8;
 	
 	font-size: 17px;
 	margin-left: 100px;
@@ -129,7 +129,7 @@ header > img {
 	border-left: 25px solid white;
 	border-right: 25px solid white;
 	border-bottom: 25px solid white;
-	border-top: 25px solid #0f64f0;
+	border-top: 25px solid #0A46A8;
 	
 	z-index: 2;
 }
@@ -231,7 +231,7 @@ header > img {
 }
 
 .inBetween {
-	background-color: #0f64f0;
+	background-color: #0A46A8;
 	margin: 75px 100px 50px 100px;
 	padding: 75px;	
 	display: flex;
