@@ -38,4 +38,7 @@
 
 html, body {
 	background: #FBC005;
+	border-left: 15px solid white;
+	border-right: 15px solid white;
+	margin-left: 25px;
 }
