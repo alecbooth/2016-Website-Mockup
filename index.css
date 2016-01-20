@@ -319,6 +319,17 @@ td > h1 {
 .blueDivision {
 	background-color: #0f64f0;
 }
+.FIRST {
+	
+}
+.titleOfPage {
+	color: white;
+	text-align: left;
+	font-family: "Abel", sans-serif;
+	letter-spacing: 4.5px;
+	font-size: 40px;
+}
+
 #itHeader{
 	margin-right: 200px;
 	margin-left: 200px;
@@ -330,11 +341,13 @@ td > h1 {
 
 #divisions {
 	margin: 50px;
+	height: 600px;
 }
 
 .division-row {
 	display: flex;
-
+	
+	height: 300px;
 	
 	justify-content: center;
 }
@@ -349,3 +362,16 @@ td > h1 {
 	margin-left: 40px;
 	margin-right: 40px;
 }
+<<<<<<< HEAD
+
+=======
+.divisionP{
+	text-align: center;
+	vertical-align: top;
+	color: white;
+	font-size: 14px;
+	font-family: "Montserrat", sans-serif;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+>>>>>>> 8efd2027dc27b70f93bd8705e48029801db8a16f
