@@ -335,7 +335,8 @@ td > h1 {
 
 .division-row {
 	display: flex;
-
+	
+	height: 300px;
 	
 	justify-content: center;
 }
@@ -349,4 +350,13 @@ td > h1 {
 	border-bottom: 2px solid #fbc005;
 	margin-left: 40px;
 	margin-right: 40px;
+}
+.divisionP{
+	text-align: center;
+	vertical-align: top;
+	color: white;
+	font-size: 14px;
+	font-family: "Montserrat", sans-serif;
+	padding-left: 15px;
+	padding-right: 15px;
 }
