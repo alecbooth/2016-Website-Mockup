@@ -369,7 +369,7 @@ header > img {
 }
 .leftLogo{
 	color: white;
-	display: inline-table;
+	display: inline-block;
 	text-align: center;
 	font-family: "Montserrat", sans-serif;
 	margin-left: 80px;
