@@ -316,3 +316,13 @@ td > h1 {
 .blueDivision {
 	background-color: #0f64f0;
 }
+.FIRST {
+	
+}
+.titleOfPage {
+	color: white;
+	text-align: left;
+	font-family: "Abel", sans-serif;
+	letter-spacing: 4.5px;
+	font-size: 40px;
+}
