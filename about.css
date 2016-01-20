@@ -1,4 +1,3 @@
-
 .titleOfPage {
 	color: white;
 	text-align: center;
@@ -23,7 +22,7 @@
 	font-family: "Abel", sans-serif;
 	letter-spacing: 4.5px;
 	font-size: 20px;
-
+}
 
 .underline {
 	border-bottom: 4px solid #fbc005;
