@@ -39,12 +39,12 @@
 }
 
 .titleOfPage {
+	background-color: white;
 	margin-left: 100px;
 	margin-right: 100px;
-	background-color: white;
-	margin-left: 50px;
-	margin-right: 50px;
 	padding-bottom: 15px;
+	margin-top: 50px;
+	margin-bottom: 50px;
 }
 
 html, body {
@@ -121,14 +121,17 @@ html, body {
 
 
 .whoWeAre {
-	padding-top: 150px;
+	padding-top: 88px;
 }
 
 .FIRST {
 	margin-left: 100px;
 	margin-right: 100px;
 	background-color: white;
-	margin-left: 50px;
-	margin-right: 50px;
 	height: 600px;
+}
+
+.mission {
+	margin-top: 50px;
+	padding-top: 84px; 
 }
