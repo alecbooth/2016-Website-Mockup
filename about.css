@@ -1,7 +1,27 @@
+
 .titleOfPage {
-	color: black;
+	color: white;
 	text-align: center;
 	font-family: "Abel", sans-serif;
 	letter-spacing: 4.5px;
 	font-size: 40px;
+}
+
+.teamPic {
+	height: 400px;
+	
+}
+.subTitle {
+	color: white;
+	text-align: left;
+	font-family: "Abel", sans-serif;
+	letter-spacing: 4.5px;
+	font-size: 30px;
+}
+.textDescription {
+	color: white;
+	text-align: left;
+	font-family: "Abel", sans-serif;
+	letter-spacing: 4.5px;
+	font-size: 20px;
 }
