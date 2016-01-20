@@ -367,25 +367,38 @@ header > img {
 	border: 4px solid rgba(150, 150, 150, 1);
 	margin-bottom: 0px;
 }
-.leftLogo{
+.Logo{
 	color: white;
 	display: inline-block;
 	text-align: center;
 	font-family: "Montserrat", sans-serif;
+	margin-top: 30px;
+}
+.leftLogo {
+	margin-right: 160px;
 	margin-left: 80px;
+}
+.rightLogo{
 	margin-right: 80px;
 }
-
+/*#engineering {
+	margin-right: 10px;
+}
+#science{
+	
+}
+#math{
+	
+}
+#technology{
+	
+}*/
 .videoLinkDiv2 {
 	border-top: 2px solid #fbc005;
 	border-bottom: 2px solid #fbc005;
 	
 	text-align: center;
 	color: white;
-}
-.bottomLogo {
-	margin-top: 0px;
-	margin-right: 67px;
 }
 .strongholdLogo {
 	height: 175px;
