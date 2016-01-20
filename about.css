@@ -97,7 +97,7 @@ html, body {
 .footer1::after {
 	content: "";
 	clear: both;
-
+}
 
 .multiParagraph {
 	color: black;
