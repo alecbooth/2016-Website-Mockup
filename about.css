@@ -1,7 +1,7 @@
 .teamPic {
 	height: 400px;
 	margin-left: 25px;
-	margin-right: 25px;
+	margin-right: 15px;
 	margin-bottom: 15px;
 	float: left;
 }
@@ -106,6 +106,7 @@ html, body {
 	margin-right: 25px;
 	margin-bottom: 15px;
 	letter-spacing: 0px;
+	line-height: 22px;
 }
 
 .Mission {
@@ -115,14 +116,13 @@ html, body {
 	font-size: 17px;
 	margin-left: 25px;
 	margin-right: 25px;
-	margin-bottom: 15px;
 	letter-spacing: 0px;
-	padding-bottom: 15px;
+	line-height: 22px;
 }
 
 
 .whoWeAre {
-	padding-top: 88px;
+	padding-top: 2px;
 }
 
 .FIRST {
@@ -134,6 +134,7 @@ html, body {
 
 }
 
+<<<<<<< HEAD
 .mission {
 	margin-top: 50px;
 	padding-top: 84px; 
@@ -148,3 +149,9 @@ html, body {
 	margin-left: 25px;
 	padding-bottom: 25px;
 }
+=======
+.missionDiv {
+	padding-top: 61px; 
+	padding-bottom: 83px;
+}
+>>>>>>> c3cc8f578136710b78d89b6677f5a35754418991
