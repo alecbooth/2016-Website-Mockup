@@ -171,7 +171,6 @@ header > img {
 	background-color: #FFF;
 	padding: 14px 15px 10px;
 	height:80px;
-	margin-top: 20px;
 }
 
 .footer a {
@@ -221,7 +220,7 @@ header > img {
 
 .inBetween {
 	background-color: #0f64f0;
-	margin:  50px 100px 25px 100px;
+	margin:  75px 100px 50px 100px;
 	padding: 75px;	
 	display: flex;
 	align-items:center;
@@ -256,7 +255,6 @@ header > img {
 #thisDiv {
 	margin-left: 100px;
 	margin-right: 100px;
-	margin-top: 4px;
 }
 .tertiaryDiv {
 	width: 527.5px;
@@ -286,7 +284,7 @@ header > img {
 }
 
 #divisions {
-	margin: 50px;
+	margin: 50px 100px 50px 100px;
 	height: 600px;
 }
 
