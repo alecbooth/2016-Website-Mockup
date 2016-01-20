@@ -63,10 +63,18 @@ header ul > li:hover {
 }
 header ul > li:hover > a {
 	color: black;
+	border-bottom-color: black;
 }
 
 header > img {
 	margin-bottom: none;
+}
+
+.underline {
+	border-bottom: 4px solid #fbc005;
+	padding-left: 8px;
+	padding-right: 8px;
+	padding-bottom: 5px;
 }
 
 #headerDivTwo > h2 {
