@@ -1,7 +1,7 @@
 .teamPic {
 	height: 400px;
 	margin-left: 25px;
-	margin-right: 25px;
+	margin-right: 15px;
 	margin-bottom: 15px;
 	float: left;
 }
@@ -106,7 +106,7 @@ html, body {
 	margin-right: 25px;
 	margin-bottom: 15px;
 	letter-spacing: 0px;
-	line-height: 20px;
+	line-height: 22px;
 }
 
 .Mission {
@@ -117,7 +117,7 @@ html, body {
 	margin-left: 25px;
 	margin-right: 25px;
 	letter-spacing: 0px;
-	line-height: 2;
+	line-height: 22px;
 }
 
 
@@ -135,6 +135,6 @@ html, body {
 }
 
 .missionDiv {
-	margin-top: 50px;
-	padding-top: 26px; 
+	padding-top: 61px; 
+	padding-bottom: 83px;
 }
