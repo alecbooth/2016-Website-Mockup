@@ -11,7 +11,6 @@
 	height: 400px;
 	
 }
-<<<<<<< HEAD
 .subTitle {
 	color: white;
 	text-align: left;
@@ -25,7 +24,7 @@
 	font-family: "Abel", sans-serif;
 	letter-spacing: 4.5px;
 	font-size: 20px;
-=======
+
 
 .underline {
 	border-bottom: 4px solid #fbc005;
@@ -40,5 +39,4 @@
 html, body {
 	background: #FBC005;
 	
->>>>>>> cfb0d45af31298f5cb172652defe126aabbe3c44
 }
