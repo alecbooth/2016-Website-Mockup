@@ -5,20 +5,27 @@
 
 .teamPic {
 	height: 400px;
+	margin-left: 25px;
+	margin-right: 25px;
+	margin-bottom: 15px;
 }
 .subTitle {
-	color: white;
+	color: black;
 	text-align: left;
 	font-family: "Abel", sans-serif;
 	letter-spacing: 4.5px;
 	font-size: 30px;
+	margin-left: 25px;
 }
 .textDescription {
-	color: white;
+	color: black;
 	text-align: left;
 	font-family: "Abel", sans-serif;
 	letter-spacing: 4.5px;
 	font-size: 20px;
+	margin-left: 25px;
+	margin-right: 25px;
+	margin-bottom: 15px;
 }
 
 .underline {
@@ -29,26 +36,18 @@
 }
 
 .titleOfPage {
-	margin-left: 50px;
-	margin-right: 50px;
+	margin-left: 100px;
+	margin-right: 100px;
+	background-color: white;
 }
 
 html, body {
 	background: #FBC005;
-	
 }
-
 .titleText {
-	color: white;
+	color: black;
 	text-align: center;
 	font-family: "Abel", sans-serif;
 	letter-spacing: 4.5px;
 	font-size: 40px;
-}
-.firstblock {
-	background-color: #0f64f0;
-	align-items: center;
-	height: 279px;
-	margin-left: 15px;
-	margin-right: 15px;
 }
