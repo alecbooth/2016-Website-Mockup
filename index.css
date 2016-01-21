@@ -279,6 +279,7 @@ header > img {
 	font-family: "Abel", sans-serif;
 	letter-spacing: 4.5px;
 	font-size: 34px;
+	padding-bottom: 8px;
 }
 
 #thing1 {
@@ -384,6 +385,9 @@ header > img {
 .rightLogo{
 	margin-right: 80px;
 }
+.bottomLogo {
+	margin-bottom: 10px;
+}
 .videoLinkDiv2 {
 	border-top: 2px solid #fbc005;
 	border-bottom: 2px solid #fbc005;
@@ -398,4 +402,17 @@ header > img {
 .gameContent {
 	padding-left: 35px;
 	padding-right: 35px;
+}
+.divisionHeader{
+	color: white;
+	font-family: "Abel", sans-serif;
+	font-size: 50px;
+	
+	margin-left: 525px;
+	margin-right: 525px;
+	margin-bottom: 50px;
+	
+	padding-bottom: 13px;
+	
+	border-bottom: 2px solid white;
 }
