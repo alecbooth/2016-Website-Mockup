@@ -126,10 +126,10 @@ header > img {
 	height:669px;
 	width: 1063px;
 	
-	border-left: 25px solid white;
-	border-right: 25px solid white;
+	border: 25px solid white;
+	/*border-right: 25px solid white;
 	border-bottom: 25px solid white;
-	border-top: 25px solid #0A46A8;
+	border-top: 25px solid #0A46A8;*/
 	
 	z-index: 2;
 }
@@ -262,7 +262,6 @@ header > img {
 
 #secondInfoPic {
 	display: inline-block;
-	padding-left: 4px;
 }
 #thisDiv {
 	margin-left: 100px;
@@ -305,7 +304,6 @@ header > img {
 	letter-spacing: 4.5px;
 	font-size: 40px;
 }
-
 
 #divisions {
 	margin: 0px 100px 50px 100px;
@@ -380,6 +378,7 @@ header > img {
 .leftLogo {
 	margin-right: 160px;
 	margin-left: 80px;
+	margin-top: 50px;
 }
 .rightLogo{
 	margin-right: 80px;
@@ -398,4 +397,29 @@ header > img {
 .gameContent {
 	padding-left: 35px;
 	padding-right: 35px;
+}
+
+.margining {
+	margin-top: 0px;
+}
+
+.division {
+	margin-bottom: 0px;
+}
+
+#engineering {
+	margin-top: 0px;
+	margin-right: 27px;
+	margin-left: 130px;
+}
+
+#math {
+	margin-top: 20px;
+	margin-right: 120px;
+}
+
+#science {
+	padding-left: 8px;
+    margin-right: 50px;
+    margin-left: 130px;
 }
