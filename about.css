@@ -57,12 +57,20 @@ html, body {
 	font-family: "Abel", sans-serif;
 	letter-spacing: 4.5px;
 	font-size: 40px;
-	padding-top: 15px;
+    padding-top: 29px;
+    padding-bottom: 10px;
+    margin-left: 350px;
+    margin-right: 350px;
+	border-bottom-style: solid;
+	border-bottom-color: black;
+
 }
+
 .leaderpic {
 	width: 25%;
 	float: left;	
 }
+
 .leadertext {
 	font-size: 15px;
 	color: black;
@@ -72,9 +80,11 @@ html, body {
 	
 	border-left: 2px solid #fbc005;
 }
+
 .sheri {
 	border-left: 2px solid #fbc005;
 }
+
 .robert {
 	border-left: 2px solid #fbc005;
 }
@@ -134,10 +144,12 @@ html, body {
 
 }
 
+ 
 .mission {
 	margin-top: 50px;
 	padding-top: 84px; 
 }
+
 .awards {
 	margin-left: 100px;
 	margin-right: 100px;
@@ -150,6 +162,6 @@ html, body {
 }
 
 .missionDiv {
-	padding-top: 61px; 
-	padding-bottom: 83px;
+	padding-top: 78px; 
+	padding-bottom: 72px;
 }
