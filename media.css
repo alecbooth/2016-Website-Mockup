@@ -1,0 +1,45 @@
+.picDiv {
+	background-color: white;
+	
+	margin-left: 100px;
+	margin-right: 100px;
+}
+.picLink {
+	margin-left: 15px;
+	margin-right: 16px;
+	display: inline-block;
+	text-decoration: none;
+	border: 2px solid white;
+	width: 320px;
+	vertical-align: top;
+	text-align: center;
+	font-family: "Montserrat", sans-serif;
+}
+a > img{
+	padding: 15px;
+	padding-bottom: 0px;
+	width: 290px;
+}
+.picLink:hover{
+	border: 2px solid #0A46A8;
+	border-radius: 10px;
+}
+h3 {
+	font-size: 17px;
+	color: black;
+}
+h1 {
+	text-align:center;
+
+	border-bottom: 2px solid black;
+	
+	font-family: "Abel", sans-serif;
+	font-size: 50px;
+	color: black;
+	
+	margin-right: 445px;
+	margin-left: 445px;
+	
+	padding-top: 15px;
+	padding-bottom: 20px;
+}

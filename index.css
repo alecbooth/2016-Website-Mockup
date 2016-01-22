@@ -79,8 +79,13 @@ header > img {
 	margin-top: 17px;
 	
 	font-size: 64px;
+<<<<<<< HEAD
 	font-family: 'Fjalla One', sans-serif;
 	letter-spacing: 5px;
+=======
+	font-family: 'Raleway', sans-serif;
+	letter-spacing: 4px;
+>>>>>>> 08c468f93ed477d35aebc59ca8ea04416548d3c2
 	
 	text-align: center;
 	color: white;
