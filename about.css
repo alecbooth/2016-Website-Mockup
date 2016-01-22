@@ -6,10 +6,10 @@
 	float: left;
 }
 
-.teamPic::after {
-	content: "";
-	clear: both;
+p {
+	line-height: 2em;
 }
+
 .underline {
 	border-bottom: 4px solid #fbc005;
 	padding-left: 8px;
@@ -24,10 +24,17 @@
 	margin-top: 50px;
 	margin-bottom: 50px;
 	border-style: 2px solid #FBC005;
+	padding-bottom: 30px;
 }
 
-html, body {
-	background: #0A46A8;
+body, html {
+	background-image:
+		linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
+		url("about_bg.jpg");
+
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
 }
 #leaders {
 	display: flex;
@@ -84,7 +91,6 @@ html, body {
 	margin-right: 25px;
 	margin-bottom: 15px;
 	letter-spacing: 0px;
-	line-height: 22px;
 }
 
 .Mission {
@@ -95,7 +101,6 @@ html, body {
 	margin-left: 25px;
 	margin-right: 25px;
 	letter-spacing: 0px;
-	line-height: 22px;
 }
 
 
@@ -142,10 +147,24 @@ html, body {
 	margin-right: 25px;
 	margin-bottom: 15px;
 	letter-spacing: 0px;
-	line-height: 22px;
 	font-style: italic;
 }
 
 .border {
 	border: 5px solid #fbc005;
 }
+
+#awards {
+	display: flex;
+	flex-flow: row wrap;
+	
+	justify-content: center;
+	align-items: baseline;
+}
+
+.award-year {
+	width: calc(50% - 2*20px);
+	margin: 20px;
+	text-align: center;
+}
+
