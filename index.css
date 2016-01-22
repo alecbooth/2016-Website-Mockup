@@ -442,3 +442,37 @@ header > img {
 	
 	border-bottom: 2px solid white;
 }
+/*this is the code for the tabs, mostly text classe*/
+.titleText {
+	color: black;
+	text-align: center;
+	font-family: "Abel", sans-serif;
+	letter-spacing: 4.5px;
+	font-size: 40px;
+    padding-top: 29px;
+    padding-bottom: 10px;
+    margin-left: 350px;
+    margin-right: 350px;
+	border-bottom-style: solid;
+	border-bottom-color: black;
+
+}
+.subTitle {
+	color: black;
+	text-align: left;
+	font-family: "Abel", sans-serif;
+	letter-spacing: 4.5px;
+	font-size: 30px;
+	margin-left: 25px;
+}
+.textDescription {
+	color: black;
+	text-align: left;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 17px;
+	margin-left: 25px;
+	margin-right: 25px;
+	margin-bottom: 15px;
+	letter-spacing: 0px;
+	padding-bottom: 15px;
+}

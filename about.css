@@ -10,27 +10,6 @@
 	content: "";
 	clear: both;
 }
-
-.subTitle {
-	color: black;
-	text-align: left;
-	font-family: "Abel", sans-serif;
-	letter-spacing: 4.5px;
-	font-size: 30px;
-	margin-left: 25px;
-}
-.textDescription {
-	color: black;
-	text-align: left;
-	font-family: 'Montserrat', sans-serif;
-	font-size: 17px;
-	margin-left: 25px;
-	margin-right: 25px;
-	margin-bottom: 15px;
-	letter-spacing: 0px;
-	padding-bottom: 15px;
-}
-
 .underline {
 	border-bottom: 4px solid #fbc005;
 	padding-left: 8px;
@@ -50,22 +29,6 @@
 html, body {
 	background: #FBC005;
 }
-
-.titleText {
-	color: black;
-	text-align: center;
-	font-family: "Abel", sans-serif;
-	letter-spacing: 4.5px;
-	font-size: 40px;
-    padding-top: 29px;
-    padding-bottom: 10px;
-    margin-left: 350px;
-    margin-right: 350px;
-	border-bottom-style: solid;
-	border-bottom-color: black;
-
-}
-
 #leaders {
 	display: flex;
 	flex-flow: row wrap;
