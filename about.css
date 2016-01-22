@@ -38,7 +38,7 @@
 	padding-bottom: 5px;
 }
 
-.titleOfPage {
+.about868 {
 	background-color: white;
 	margin-left: 100px;
 	margin-right: 100px;
@@ -66,9 +66,14 @@ html, body {
 
 }
 
+#leaders {
+	display: flex;
+	flex-flow: row wrap;
+    padding-bottom: 15px;
+}
+
 .leaderpic {
 	width: 25%;
-	float: left;	
 }
 
 .leadertext {
@@ -135,11 +140,10 @@ html, body {
 	padding-top: 2px;
 }
 
-.FIRST {
+.FIRST-explanation 	 {
 	margin-left: 100px;
 	margin-right: 100px;
 	background-color: white;
-	height: 715px;
 	margin-bottom: 50px;
 
 }
@@ -164,4 +168,17 @@ html, body {
 .missionDiv {
 	padding-top: 78px; 
 	padding-bottom: 72px;
+}
+
+.italicized {
+	color: black;
+	text-align: left;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 17px;
+	margin-left: 25px;
+	margin-right: 25px;
+	margin-bottom: 15px;
+	letter-spacing: 0px;
+	padding-bottom: 15px;
+	font-style: italic;
 }
