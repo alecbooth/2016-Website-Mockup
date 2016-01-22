@@ -1,4 +1,5 @@
 .subsubTitle {
+	margin-top: 50px;
 	text-align: center;
 	color: white;
 	font-family: "Abel", sans-serif;
@@ -12,17 +13,28 @@
 	margin-bottom: 50px;
 }
 .sponsorLevel {
+
 	border-top: 2px solid #fbc005;
 }
+
+.sponsors1 {
+	display: flex;
+	flex-flow: row wrap;
+	
+	align-items: center;
+}
+
+.sponsors1 > * {
+	margin: 25px;
+}
+
 .bronzeLevel {
 	border-bottom: 2px solid #fbc005;
 }
 .introSponsors {
 	border-top: 2px solid #fbs005;	
 }
-.sponsorLevel > *:not(:first-child) {
-	display: inline-block;
-}
+
 .sponsorImage {
 	margin-left: 15px;
 	text-align: center;
@@ -31,7 +43,6 @@
 }
 .sponsorText {
 	font-size: 45px;
-	display: inline-block;
 
 }
 .sponsor1 {
@@ -62,6 +73,55 @@
 	border-bottom-style: solid;
 	border-bottom-color: #fbc005;
 }
-.sponsors1 {
-	display: inline-block;
+.boeing {
+	width: 415px;
+	margin-left: 15px;
+	text-align: center;
+
+}
+.delphi {
+	width: 280px;
+	margin-left: 15px;
+	text-align: center;
+}
+.redali {
+	width: 280px;
+	margin-left: 15px;
+	text-align: center;
+}
+.sponsorText1 {
+	font-size: 24px;
+}
+.kiwanis {
+	width: 200px;
+	margin-left: 15px;
+	text-align: center;
+}
+.alison {
+	width: 235px;
+	margin-left: 15px;
+	text-align: center;
+}
+.delta {
+	width: 235px;
+	margin-left: 15px;
+	text-align: center;
+}
+.edusource {
+	width: 220px;
+	margin-left: 15px;
+	text-align: center;
+}
+.sponsorText2 {
+	font-size: 19px;
+}
+.pip {
+	width: 180px;
+	margin-left: 15px;
+	text-align: center; 
+}
+.mcalisters {
+	width: 180px;
+	margin-left: 15px;
+	text-align: center; 
 }
