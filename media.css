@@ -1,0 +1,30 @@
+.picDiv {
+	background-color: white;
+	
+	margin-left: 100px;
+	margin-right: 100px;
+}
+.picLink {
+	margin-left: 15px;
+	margin-right: 16px;
+	margin-top: 25px;
+	display: inline-block;
+	text-decoration: none;
+	border: 2px solid white;
+	width: 320px;
+	vertical-align: top;
+	text-align: center;
+}
+a > img{
+	padding: 15px;
+	padding-bottom: 0px;
+	width: 290px;
+}
+.picLink:hover{
+	border: 2px solid #0A46A8;
+	border-radius: 10px;
+}
+h3 {
+	font-size: 17px;
+	color: black;
+}
