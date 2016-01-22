@@ -18,7 +18,7 @@ body, html {
 	box-sizing: border-box;
 }
 #homeLogo {
-	height: 170px;
+	height: 150px;
 	padding-left: 15px;
 	align-self: center;
 }
@@ -30,9 +30,7 @@ header {
 	
 	background-color: #0A46A8;
 	font-size: 17px;
-	margin-left: 100px;
-	margin-right: 100px;
-	margin-top: 35px;
+	margin: 0 100px;
 	line-height: 1em;
 	/*width: 1063px;*/
 }
@@ -75,10 +73,10 @@ header > img {
 #headerDivTwo > h2 {
 	margin: 0;
 	padding-top: 15px;
-	padding-bottom: 50px;
+	padding-bottom: 30px;
 	margin-top: 17px;
 	
-	font-size: 64px;
+	font-size: 48px;
 	font-family: 'Fjalla One', sans-serif;
 	letter-spacing: 5px;
 	font-family: 'Raleway', sans-serif;
@@ -88,7 +86,7 @@ header > img {
 	color: white;
 }
 #headerDivTwo {
-	margin-top: 25px;
+	margin-top: 10px;
 }
 .upper {
 	font-size: 1.2em;
