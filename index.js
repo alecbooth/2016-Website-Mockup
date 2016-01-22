@@ -6,17 +6,22 @@ $(document).ready(function(){
 		autoplaySpeed: 3000,
 		arrows: false,
 	});
-
+});
+/*
 	var $slideDiv = $(".slideDiv");
 	var $slickSlide = $(".slick-slide");
 	var $slideImg = $(".slideImg");
 	var $surround = $(".surround");
 	var $header = $("header");
 	
-	$(window).resize(function() {
+	function resizeSlick() {
 		$slideDiv.width($header.width());
 		$slideImg.width($header.width());
-		$surround.width($slideImg.width());
 		$surround.height($slideImg.height());
-	});
+	}
+	
+	$(window).resize(resizeSlick);
+	resizeSlick();
+	
 });
+*/
