@@ -35,7 +35,7 @@ header {
 	font-size: 17px;
 	margin-left: 100px;
 	margin-right: 100px;
-	margin-top: 20px;
+	margin-top: 35px;
 	line-height: 1em;
 	/*width: 1063px;*/
 }
@@ -123,14 +123,12 @@ header > img {
 	margin-bottom: 10px;
 }
 .slideDiv{
-	height:669px;
-	width: 1063px;
-	
-	border: 25px solid white;
+	/*border: 25px solid white;*/
 	/*border-right: 25px solid white;
 	border-bottom: 25px solid white;
 	border-top: 25px solid #0A46A8;*/
-	
+	width:1063px;
+	height: 644px;
 	z-index: 2;
 }
 .robotDiv{
@@ -142,9 +140,10 @@ header > img {
 }	
 .slideImg{
 	margin: 0;
-	height:619px;
-	width: 1013px;
+	width:1063px;
+	height: 644px;
 }
+
 #slideId {
 	display:inline-block;
 	
@@ -232,7 +231,7 @@ header > img {
 
 .inBetween {
 	background-color: #0A46A8;
-	margin: 75px 100px 50px 100px;
+	margin: 50px 100px 50px 100px;
 	padding: 75px;	
 	display: flex;
 	align-items:center;
@@ -433,6 +432,7 @@ header > img {
 	color: white;
 	font-family: "Abel", sans-serif;
 	font-size: 50px;
+	text-align: center;
 	
 	margin-left: 505px;
 	margin-right: 505px;
