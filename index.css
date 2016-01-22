@@ -386,7 +386,8 @@ header > img {
 .divisionHeader{
 	color: white;
 	font-family: "Abel", sans-serif;
-	font-size: 50px;
+	letter-spacing: 4.5px;
+	font-size: 45px;
 	text-align: center;
 	
 	margin-left: 505px;
@@ -431,6 +432,61 @@ header > img {
 	letter-spacing: 0px;
 	padding-bottom: 15px;
 }
-#{
+#specialThanks{
 	background-color: white;
+	margin-left: 100px;
+	margin-right: 100px;
+	margin-bottom: 50px;
+	text-align: center;
+}
+
+#specialThanks * {
+	color: black;
+}
+.sponsorDiv {
+	display: flex;
+	align-items: center;
+	margin-left: 25px;
+	justify-content: center;
+}
+.sponsorText {
+	max-width: 100%;
+    max-height: 150px;
+}
+#CHS {
+	padding-right: 50px;
+}
+#moriarty {
+	width: 200px;
+	margin-left: 50px;
+}
+#RR {
+	height: 85px;
+}
+#RC{
+	height: 85px;
+	padding-left: 70px;
+}
+#delphi {
+	padding-top: 25px;
+	padding-bottom: 25px;
+	padding-right: 50px;
+}
+#boeing {
+	padding-right: 100px;
+}
+.thanks {
+	margin-right: 300px;
+	margin-left:300px;
+	margin-top: 0px;
+	border-bottom: 2px solid black;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top: 40px;
+
+	text-align: center;
+	font-family: "Abel", sans-serif;
+	letter-spacing: 4.5px;
+	font-size: 34px;
+	padding-bottom: 20px;
 }
