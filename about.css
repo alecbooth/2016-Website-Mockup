@@ -69,6 +69,7 @@ html, body {
 #leaders {
 	display: flex;
 	flex-flow: row wrap;
+    padding-bottom: 15px;
 }
 
 .leaderpic {
