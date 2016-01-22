@@ -1,0 +1,22 @@
+.subsubTitle {
+	text-align: center;
+	color: black;
+	font-family: "Abel", sans-serif;
+	letter-spacing: 4.5px;
+	font-size: 26px;
+}
+.sponsors {
+	margin-left: 100px;
+	margin-right: 100px;
+	background-color: white;
+	margin-bottom: 50px;
+}
+.sponsorLevel {
+	border-top: 2px solid #fbc005;
+}
+.bronzeLevel {
+	border-bottom: 2px solid #fbc005;
+}
+.sigLevel {
+	border-bottom: 2px solid #fbc005;
+}
