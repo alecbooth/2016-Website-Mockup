@@ -31,14 +31,14 @@ h3 {
 .h1 {
 	text-align:center;
 
-	border-bottom: 2px solid black;
+	border-bottom: 2px solid #fbc005;
 	
 	font-family: "Abel", sans-serif;
 	font-size: 50px;
-	color: black;
+	color: white;
 	
-	margin-right: 445px;
-	margin-left: 445px;
+	margin-right: 550px;
+	margin-left: 550px;
 	
 	padding-top: 15px;
 	padding-bottom: 20px;
