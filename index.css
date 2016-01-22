@@ -14,17 +14,14 @@ body, html {
 	
 	line-height: 2em;
 }
-
 *, *:before, *:after {
 	box-sizing: border-box;
 }
-
 #homeLogo {
 	height: 170px;
 	padding-left: 15px;
 	align-self: center;
 }
-
 header {
 	display: flex;
 	flex-flow: row nowrap;
@@ -35,21 +32,18 @@ header {
 	font-size: 17px;
 	margin-left: 100px;
 	margin-right: 100px;
-	margin-top: 20px;
+	margin-top: 35px;
 	line-height: 1em;
 	/*width: 1063px;*/
 }
-
 header p, header h1, header h2 {
 	color: white;
 }
-
 header ul {
 	overflow: hidden;
 	list-style-type:none;
 	margin-top: 0px;
 }
-
 header ul > a {
 	display: inline-block;
 	padding: 18px;
@@ -57,7 +51,6 @@ header ul > a {
 	text-decoration: none;
 	margin-top: 0;
 }
-
 header ul > a > li {
 	color: white;
 	text-align: center;
@@ -70,18 +63,15 @@ header ul > a:hover > li {
 	color: black;
 	border-bottom-color: black;
 }
-
 header > img {
 	margin-bottom: none;
 }
-
 .underline {
 	border-bottom: 4px solid #fbc005;
 	padding-left: 8px;
 	padding-right: 8px;
 	padding-bottom: 5px;
 }
-
 #headerDivTwo > h2 {
 	margin: 0;
 	padding-top: 15px;
@@ -89,48 +79,41 @@ header > img {
 	margin-top: 17px;
 	
 	font-size: 64px;
-	font-family: 'Abel', sans-serif;
-	letter-spacing: 12px;
+	font-family: 'Roboto Condensed', sans-serif;
+	letter-spacing: 4px;
 	
 	text-align: center;
 	color: white;
 }
-
 #headerDivTwo {
 	margin-top: 25px;
 }
-
 .upper {
 	font-size: 1.2em;
 }
-
 .navbar {
 	border-bottom: 2px solid white;
 	padding-left: 5px;
 	margin-left: 35px;
 }
-
 .div{
 	text-align: center;
 	vertical-align: center;
 	background-color: #184776;
 	border-bottom: 10px solid #bfc1ca;
 }
-
 .robotImg {
 	width: 394px;
 	margin-left: 55px;
 	margin-bottom: 10px;
 }
 .slideDiv{
-	height:669px;
-	width: 1063px;
-	
-	border: 25px solid white;
+	/*border: 25px solid white;*/
 	/*border-right: 25px solid white;
 	border-bottom: 25px solid white;
 	border-top: 25px solid #0A46A8;*/
-	
+	width:1063px;
+	height: 644px;
 	z-index: 2;
 }
 .robotDiv{
@@ -142,8 +125,8 @@ header > img {
 }	
 .slideImg{
 	margin: 0;
-	height:619px;
-	width: 1013px;
+	width:1063px;
+	height: 644px;
 }
 #slideId {
 	display:inline-block;
@@ -173,18 +156,15 @@ header > img {
 	padding-left: 100px;
 	padding-right: 100px;
 }
-
 .active {
 	background-color: yellow;
 }
-
 .footer {
 	text-align: center;
 	background-color: #FFF;
 	padding: 14px 15px 10px;
 	height:80px;
 }
-
 .footer a {
 	text-decoration: none;
 	display: inline;
@@ -194,7 +174,6 @@ header > img {
 	content: "";
 	clear: both;
 }
-
 .socialmedia {
 	width: 50px;
 	height: 50px;
@@ -206,7 +185,6 @@ header > img {
 .socialmedia:hover{
 	opacity: .55;
 }
-
 .url {
 	display: inline;
 }
@@ -229,16 +207,14 @@ header > img {
 	
 	background-color: white;
 }
-
 .inBetween {
 	background-color: #0A46A8;
-	margin: 75px 100px 50px 100px;
+	margin: 50px 100px 50px 100px;
 	padding: 75px;	
 	display: flex;
 	align-items:center;
 	justify-content: center;
 }
-
 .videoLinkDiv {
 	height: 348px;
 	margin-right: 98px;
@@ -250,17 +226,14 @@ header > img {
 	text-align: center;
 	color: white;
 }
-
 #linkColor {
 	color: white;
 	text-decoration: none;
 }
-
 .FIRST {
 	height: 120px;
 	margin-top: 9.5px;
 }
-
 #secondInfoPic {
 	display: inline-block;
 }
@@ -281,21 +254,18 @@ header > img {
 	font-size: 34px;
 	padding-bottom: 8px;
 }
-
 #thing1 {
 	padding: 30px 0px 5px;
 	border-bottom: 2px solid #fbc005;
 	margin-left: 150px;
 	margin-right: 150px;
 }
-
 #thing2 {
 	padding: 30px 0px 5px 10px;
 	border-bottom: 2px solid #fbc005;
 	margin-left: 150px;
 	margin-right: 150px;
 }
-
 .blueDivision {
 	background-color: rgba(15, 100, 240, .7);
 }
@@ -306,45 +276,36 @@ header > img {
 	letter-spacing: 4.5px;
 	font-size: 40px;
 }
-
 #divisions {
 	margin: 0px 100px 50px 100px;
 }
-
 .division-row {
 	display: flex;
 	
 	justify-content: center;
 }
-
 #topRow {
 	border-bottom: 4px solid #fbc005;
 }
-
 .division-row > div {
 	flex-grow: 1;
 	flex-basis: 0;
 }
-
 .divisionLeft{
 	border-right: 2px solid #fbc005;
 }
-
 .divisionCenter{
 	border-right: 2px solid #fbc005;
 	border-left: 2px solid #fbc005;
 }
-
 .divisionRight{
 	border-left: 2px solid #fbc005;
 }
-
 .division-row > div > h1 {
 	border-bottom: 2px solid white;
 	margin-left: 40px;
 	margin-right: 40px;
 }
-
 .divisionP{
 	text-align: center;
 	vertical-align: top;
@@ -398,41 +359,35 @@ header > img {
 .strongholdLogo {
 	height: 175px;
 }
-
 .gameContent {
 	padding-left: 35px;
 	padding-right: 35px;
 }
-
 .margining {
 	margin-top: 0px;
 }
-
 .division {
 	margin-bottom: 0px;
 }
-
 #engineering {
 	margin-top: 0px;
 	margin-right: 27px;
 	margin-left: 130px;
 }
-
 #math {
 	margin-top: 20px;
 	margin-right: 120px;
 }
-
 #science {
 	padding-left: 8px;
     margin-right: 50px;
     margin-left: 130px;
 }
-
 .divisionHeader{
 	color: white;
 	font-family: "Abel", sans-serif;
 	font-size: 50px;
+	text-align: center;
 	
 	margin-left: 505px;
 	margin-right: 505px;
@@ -441,4 +396,41 @@ header > img {
 	padding-bottom: 13px;
 	
 	border-bottom: 2px solid white;
+}
+/*this is the code for the tabs, mostly text classe*/
+.titleText {
+	color: black;
+	text-align: center;
+	font-family: "Abel", sans-serif;
+	letter-spacing: 4.5px;
+	font-size: 40px;
+    padding-top: 29px;
+    padding-bottom: 10px;
+    margin-left: 350px;
+    margin-right: 350px;
+	border-bottom-style: solid;
+	border-bottom-color: black;
+
+}
+.subTitle {
+	color: black;
+	text-align: left;
+	font-family: "Abel", sans-serif;
+	letter-spacing: 4.5px;
+	font-size: 30px;
+	margin-left: 25px;
+}
+.textDescription {
+	color: black;
+	text-align: left;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 17px;
+	margin-left: 25px;
+	margin-right: 25px;
+	margin-bottom: 15px;
+	letter-spacing: 0px;
+	padding-bottom: 15px;
+}
+#{
+	background-color: white;
 }
