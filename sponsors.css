@@ -1,6 +1,6 @@
 .subsubTitle {
 	text-align: center;
-	color: black;
+	color: white;
 	font-family: "Abel", sans-serif;
 	letter-spacing: 4.5px;
 	font-size: 26px;
@@ -17,6 +17,51 @@
 .bronzeLevel {
 	border-bottom: 2px solid #fbc005;
 }
-.sigLevel {
-	border-bottom: 2px solid #fbc005;
+.introSponsors {
+	border-top: 2px solid #fbs005;	
+}
+.sponsorLevel > *:not(:first-child) {
+	display: inline-block;
+}
+.sponsorImage {
+	margin-left: 15px;
+	text-align: center;
+
+
+}
+.sponsorText {
+	font-size: 45px;
+	display: inline-block;
+
+}
+.sponsor1 {
+	background: none;
+	color: white;
+}
+.textDescription1 {
+	color: white;
+	text-align: left;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 17px;
+	margin-left: 25px;
+	margin-right: 25px;
+	margin-bottom: 15px;
+	letter-spacing: 0px;
+	padding-bottom: 15px;
+}
+.titleText1 {
+	color: white;
+	text-align: center;
+	font-family: "Abel", sans-serif;
+	letter-spacing: 4.5px;
+	font-size: 40px;
+    padding-top: 29px;
+    padding-bottom: 10px;
+    margin-left: 350px;
+    margin-right: 350px;
+	border-bottom-style: solid;
+	border-bottom-color: #fbc005;
+}
+.sponsors1 {
+	display: inline-block;
 }
