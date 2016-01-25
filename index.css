@@ -22,18 +22,20 @@ body, html {
 	padding-left: 15px;
 	align-self: center;
 }
-header {
+.head {
 	display: flex;
 	flex-flow: row nowrap;
 	align-items: flex-end;
 	justify-content: center;
+	line-height: 1em;
 	
+}
+header {
 	background-color: #0A46A8;
 	margin-left: 100px;
 	margin-right: 100px;
 	margin-top: 35px;
 	font-size: 17px;
-	line-height: 1em;
 	/*width: 1063px;*/
 }
 header p, header h1, header h2 {
@@ -491,4 +493,14 @@ header > img {
 	letter-spacing: 4.5px;
 	font-size: 34px;
 	padding-bottom: 20px;
+}
+.subBar {
+	color: white;
+	display: flex;
+	flex-flow: row wrap;
+	justify-content: flex-end;
+}
+.subNav {	
+	margin: 0px 15px 15px 15px;
+	font-family: "Montserrat", sans-serif;
 }
