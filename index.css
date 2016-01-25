@@ -511,3 +511,7 @@ header > img {
 .subNav a:visite {
 	text-decoration: none;
 }
+
+.noDecoration {
+	text-decoration: none;
+}
