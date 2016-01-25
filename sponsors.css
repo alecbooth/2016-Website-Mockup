@@ -121,3 +121,52 @@
 	margin-left: 15px;
 	text-align: center; 
 }
+
+.multiParagraphBold {
+	color: black;
+	text-align: center;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 25px;
+	margin-left: 25px;
+	margin-right: 25px;
+	margin-bottom: 15px;
+	letter-spacing: 0px;
+	font-style: bold;
+}
+
+.multiParagraphCenter {
+	color: black;
+	text-align: center;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 17px;
+	margin-left: 25px;
+	margin-right: 25px;
+	margin-bottom: 15px;
+	letter-spacing: 0px;
+}
+
+.multiParagraphCenterTop {
+	color: black;
+	text-align: center;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 17px;
+	margin-left: 25px;
+	margin-right: 25px;
+	margin-bottom: 15px;
+	letter-spacing: 0px;
+	padding-top: 17px;
+}
+
+.Sponsor {
+	background-color: white;
+	margin-left: 100px;
+	margin-right: 100px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	border-style: 2px solid #FBC005;
+	padding-bottom: 10px;
+}
+
+.sponsorPic {
+	max-width: 100%;
+}

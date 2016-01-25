@@ -503,4 +503,11 @@ header > img {
 .subNav {	
 	margin: 0px 15px 15px 15px;
 	font-family: "Montserrat", sans-serif;
+	text-decoration: none;
+	color: white;
+	
+	border-bottom: none;
+}
+.subNav a:visite {
+	text-decoration: none;
 }
