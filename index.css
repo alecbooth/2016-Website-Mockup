@@ -29,8 +29,10 @@ header {
 	justify-content: center;
 	
 	background-color: #0A46A8;
+	margin-left: 100px;
+	margin-right: 100px;
+	margin-top: 35px;
 	font-size: 17px;
-	margin: 0 100px;
 	line-height: 1em;
 	/*width: 1063px;*/
 }
