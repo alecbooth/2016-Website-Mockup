@@ -6,9 +6,9 @@
 	margin-bottom: 50px;
 }
 .picLink {
+	margin-top: 15.5px;
 	margin-left: 15.5px;
 	margin-right: 15.5px; 
-	margin-top: 15.5px;
 	display: inline-block;
 	text-decoration: none;
 	border: 2px solid white;
@@ -48,4 +48,21 @@ h1 {
 }
 .bottom {
 	margin-bottom: 15.5px;
+}
+.h2 {
+	text-align:center;
+
+	border-bottom: 2px solid black;
+	
+	font-family: "Montserrat", sans-serif;
+	font-size: 30px;
+	color: black;
+	letter-spacing: 4.5px;
+	
+	margin-right: 475px;
+	margin-left: 475px;
+	margin-bottom: 5px;
+	
+	padding-top: 15px;
+	padding-bottom: 10px;	
 }
