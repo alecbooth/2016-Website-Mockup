@@ -17,6 +17,17 @@ p {
 	padding-bottom: 5px;
 }
 
+.whoWeAre {
+	background-color: white;
+	margin-left: 100px;
+	margin-right: 100px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	border-style: 2px solid #FBC005;
+	padding-bottom: 30px;
+}
+
+
 .about868 {
 	background-color: white;
 	margin-left: 100px;
