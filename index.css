@@ -508,10 +508,15 @@ header > img {
 	
 	border-bottom: none;
 }
-.subNav a:visite {
-	text-decoration: none;
-}
-
 .noDecoration {
 	text-decoration: none;
+}
+.subBarNav:hover {
+	background-color: #fbc005;
+}
+.subBarNav:hover > h5 {
+	color: black;
+}
+.rightSubBar{
+	margin-right: 25px;
 }
