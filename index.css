@@ -18,22 +18,24 @@ body, html {
 	box-sizing: border-box;
 }
 #homeLogo {
-	height: 170px;
+	height: 150px;
 	padding-left: 15px;
 	align-self: center;
 }
-header {
+.head {
 	display: flex;
 	flex-flow: row nowrap;
 	align-items: flex-end;
 	justify-content: center;
+	line-height: 1em;
 	
+}
+header {
 	background-color: #0A46A8;
-	font-size: 17px;
 	margin-left: 100px;
 	margin-right: 100px;
 	margin-top: 35px;
-	line-height: 1em;
+	font-size: 17px;
 	/*width: 1063px;*/
 }
 header p, header h1, header h2 {
@@ -75,10 +77,10 @@ header > img {
 #headerDivTwo > h2 {
 	margin: 0;
 	padding-top: 15px;
-	padding-bottom: 50px;
+	padding-bottom: 30px;
 	margin-top: 17px;
 	
-	font-size: 64px;
+	font-size: 48px;
 	font-family: 'Fjalla One', sans-serif;
 	letter-spacing: 5px;
 	font-family: 'Raleway', sans-serif;
@@ -88,7 +90,7 @@ header > img {
 	color: white;
 }
 #headerDivTwo {
-	margin-top: 25px;
+	margin-top: 10px;
 }
 .upper {
 	font-size: 1.2em;
@@ -491,4 +493,25 @@ header > img {
 	letter-spacing: 4.5px;
 	font-size: 34px;
 	padding-bottom: 20px;
+}
+.subBar {
+	color: white;
+	display: flex;
+	flex-flow: row wrap;
+	justify-content: flex-end;
+}
+.subNav {	
+	margin: 0px 15px 15px 15px;
+	font-family: "Montserrat", sans-serif;
+	text-decoration: none;
+	color: white;
+	
+	border-bottom: none;
+}
+.subNav a:visite {
+	text-decoration: none;
+}
+
+.noDecoration {
+	text-decoration: none;
 }
