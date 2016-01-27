@@ -127,6 +127,8 @@
 	margin-left: 15px;
 	text-align: center; 
 }
+ 
+
 
 .multiParagraphBold {
 	color: black;
@@ -190,7 +192,11 @@
 	color: white;
 	
 	border-bottom: none;
+
 }
 .bottom {
 	border-bottom: 2px solid #fbc005;
+}
+.titleDescription2 {
+	text-align: center;
 }
