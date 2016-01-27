@@ -271,3 +271,13 @@ body, html {
 	margin-right: 439px;
 	text-align: center;
 }
+.awards {
+	border-bottom: 2px solid black;
+	margin-left: 110px;
+	margin-right: 110px;
+}
+.awards1 {
+	border-bottom: 2px solid black;
+	margin-left: 100px;
+	margin-right: 100px;
+}
