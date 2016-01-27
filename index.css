@@ -22,12 +22,9 @@ body, html {
 
 
 #homeLogo {
-	height: 245px;
-	/*padding-left: 15px;
-	align-self: center;*/
-    margin-left: -100px;
-    margin-bottom: -40px;
-	z-index: 3;
+	height: 150px;
+	padding-left: 15px;
+	align-self: center;
 
 }
 .head {
@@ -36,17 +33,14 @@ body, html {
 	align-items: flex-end;
 	justify-content: center;
 	line-height: 1em;
-	width: 1063px;
-	height: 180px;
 	
 }
 .header {
 	background-color: #0A46A8;
 	margin-left: 100px;
 	margin-right: 100px;
-	margin-top: 50px;
+	margin-top: 35px;
 	font-size: 17px;
-	/*width: 1063px;*/
 
 }
 .header p, header h1, header h2 {
@@ -216,6 +210,7 @@ body, html {
 	height:644px;
 	width:1063px;
 
+	margin-left:100px;
 	margin-top: 0px;
 	margin-bottom: 0;
 	
