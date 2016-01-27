@@ -127,11 +127,9 @@
 	margin-left: 15px;
 	text-align: center; 
 }
-<<<<<<< HEAD
-=======
+
  
 
->>>>>>> 1861b8603ee6c2d1497cc95921f4b49fcd7aed2c
 
 .multiParagraphBold {
 	color: black;
@@ -200,10 +198,23 @@
 
 .bottom {
 	border-bottom: 2px solid #fbc005;
-<<<<<<< HEAD
-=======
+
 }
 .titleDescription2 {
 	text-align: center;
->>>>>>> 1861b8603ee6c2d1497cc95921f4b49fcd7aed2c
+}
+.subTitle2 {
+	padding-top: 15px;
+}
+.sponsorLevel1 {
+	margin-top: 10px;
+}
+.subTitle2 {
+	color: black;
+	text-align: left;
+	font-family: "Abel", sans-serif;
+	letter-spacing: 4.5px;
+	font-size: 30px;
+	margin-left: 25px;
+	padding-top: 20px;
 }
