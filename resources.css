@@ -53,3 +53,15 @@ h3 {
 	font-family: "Abel", sans-serif;
 	margin-top: 0px;
 }
+.teamresources {
+	margin-right: 100px;
+	margin-left: 100px;
+	margin-bottom: 50px;
+	background-color: white;
+	text-align: center;
+	font-family: "Montserrat", sans-serif;
+}
+.download1  {
+	float: right;
+	text-align: center;
+}
