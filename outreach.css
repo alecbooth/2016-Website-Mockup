@@ -106,7 +106,6 @@
 
 .Row2 {
 	margin-top: 0px;
-    margin-bottom: 50px;
     margin-right: 100px;
     margin-left: 100px;
     background-color: white;
@@ -208,4 +207,54 @@
 	margin-right: 0px;
 	padding-bottom: 10px;
     width: 321px;
+}
+
+.BuildItWithTechHOUNDSImages {
+	width: 321px;
+	margin-left: 25.5px;
+	margin-right: 25.5px;
+	display: inline-block;
+	margin-top: 25px;
+}
+
+.Row3 {
+	margin-top: 0px;
+    margin-bottom: 50px;
+    margin-right: 100px;
+    margin-left: 100px;
+    background-color: white;
+	display: flex;
+}
+
+.WTWSubTitle321px {
+	color: black;
+	text-align: center;
+	font-family: "Abel", sans-serif;
+	letter-spacing: 4.5px;
+	font-size: 21px;
+	border-bottom: 2px solid #fbc005;
+    margin-left: 25.5px;
+	margin-right: 0px;
+	padding-bottom: 10px;
+    width: 321px;
+	padding-top: 3px;
+}
+
+.Row3Section1 {
+	width: 346.5px;
+}
+
+.MentoringImage {
+	width: 321px;
+	margin-left: 25.5px;
+	margin-right: 25.5px;
+	display: inline-block;
+	margin-top: 25px;
+}
+
+.SpeakingtoInspireImage {
+	width: 321px;
+	margin-right: 25.5px;
+	display: inline-block;
+	margin-top: 25px;
 }
