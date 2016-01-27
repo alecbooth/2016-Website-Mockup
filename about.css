@@ -271,14 +271,13 @@ body, html {
 	margin-right: 439px;
 	text-align: center;
 }
-<<<<<<< HEAD
 .divider {
 	width: 0px;
 	border: 1px solid #fbc005;
 	display: inline-block;
 	margin-top: 25px;
 	margin-bottom: 130px;
-=======
+}
 .awards {
 	border-bottom: 2px solid black;
 	margin-left: 110px;
@@ -288,5 +287,4 @@ body, html {
 	border-bottom: 2px solid black;
 	margin-left: 100px;
 	margin-right: 100px;
->>>>>>> ed8d0a8fa2ed40d824311553d3518d74e7881663
 }
