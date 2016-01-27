@@ -1,9 +1,10 @@
-.womenInTechnologyWorkshop {
+.Row1 {
 	margin-top: 50px;
-    margin-bottom: 50px;
+    margin-bottom: 0px;
     margin-right: 100px;
     margin-left: 100px;
     background-color: white;
+	display: flex;
 }
 
 .WTW {
@@ -71,6 +72,7 @@
 	margin-left: 25.5px;
 	margin-right: 25.5px;
 	display: inline-block;
+	margin-top: 25px;
 }
 
 .WTWSubTitle {
@@ -89,25 +91,76 @@
 	color: black;
 	text-align: left;
 	font-family: 'Montserrat', sans-serif;
-	font-size: 15px;
+	font-size: 13px;
 	letter-spacing: 0px;
     margin-left: 26px;
-    margin-bottom: 25px;
-    padding-bottom: 10px;
-	display: inline-block;
 	width: 481px;
+	margin-bottom: 0px;
 }
 
 .FIRSTSTEPImage {
 	width: 481px;
-	display: inline-block;
 	margin-left: 26px;
-}
-.inLine {
-	display: inline-block;
-	margin-top: 25.5px;
+	margin-top: 25px;
 }
 
-#right {
-	margin-bottom: 25.5px;
+.Row2 {
+	margin-top: 0px;
+    margin-bottom: 50px;
+    margin-right: 100px;
+    margin-left: 100px;
+    background-color: white;
+	display: flex;
+}
+
+.continueReading {
+	text-align: right;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 13px;
+	letter-spacing: 0px;
+    margin-left: 26px;
+	margin-top: 0px;
+	margin-right: 25px;
+	font-style: italic;
+	color: #0a46a8;
+}
+
+#continueReadingRight {
+	margin-right:0px;
+}
+
+.HoundFoundImage {
+	width: 321px;
+	margin-left: 25.5px;
+	margin-right: 25.5px;
+	display: inline-block;
+	margin-top: 25px;
+}
+
+.WTWSubTitle3 {
+	color: black;
+	text-align: center;
+	font-family: "Abel", sans-serif;
+	letter-spacing: 4.5px;
+	font-size: 25px;
+	border-bottom: 2px solid #fbc005;
+    margin-left: 25.5px;
+	margin-right: 0px;
+	padding-bottom: 10px;
+    width: 321px;
+}
+
+.Row2Section1 {
+	width: 346.5px;
+}
+
+.multiParagraphWTW3 {
+	color: black;
+	text-align: left;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 13px;
+	letter-spacing: 0px;
+    margin-left: 26px;
+	width: 321px;
+	margin-bottom: 0px;
 }
