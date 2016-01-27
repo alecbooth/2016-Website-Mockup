@@ -46,8 +46,10 @@ p {
 	padding-left: 25px;
 	padding-right: 25px;
 	font-family: "Montserrat", sans-serif;
+	margin-bottom: 0px;
 }
 h3 {
 	font-size: 30px;
 	font-family: "Abel", sans-serif;
+	margin-top: 0px;
 }
