@@ -89,11 +89,13 @@ body, html {
 	margin: 6px;
 	text-decoration: none;
 	margin-top: 0;
+	margin-right: 60px;
 }
 .header ul > a > li {
 	color: white;
 	text-align: center;
 	text-decoration: none;
+	font-size: 17px;
 }
 .header ul > a:hover {
 	background-color: #fbc005;
@@ -128,34 +130,52 @@ body, html {
 	display: flex;
 	align-items: center;
 	justify-content: center;
-	/*align-self: flex-end;*/
 	position: absolute;
 	z-index: 1;
-	
+	margin-left: 480px;
+	margin-top: 40px;
 }
 .img {
 	height: 200px;
 }
 .all {
-	/*display: flex;
-	justify-content: space-between;
-	height: 230px;*/
-	
+	position: relative;
 }
-.head > div> h2 {
+#TECHHOUNDS {
 	font-size: 48px;
+	margin-bottom: 20px;
+	margin-top: 20px;
+
 	font-family: 'Raleway', sans-serif;
 	letter-spacing: 4px;
-
 	text-align: center;
 	color: white;
 }
 .upper {
-font-size: 1.2em;
-}
-.TECHHOUNDS {
-	color: white;
+	font-size: 1.2em;
 }
 .header{
-	z-index: 0;
+	position: absolute;
+	margin-top: 5px;
+}
+#tH {
+	border-top: 2px solid #fbc005;
+	border-bottom: 2px solid #fbc005;
+	padding: 5px 50px 10px 100px;
+}
+#eight{
+	margin-bottom: 0px;
+	margin-top: 0px;
+	
+	text-align: center;
+	color: white;
+	font-family: 'Raleway', sans-serif;
+	letter-spacing: 4px;
+}
+.flexEnd {
+	display: flex;
+	justify-content: flex-end;
+}
+#coin {
+
 }
