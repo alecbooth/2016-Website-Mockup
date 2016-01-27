@@ -53,8 +53,8 @@ body, html {
     padding-bottom: 15px;
 }
 
-.leaderpic {
-	width: 25%;
+.leaderPic {
+	width: 24.86%;
 }
 
 .leadertext {
@@ -62,7 +62,7 @@ body, html {
 	color: black;
 }
 
-.woodie {
+/*.woodie {
 	
 	border-left: 2px solid #fbc005;
 }
@@ -73,7 +73,7 @@ body, html {
 
 .robert {
 	border-left: 2px solid #fbc005;
-}
+}*/
 
 .footer1 {
 	text-align: center;
@@ -270,4 +270,23 @@ body, html {
 	margin-left: 429px;
 	margin-right: 439px;
 	text-align: center;
+}
+<<<<<<< HEAD
+.divider {
+	width: 0px;
+	border: 1px solid #fbc005;
+	display: inline-block;
+	margin-top: 25px;
+	margin-bottom: 130px;
+=======
+.awards {
+	border-bottom: 2px solid black;
+	margin-left: 110px;
+	margin-right: 110px;
+}
+.awards1 {
+	border-bottom: 2px solid black;
+	margin-left: 100px;
+	margin-right: 100px;
+>>>>>>> ed8d0a8fa2ed40d824311553d3518d74e7881663
 }
