@@ -1,0 +1,136 @@
+
+/*#ffcc66 is the light yellow hex #0f64f0 is the blue*/
+body, html {
+margin: 0;
+padding: 0;
+font-family: 'Montserrat', sans-serif;
+
+background-image:
+	linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
+	url("header_bg.jpg");
+
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment: fixed;
+
+line-height: 2em;
+}
+
+/*
+*, *:before, *:after {
+box-sizing: border-box;
+}
+
+#homeLogo {
+height: 150px;
+padding-left: 15px;
+align-self: center;
+
+}
+.head {
+display: flex;
+flex-flow: row nowrap;
+align-items: flex-end;
+justify-content: center;
+line-height: 1em;
+
+}
+.header {
+background-color: #0A46A8;
+margin-left: 100px;
+margin-right: 100px;
+margin-top: 35px;
+font-size: 17px;
+
+}
+.header p, header h1, header h2 {
+color: white;
+}
+.header ul {
+overflow: hidden;
+list-style-type:none;
+margin-top: 0px;
+}
+.header ul > a {
+display: inline-block;
+padding: 18px;
+margin: 6px;
+text-decoration: none;
+margin-top: 0;
+}
+.header ul > a > li {
+color: white;
+text-align: center;
+text-decoration: none;
+}
+.header ul > a:hover {
+background-color: #fbc005;
+}
+.header ul > a:hover > li {
+color: black;
+border-bottom-color: black;
+}
+.header > img {
+margin-bottom: none;
+}
+.underline {
+border-bottom: 4px solid #fbc005;
+padding-left: 8px;
+padding-right: 8px;
+padding-bottom: 5px;
+}
+#headerDivTwo > h2 {
+margin: 0;
+padding-top: 15px;
+padding-bottom: 30px;
+margin-top: 17px;
+
+font-size: 48px;
+font-family: 'Fjalla One', sans-serif;
+letter-spacing: 5px;
+font-family: 'Raleway', sans-serif;
+letter-spacing: 4px;
+
+text-align: center;
+color: white;
+}
+#headerDivTwo {
+margin-top: 10px;
+}
+.upper {
+font-size: 1.2em;
+}
+.navbar {
+border-bottom: 2px solid white;
+padding-left: 5px;
+margin-left: 35px;
+}
+.slideDiv{
+	border: 25px solid white;
+	border-right: 25px solid white;*/
+border-bottom: 25px solid white;
+border-top: 25px solid #0A46A8;
+width:1080px;
+height: 644px;
+z-index: 2;
+}
+.slideImg{
+margin: 0;
+width:1080px;
+height: 644px;
+}
+#slideId {
+display:inline-block;
+
+}
+.surround{
+height:644px;
+width:1080px;
+
+margin-left:100px;
+margin-top: 0px;
+margin-bottom: 0;
+
+background-color: white;
+}
+*/
