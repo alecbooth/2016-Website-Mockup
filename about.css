@@ -247,3 +247,27 @@ body, html {
 .whoWeAreDescription  {
 	
 }
+.subTitle1 {
+	color: black;
+	text-align: center;
+	font-family: "Abel", sans-serif;
+	letter-spacing: 4.5px;
+	font-size: 30px;
+	margin-left: 25px;
+	border-bottom: 2px solid black;
+}
+.aboutTitle {
+	margin-left: 390px;
+	margin-right: 400px;	
+	text-align: center;
+}
+.aboutTitle1 {
+	margin-left: 787px;
+	margin-right: 60px;	
+	text-align: center;
+}
+.aboutTitle2 {
+	margin-left: 429px;
+	margin-right: 439px;
+	text-align: center;
+}
