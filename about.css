@@ -116,7 +116,8 @@ body, html {
 
 
 .whoWeAre {
-	padding-top: 2px;
+	padding-top: 5px;
+	padding-bottom: 5px;
 }
 
 .FIRST-explanation 	 {
@@ -241,4 +242,8 @@ body, html {
 	margin-bottom: 15px;
 	letter-spacing: 0px;
 	padding-bottom: 15px;
+}
+
+.whoWeAreDescription  {
+	
 }
