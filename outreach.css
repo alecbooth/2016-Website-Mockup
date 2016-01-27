@@ -49,3 +49,65 @@
 	border-bottom-style: solid;
 	border-bottom-color: black;
 }
+
+.backgroundClearWTW {
+	color: white;
+    font-family: "Abel", sans-serif;
+    letter-spacing: 4.5px;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 50px;
+    text-align: center;
+    letter-spacing: 4.5px;
+    border-bottom-style: solid;
+    border-bottom-color: #fbc005;
+    margin-left: 400px;
+    margin-right: 400px;
+    margin-bottom: 15px;
+}
+
+.WTWImage {
+	width: 481px;
+	margin-left: 25.5px;
+	margin-right: 25.5px;
+	display: inline-block;
+}
+
+.WTWSubTitle {
+	color: black;
+	text-align: center;
+	font-family: "Abel", sans-serif;
+	letter-spacing: 4.5px;
+	font-size: 25px;
+	border-bottom: 2px solid #fbc005;
+    margin-left: 25.5px;
+	margin-right: 25.5px;
+	padding-bottom: 10px;
+}
+
+.multiParagraphWTW {
+	color: black;
+	text-align: left;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 15px;
+	letter-spacing: 0px;
+    margin-left: 26px;
+    margin-bottom: 25px;
+    padding-bottom: 10px;
+	display: inline-block;
+	width: 481px;
+}
+
+.FIRSTSTEPImage {
+	width: 481px;
+	display: inline-block;
+	margin-left: 26px;
+}
+.inLine {
+	display: inline-block;
+	margin-top: 25.5px;
+}
+
+#right {
+	margin-bottom: 25.5px;
+}
