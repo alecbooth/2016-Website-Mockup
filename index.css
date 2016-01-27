@@ -17,10 +17,18 @@ body, html {
 *, *:before, *:after {
 	box-sizing: border-box;
 }
+
+
+
+
 #homeLogo {
-	height: 150px;
-	padding-left: 15px;
-	align-self: center;
+	height: 245px;
+	/*padding-left: 15px;
+	align-self: center;*/
+    margin-left: -100px;
+    margin-bottom: -40px;
+	z-index: 3;
+
 }
 .head {
 	display: flex;
@@ -28,44 +36,47 @@ body, html {
 	align-items: flex-end;
 	justify-content: center;
 	line-height: 1em;
+	width: 1063px;
+	height: 180px;
 	
 }
-header {
+.header {
 	background-color: #0A46A8;
 	margin-left: 100px;
 	margin-right: 100px;
-	margin-top: 35px;
+	margin-top: 50px;
 	font-size: 17px;
 	/*width: 1063px;*/
+
 }
-header p, header h1, header h2 {
+.header p, header h1, header h2 {
 	color: white;
 }
-header ul {
+.header ul {
 	overflow: hidden;
 	list-style-type:none;
 	margin-top: 0px;
 }
-header ul > a {
+.header ul > a {
 	display: inline-block;
 	padding: 18px;
 	margin: 6px;
 	text-decoration: none;
 	margin-top: 0;
 }
-header ul > a > li {
+.header ul > a > li {
 	color: white;
 	text-align: center;
 	text-decoration: none;
 }
-header ul > a:hover {
+.header ul > a:hover {
 	background-color: #fbc005;
 }
-header ul > a:hover > li {
+.header ul > a:hover > li {
 	color: black;
 	border-bottom-color: black;
 }
-header > img {
+.header > img {
 	margin-bottom: none;
 }
 .underline {
@@ -204,9 +215,8 @@ header > img {
 .surround{
 	height:644px;
 	width:1063px;
-	
-	margin: 100px;
-	margin-top: 0;
+
+	margin-top: 0px;
 	margin-bottom: 0;
 	
 	background-color: white;
