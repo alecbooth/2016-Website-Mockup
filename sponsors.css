@@ -121,12 +121,11 @@
 	margin-left: 15px;
 	text-align: center; 
 }
-<<<<<<< HEAD
 .bronze {
 	width: 180px;
 	margin-left: 15px;
 	text-align: center; 
-=======
+}
 
 .multiParagraphBold {
 	color: black;
@@ -190,5 +189,7 @@
 	color: white;
 	
 	border-bottom: none;
->>>>>>> aae019fabf2bd48c4544923620b071ddd66c19ef
+}
+.bottom {
+	border-bottom: 2px solid #fbc005;
 }
