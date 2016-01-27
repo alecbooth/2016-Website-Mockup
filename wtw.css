@@ -1,0 +1,27 @@
+.mainh2 {
+	text-align: center;
+	color: white;
+	font-family: "Abel", sans-serif;
+	font-size: 40px;
+	border-bottom: 2px solid #fbc005;
+	padding-bottom: 15px;
+	margin-right: 350px;
+	margin-left: 350px;
+}
+.contentDiv {
+	background-color: white;
+	margin-right: 100px;
+	margin-left: 100px;
+	margin-bottom: 50px;
+}
+.contentDiv > p {
+	padding-right: 25px;
+	padding-left: 25px;
+	padding-top: 25px;
+}
+.contentDiv > ul > li {
+	margin-left: 75px;
+}
+.contentDiv > ul {
+	padding-bottom: 25px;
+}
