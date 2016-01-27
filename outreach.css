@@ -163,6 +163,10 @@
 	width: 321px;
 	margin-bottom: 0px;
 }
+.noUnderline {
+	color: #0a46a8;
+	text-decoration: none;
+}
 
 .HelpingHoundsImage {
 	width: 321px;
