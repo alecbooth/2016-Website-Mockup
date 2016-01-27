@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
+		<link rel="shortcut icon" href = "Gold_Coin.png">
 		<title>Team 868 | TechHOUNDS</title>
 		<link rel="stylesheet" type="text/css" href="index.css">
 		<link rel="stylesheet" type="text/css" href="sponsors.css">
@@ -19,7 +20,7 @@
 		
 	</head>
 	<body>
-		<header>
+		<div class= "header">
 			<div class="head">
 				<img src="Gold_Coin.png" id="homeLogo">
 				<div id = "headerDivTwo">
@@ -36,14 +37,14 @@
 			</div>
 			
 			<div class="subBar">
-				<a class="noDecoration" href="sponsors.html#Sponsors"><div>
+				<a class="noDecoration" href="sponsors.html#Sponsors"><div class="subBarNav">
 					<h5 class="subNav">Sponsors</h5>
 				</div></a>
-				<a class="noDecoration" href="sponsors.html#becomeASponsor"><div>
+				<a class="noDecoration" href="sponsors.html#becomeASponsor"><div class="subBarNav rightSubBar" >
 					<h5 class="subNav">Become a Sponsor</h5>
 				</div></a>
 			</div>
-		</header>
+		</div>
 	
 		<div class="sponsor1">
 			<h1 class="titleText1" id="Sponsors">Sponsors</h1>
@@ -54,7 +55,7 @@
 
 		<div class="sponsors">
 
-				<div class="topLevel">
+				<div class="sponsorLevel">
 					<h2 class="subTitle"> Signature Level ($6000+)</h2>
 					<img class="sponsorImage" src="http://techhounds2.tigerhuang.com/sponsors/img/CarmelHS.jpg">
 				</div>
@@ -99,7 +100,7 @@
 					</div>
 				</div>
 				
-				<div class="sponsorLevel">
+				<div class="sponsorLevel bottom">
 					<h2 class="subTitle"> Bronze Level (Up to $500)</h2>
 					<div class="sponsors1">
 					<img class="pip" src="http://www.columbusohiodirectmarketing.com/image/46834/400/Q100/">
@@ -118,15 +119,42 @@
 					<p class="sponsorText2">DIVsys</P>
 					<img class="bronze" src="data:image/jpeg;base64,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">
 					<P class="sponsorText2">Performance Services</P>
+					<p class="sponsorText2">Pergal ink.</p>
+					<p class="sponsorText2">North Star Pediatrics</p>
+					<img class="bronze" src="http://bluekarmasecurity.net/wp-content/uploads/2015/05/Vision-Solutions_logo.png">
+					<img class="bronze" src="http://mercedmall.com/wp-content/uploads/2015/02/baskin-robbins.jpg">
+					<img class="bronze" src="http://www.canaley.com/wp-content/uploads/2013/08/newlogo2.png">
+					<img class="bronze" src="https://upload.wikimedia.org/wikipedia/en/6/64/Edjones_logo.png">
+					<img class="bronze" src="http://www.wittlerortho.com/mobile/images/logo.png">
+					<img class="bronze" src="http://images.forbes.com/media/lists/companies/mcdonalds_416x416.jpg">
+					<p class="sponsorText2">LableNexus</P>
+					<p class="sponsorText2">Campbell Investments</p>
+					<p class="sponsorText2">Vignesh Technological Solutions</p>
+					<img class="bronze" src="http://techhounds2.tigerhuang.com/sponsors/img/agile.png">
+					<p class="sponsorText2">Ace One Services</p>
+					<p class="sponsorText2">Synaptic Blue</p>
+					<img class="bronze" src="http://www.industrialbolting.com/ibt/images/logo1_100.gif">
+					<img class="bronze" src="https://d3w50y3vm0ysj5.cloudfront.net/mydlink-logo/logo_us.gif">
+					<p class="sponsorText2">MLB Properties</p>
+					<img class="bronze" src="http://www.dailysfarmmarket.com/Portals/10/dailyslogotoken.png">
+					<img class="bronze" src="http://arcdesign.us/wp-content/themes/basic_wp_template/images/new-logo.jpg">
+					<img class="bronze" src="http://holscherproductsinc.com/skin/frontend/default/theme558/images/logo.png">
+					<img class="bronze" src="https://womenandhitech.wildapricot.org/Resources/Pictures/WHTLogo.jpg">
+					<img class="bronze" src="http://jacksarebetter.net/wp-content/uploads/2013/01/JAB_Trans_Org_550.gif">
+					<img class="bronze" src="http://69.195.124.239/~dssindyc/wp-content/uploads/2014/07/DSS-LOGO-FINAL-1.png">
+					<p class="sponsorText2">Brandon K Tiek, DDS</p>
+					<p class="sponsorText2">Leslie Clarke Photography</p>
+					<p class="sponsorText2">Howard</p>
+					<p class="sponsorText2">Phoenix Home Solutions</p>
 					</div>
 			</div>	
 		</div>
 		<div class="backgroundClearWhoWeAre" id="becomeASponsor"> <h1>Become a Sponsor</h1> </div>
 		<div class="Sponsor">
-			<p class="multiParagraphCenterTop">Team 868 owes all of its success and sustainability to its generous sponsors. The sponsors recognize that they are making a positive
-			investment in the future and are donating to a team that is part of an outstanding organization.</p>
-			<p class="multiParagraphCenter"> We thank all of our sponsors for their engineers on our team. material resources, and/or monetary contributions</p>
-			<p class="multiParagraphBold"> Interested in becoming a sponsor? Click the form below for a PDF printout.</p>
+			<h3 class="multiParagraphCenterTop">Team 868 owes all of its success and sustainability to its generous sponsors. The sponsors recognize that they are making a positive
+			investment in the future and are donating to a team that is part of an outstanding organization.</h3>
+			<h3 class="multiParagraphCenter"> We thank all of our sponsors for their engineers on our team. material resources, and/or monetary contributions</h3>
+			<h2 class="multiParagraphBold"> Interested in becoming a sponsor? Click the form below for a PDF printout.</h2>
 			<a href="techhounds-sponsorship-form.pdf">
 				<img class="sponsorPic" src="http://techhounds2.tigerhuang.com/become-a-sponsor/techhounds-sponsorship-form.png"/>
 			</a>

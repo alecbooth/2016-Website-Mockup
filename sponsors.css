@@ -127,6 +127,10 @@
 	margin-left: 15px;
 	text-align: center; 
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> 2742c17c8358a8a3976c13b430910ce2c7e3cf87
 .multiParagraphBold {
 	color: black;
 	text-align: center;
@@ -189,4 +193,10 @@
 	color: white;
 	
 	border-bottom: none;
+<<<<<<< HEAD
+=======
+}
+.bottom {
+	border-bottom: 2px solid #fbc005;
+>>>>>>> 2742c17c8358a8a3976c13b430910ce2c7e3cf87
 }
