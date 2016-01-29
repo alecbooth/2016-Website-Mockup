@@ -1,4 +1,4 @@
-/*#ffcc66 is the light yellow hex #0f64f0 is the blue*/
+/*#ffcc66 is the light yellow hex #0A46A8 is the blue*/
 body, html {
 	margin: 0;
 	padding: 0;
@@ -339,21 +339,21 @@ header {
 	justify-content: center;
 }
 #topRow {
-	border-bottom: 4px solid #fbc005;
+	/*border-bottom: 2.5px solid #fbc005;*/
 }
 .division-row > div {
 	flex-grow: 1;
 	flex-basis: 0;
 }
 .divisionLeft{
-	border-right: 2px solid #fbc005;
+	/*border-right: 2px solid #fbc005;*/
 }
 .divisionCenter{
-	border-right: 2px solid #fbc005;
-	border-left: 2px solid #fbc005;
+	/*border-right: 2px solid #fbc005;
+	border-left: 2px solid #fbc005;*/
 }
 .divisionRight{
-	border-left: 2px solid #fbc005;
+	/*border-left: 2px solid #fbc005;*/
 }
 .division-row > div > h1 {
 	border-bottom: 2px solid white;
@@ -569,4 +569,34 @@ header {
 }
 .rightSubBar{
 	margin-right: 25px;
+}
+.span {
+	width: 0px;
+	border: 1.5px solid #fbc005;
+	display: inline-block;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+.spanBottom {
+	width: 0px;
+	border: 1.5px solid #fbc005;
+	display: inline-block;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+.secondSpan {
+	height: 0px;
+	width: 250px;
+	display: inline-block;
+	border: 1.5px solid #fbc005;
+}
+#secondSpanOne {
+	margin-left: 56px; 
+}
+
+#secondSpanTwo {
+	margin-left: 91px;
+}
+#secondSpanThree {
+	margin-left: 105px;
 }
