@@ -40,8 +40,10 @@
 }
 .img {
 	display: flex;
-	margin-right: 333px;
+	margin-right: 183px;
 	height: 500px;
+	margin-left: 50px;
+	
 }
 .p {
 	padding-left: 25px;
@@ -84,8 +86,8 @@ h3 {
 	margin-top: 75px; 
 }
 .boardText {
-	padding-left: 108px;
+	padding-left: 164px;
 }
 .boardText1 {
-	padding-left: 91px;
+	padding-left: 136px;
 }
