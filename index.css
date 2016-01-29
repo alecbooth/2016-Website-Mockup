@@ -33,7 +33,6 @@ body, html {
 	align-items: flex-end;
 	justify-content: center;
 	line-height: 1em;
-	
 }
 .header {
 	background-color: #0A46A8;
@@ -225,7 +224,6 @@ body, html {
 	justify-content: center;
 }
 .videoLinkDiv {
-	height: 348px;
 	margin-right: 98px;
 	margin-left: 98px;
 
