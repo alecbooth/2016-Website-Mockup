@@ -86,7 +86,14 @@ h3 {
 	margin-top: 75px; 
 }
 .boardText {
-	padding-left: 164px;
+	margin-left: 237px;
+}
+.boardText1 {
+	padding-left: 91px;
+}
+#marginLeft {
+	margin-left: 128px;
+    margin-right: 0px;
 }
 .boardText1 {
 	padding-left: 136px;
