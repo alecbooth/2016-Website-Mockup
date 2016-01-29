@@ -106,7 +106,7 @@ body, html {
 header {
 	display: flex;
 	align-items: center;
-	justify-content: flex-start;
+	justify-content: flex-end;
 	margin-right: 40px;
 	margin-top: -40px;
 }
@@ -137,7 +137,6 @@ header {
 	border-top: 2px solid #fbc005;
 	border-bottom: 2px solid #fbc005;
 	padding: 5px 50px 10px 100px;
-	margin-left: 175px;
 }
 #eight{
 	margin-bottom: 0px;
@@ -165,12 +164,12 @@ header {
 
 
 .slideDiv{
-	width:1080px;
+	width:1063px;
 	height: 644px;
 }
 .slideImg{
 	margin: 0;
-	width:1080px;
+	width:1063px;
 	height: 644px;
 }
 #slideId {
@@ -178,7 +177,7 @@ header {
 }
 .surround{
 	height:644px;
-	width:1080px;
+	width:1063px;
 
 	margin: 5px 0px 0px 100px;
 
@@ -187,18 +186,25 @@ header {
 
 
 
-.slogan {
+
+.inBetween {
+	background-color: #0A46A8;
+	margin: 50px 100px 50px 100px;
+	padding: 75px;	
+	display: flex;
+	align-items:center;
+	justify-content: center;
 	color: white;
-	font-size: 12px;
-	margin-left: 100px;
 }
-#one {
-	margin-bottom: 0px;
-	margin-top: 10px;
+br {
+	height: 10px;
 }
-#two {
-	margin: 0px;
-}
-#three {
-	margin-top: 0px;
+#slogan {
+	text-align: center;
+	font-size: 22px;
+	
+	padding: 0px 50px;
+	
+	border-top: 2px solid #fbc005;
+	border-bottom: 2px solid #fbc005;
 }
