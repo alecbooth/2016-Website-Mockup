@@ -38,7 +38,7 @@
 	margin-left: 279px;
 	font-size: 30px;
 }
-.img {
+.boardImg {
 	display: flex;
 	margin-right: 183px;
 	height: 500px;
@@ -51,10 +51,12 @@
 	font-family: "Montserrat", sans-serif;
 	margin-bottom: 0px;
 }
-h3 {
+.Firsth3 {
 	font-size: 30px;
 	font-family: "Abel", sans-serif;
 	margin-top: 0px;
+	display: flex;
+	margin-right: 0px;
 }
 .teamresources {
 	margin-right: 100px;
@@ -68,12 +70,6 @@ h3 {
 	float: right;
 	text-align: center;
 }
-
-h3 {
-	display: flex;
-	margin-right: 0px;
-}
-
 .flex {
 	display: flex;
 	height: 500px;
