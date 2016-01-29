@@ -21,89 +21,139 @@ body, html {
 
 
 
-#homeLogo {
-	height: 150px;
-	padding-left: 15px;
-	align-self: center;
-
-}
-.head {
-	display: flex;
-	flex-flow: row nowrap;
-	align-items: flex-end;
-	justify-content: center;
-	line-height: 1em;
-}
-.header {
-	background-color: #0A46A8;
-	margin-left: 100px;
-	margin-right: 100px;
-	margin-top: 35px;
-	font-size: 17px;
-
-}
-.header p, header h1, header h2 {
-	color: white;
-}
 .header ul {
 	overflow: hidden;
 	list-style-type:none;
 	margin-top: 0px;
+	margin-bottom: 0px;
+	display: flex;
+	align-items: baseline;
 }
 .header ul > a {
-	display: inline-block;
+	display: block;
+	
 	padding: 18px;
 	margin: 6px;
 	text-decoration: none;
 	margin-top: 0;
+	margin-right: 20px;
 }
 .header ul > a > li {
 	color: white;
 	text-align: center;
 	text-decoration: none;
+	font-size: 17px;
 }
-.header ul > a:hover {
+#headerDivTwo ul > a:hover {
 	background-color: #fbc005;
 }
-.header ul > a:hover > li {
+#headerDivTwo ul > a:hover > li {
 	color: black;
 	border-bottom-color: black;
 }
-.header > img {
-	margin-bottom: none;
-}
-.underline {
+#underline {
 	border-bottom: 4px solid #fbc005;
-	padding-left: 8px;
-	padding-right: 8px;
-	padding-bottom: 5px;
+
+	padding: 0px 8px 8px 8px;
 }
 #headerDivTwo > h2 {
 	margin: 0;
 	padding-top: 15px;
 	padding-bottom: 30px;
 	margin-top: 17px;
-	
+
 	font-size: 48px;
-	font-family: 'Fjalla One', sans-serif;
-	letter-spacing: 5px;
 	font-family: 'Raleway', sans-serif;
 	letter-spacing: 4px;
-	
+
 	text-align: center;
 	color: white;
 }
-#headerDivTwo {
-	margin-top: 10px;
+.navbar {
+	padding-left: 0px;
+}
+
+header {
+	display: flex;
+	align-items: center;
+	justify-content: flex-start;
+	margin-right: 40px;
+	margin-top: 40px;
+	position: absolute;
+	z-index:1;
+}
+.img {
+	height: 200px;
+}
+.all {
+	position: relative;
+	display: block;
+	height: 250px;
+}
+#TECHHOUNDS {
+	font-size: 48px;
+	margin-bottom: 20px;
+	margin-top: 20px;
+
+	font-family: 'Raleway', sans-serif;
+	letter-spacing: 4px;
+	text-align: center;
+	color: white;
 }
 .upper {
 	font-size: 1.2em;
 }
-.navbar {
-	border-bottom: 2px solid white;
-	padding-left: 5px;
+.header{
+	margin-top: 15px;
+	margin-left: 10px;
+	position: absolute;
+	z-index: 2;
+}
+#tH {
+	border-top: 2px solid #fbc005;
+	border-bottom: 2px solid #fbc005;
+	padding: 5px 50px 10px 100px;
+	margin-left: 190px;
+}
+#eight{
+	margin-bottom: 0px;
+	margin-top: 0px;
+	
+	text-align: center;
+	color: white;
+	font-family: 'Raleway', sans-serif;
+	letter-spacing: 4px;
+}
+.flexEnd {
+	display: flex;
+	justify-content: flex-end;
+}
+#coin {
+}
+#headerDivTwo {
+	display: flex;
+	flex-flow: row nowrap;
+	align-items: flex-end;
+	line-height: 1em;
+}
+.slogan {
+	color: white;
+	font-size: 14px;
 	margin-left: 35px;
 }
+#one {
+	margin-bottom: 0px;
+	margin-top: 20px;
+}
+#two {
+	margin: 0px;
+}
+#three {
+	margin-top: 0px;
+}
+
+
+
 .div{
 	text-align: center;
 	vertical-align: center;
@@ -121,8 +171,7 @@ body, html {
 	border-bottom: 25px solid white;
 	border-top: 25px solid #0A46A8;*/
 	width:1063px;
-	height: 644px;
-	z-index: 2;
+	height: 375px;
 }
 .robotDiv{
 	height:321px;
@@ -134,7 +183,7 @@ body, html {
 .slideImg{
 	margin: 0;
 	width:1063px;
-	height: 644px;
+	height: 375px;
 }
 #slideId {
 	display:inline-block;
@@ -206,13 +255,11 @@ body, html {
 	height: 354px;
 }
 .surround{
-	height:644px;
+	height:375px;
 	width:1063px;
 
-	margin-left:100px;
-	margin-top: 0px;
-	margin-bottom: 0;
-	
+	margin: 40px 0px 0px 100px;
+
 	background-color: white;
 }
 .inBetween {
