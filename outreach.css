@@ -130,6 +130,7 @@
 
 .HoundFoundImage {
 	width: 321px;
+	height: 214px;
 	margin-left: 25.5px;
 	margin-right: 25.5px;
 	display: inline-block;
@@ -181,6 +182,7 @@
 	margin-right: 25.5px;
 	display: inline-block;
 	margin-top: 25px;
+	height: 214px;
 }
 
 .multiParagraphWTW3Right {
@@ -215,6 +217,7 @@
 	margin-right: 25.5px;
 	display: inline-block;
 	margin-top: 25px;
+	height: 214px;
 }
 
 .Row3 {
@@ -250,6 +253,7 @@
 	margin-right: 25.5px;
 	display: inline-block;
 	margin-top: 25px;
+	height: 214px;
 }
 
 .SpeakingtoInspireImage {
@@ -257,4 +261,5 @@
 	margin-right: 25.5px;
 	display: inline-block;
 	margin-top: 25px;
+	height: 214px;
 }
