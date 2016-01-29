@@ -86,7 +86,6 @@ h3 {
 	margin-top: 75px; 
 }
 .boardText {
-<<<<<<< HEAD
 	margin-left: 237px;
 }
 .boardText1 {
@@ -94,11 +93,8 @@ h3 {
 }
 #marginLeft {
 	margin-left: 128px;
-	margin-right: 50px
-=======
-	padding-left: 164px;
+    margin-right: 0px;
 }
 .boardText1 {
 	padding-left: 136px;
->>>>>>> ac30f250e5f49ab0188536031b8728d6ec24c1d3
 }
