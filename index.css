@@ -549,7 +549,6 @@ header {
 	color: white;
 	display: flex;
 	flex-flow: row wrap;
-	justify-content: flex-end;
 }
 .subNav {	
 	margin: 0px 15px 15px 15px;
