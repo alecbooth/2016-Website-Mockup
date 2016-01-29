@@ -39,8 +39,11 @@
 	font-size: 30px;
 }
 .img {
-	margin-left: 86.5px;
-	margin-right: 86.5px;
+	display: flex;
+	margin-right: 183px;
+	height: 500px;
+	margin-left: 50px;
+	
 }
 .p {
 	padding-left: 25px;
@@ -52,4 +55,46 @@ h3 {
 	font-size: 30px;
 	font-family: "Abel", sans-serif;
 	margin-top: 0px;
+}
+.teamresources {
+	margin-right: 100px;
+	
+	margin-bottom: 50px;
+	background-color: white;
+	text-align: center;
+	font-family: "Montserrat", sans-serif;
+}
+.download1  {
+	float: right;
+	text-align: center;
+}
+
+h3 {
+	display: flex;
+	margin-right: 0px;
+}
+
+.flex {
+	display: flex;
+	height: 500px;
+}
+.boardpic {
+	padding-left: 50px;
+	
+}
+.clickHere {
+	margin-top: 75px; 
+}
+.boardText {
+	margin-left: 237px;
+}
+.boardText1 {
+	padding-left: 91px;
+}
+#marginLeft {
+	margin-left: 128px;
+    margin-right: 0px;
+}
+.boardText1 {
+	padding-left: 136px;
 }
