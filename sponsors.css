@@ -180,22 +180,6 @@
 	max-width: 100%;
 }
 
-.subBar {
-	color: white;
-	display: flex;
-	flex-flow: row wrap;
-	justify-content: flex-end;
-}
-.subNav {	
-	margin: 0px 15px 15px 15px;
-	font-family: "Montserrat", sans-serif;
-	text-decoration: none;
-	color: white;
-	
-	border-bottom: none;
-
-}
-
 .bottom {
 	border-bottom: 2px solid #fbc005;
 
