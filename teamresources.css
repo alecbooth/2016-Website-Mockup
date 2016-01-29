@@ -33,21 +33,12 @@
 	margin-bottom: 15px;
 	letter-spacing: 0px;
 }
-.loginDiv {
-	border: 1px solid black;
-	display: flex;
-	height: 25px;
-	width: 140px;
-	margin-left: 26px;
-	
-}
 .footer1 {
 	text-align: center;
 	background-color: #FFF;
 	padding: 14px 15px 10px;
 	height:80px;
-	align-items: flex-end;
-	margin-top: 240px;
+	margin-top: 260px;
 	
 }
 .footer1 a { 
@@ -58,4 +49,18 @@
 .footer1::after {
 	content: "";
 	clear: both;
+}
+.inputU {
+	margin-left: 25px;
+	password: techhound;
+}
+.inputP {
+	margin-left: 25px;
+	password: techhound;
+}
+.form {
+	margin-left: 25px;
+}
+.blah {
+	margin-left: 25px;
 }
