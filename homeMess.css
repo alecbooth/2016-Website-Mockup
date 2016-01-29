@@ -137,7 +137,7 @@ header {
 	border-top: 2px solid #fbc005;
 	border-bottom: 2px solid #fbc005;
 	padding: 5px 50px 10px 100px;
-	margin-left: 175px;
+	margin-left: 205px;
 }
 #eight{
 	margin-bottom: 0px;
@@ -165,22 +165,22 @@ header {
 
 
 .slideDiv{
-	width:1080px;
-	height: 644px;
+	width:1063px;
+	height: 375px;
 }
 .slideImg{
 	margin: 0;
-	width:1080px;
-	height: 644px;
+	width:1063px;
+	height: 375px;
 }
 #slideId {
 	display:inline-block;
 }
 .surround{
-	height:644px;
-	width:1080px;
+	height:375px;
+	width:1063px;
 
-	margin: 5px 0px 0px 100px;
+	margin: 40px 0px 0px 100px;
 
 	background-color: white;
 }
@@ -189,12 +189,12 @@ header {
 
 .slogan {
 	color: white;
-	font-size: 12px;
-	margin-left: 100px;
+	font-size: 14px;
+	margin-left: 35px;
 }
 #one {
 	margin-bottom: 0px;
-	margin-top: 10px;
+	margin-top: 20px;
 }
 #two {
 	margin: 0px;

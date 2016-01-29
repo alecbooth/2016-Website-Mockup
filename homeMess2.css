@@ -165,21 +165,21 @@ header {
 
 .slideDiv{
 	width:1063px;
-	height: 644px;
+	height: 375px;
 }
 .slideImg{
 	margin: 0;
 	width:1063px;
-	height: 644px;
+	height: 375px;
 }
 #slideId {
 	display:inline-block;
 }
 .surround{
-	height:644px;
+	height:375px;
 	width:1063px;
 
-	margin: 5px 0px 0px 100px;
+	margin: 40px 0px 0px 100px;
 
 	background-color: white;
 }
