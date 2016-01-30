@@ -256,6 +256,26 @@ body, html {
 	margin-left: 25px;
 	border-bottom: 2px solid black;
 }
+.subTitle2 {
+	color: black;
+	text-align: center;
+	font-family: "Abel", sans-serif;
+	letter-spacing: 4.5px;
+	font-size: 30px;
+	margin-left: 125px;
+	margin-right: 125px;
+	border-bottom: 2px solid black;
+}
+.subTitle3 {
+	color: black;
+	text-align: center;
+	font-family: "Abel", sans-serif;
+	letter-spacing: 4.5px;
+	font-size: 30px;
+	margin-left: 150px;
+	margin-right: 150px;
+	border-bottom: 2px solid black;
+}
 .aboutTitle {
 	margin-left: 390px;
 	margin-right: 400px;	
