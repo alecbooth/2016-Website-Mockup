@@ -271,6 +271,8 @@ body, html {
 	margin-right: 439px;
 	text-align: center;
 }
+.aboutTitle3 {
+}
 .divider {
 	width: 0px;
 	border: 1px solid #fbc005;
@@ -292,7 +294,11 @@ body, html {
 
 .contactPeople{
 	display: flex;
-	align-items: flex-start;
+	justify-content: flex-start;
 }
 .leads {
+	flex: 2 6 20%;
+}
+.mentors {
+	flex: 1 6 20%;
 }
