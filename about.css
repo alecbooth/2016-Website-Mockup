@@ -288,3 +288,11 @@ body, html {
 	margin-left: 100px;
 	margin-right: 100px;
 }
+
+
+.contactPeople{
+	display: flex;
+	align-items: flex-start;
+}
+.leads {
+}
