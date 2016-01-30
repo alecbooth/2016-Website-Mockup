@@ -588,4 +588,14 @@ header {
 	display: inline-block;
 	margin-top: 0px;
 	margin-bottom: 5px;
+}*/
+
+.slant:after {
+	position: absolute;
+	z-index: 1;
+	transform: skew(45deg);
+	transform-origin: 100% 0 0 0;
+	background: #0A46A8;
+	height: 45px;
+	width: 200px;
 }
