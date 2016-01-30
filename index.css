@@ -340,7 +340,7 @@ header {
 	justify-content: center;
 }
 #topRow {
-	/*border-bottom: 2.5px solid #fbc005;*/
+	border-bottom: 1.5px solid #fbc005;
 }
 .division-row > div {
 	flex-grow: 1;
@@ -576,29 +576,19 @@ header {
 	width: 0px;
 	border: 1.5px solid #fbc005;
 	display: inline-block;
-	margin-top: 50px;
-	margin-bottom: 50px;
+	margin-top: 87px;
+	margin-bottom: 0px;
 }
 .spanBottom {
 	width: 0px;
 	border: 1.5px solid #fbc005;
 	display: inline-block;
-	margin-top: 50px;
-	margin-bottom: 50px;
+	margin-top: 0px;
+	margin-bottom: 87px;
 }
 .secondSpan {
 	height: 0px;
-	width: 250px;
+	width: 200px;
 	display: inline-block;
 	border: 1.5px solid #fbc005;
-}
-#secondSpanOne {
-	margin-left: 56px; 
-}
-
-#secondSpanTwo {
-	margin-left: 91px;
-}
-#secondSpanThree {
-	margin-left: 105px;
 }
