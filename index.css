@@ -104,6 +104,9 @@ header {
 .upper {
 	font-size: 1.2em;
 }
+.lower{
+	font-size: 0.8em;
+}
 .header{
 	margin-top: 15px;
 	margin-left: 10px;
