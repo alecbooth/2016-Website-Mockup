@@ -343,21 +343,21 @@ header {
 	justify-content: center;
 }
 #topRow {
-	border-bottom: 1.5px solid #fbc005;
+	border-bottom: 2px solid #fbc005;
 }
 .division-row > div {
 	flex-grow: 1;
 	flex-basis: 0;
 }
 .divisionLeft{
-	/*border-right: 2px solid #fbc005;*/
+	border-right: 1.5px solid #fbc005;  
 }
 .divisionCenter{
-	/*border-right: 2px solid #fbc005;
-	border-left: 2px solid #fbc005;*/
+	border-right: 1.5px solid #fbc005;
+	border-left: 1.5px solid #fbc005;
 }
 .divisionRight{
-	/*border-left: 2px solid #fbc005;*/
+	border-left: 1.5px solid #fbc005;
 }
 .division-row > div > h1 {
 	border-bottom: 2px solid white;
@@ -456,7 +456,7 @@ header {
 	
 	border-bottom: 2px solid #fbc005;
 }
-/*this is the code for the tabs, mostly text classe*/
+/*this is the code for the tabs, mostly text classes*/
 .titleText {
 	color: black;
 	text-align: center;
@@ -575,23 +575,17 @@ header {
 .rightSubBar{
 	margin-right: 25px;
 }
-.span {
+/*.span {
 	width: 0px;
 	border: 1.5px solid #fbc005;
 	display: inline-block;
-	margin-top: 87px;
-	margin-bottom: 0px;
+	margin-top: 15px;
+	margin-bottom: -50px;
 }
 .spanBottom {
 	width: 0px;
 	border: 1.5px solid #fbc005;
 	display: inline-block;
 	margin-top: 0px;
-	margin-bottom: 87px;
-}
-.secondSpan {
-	height: 0px;
-	width: 200px;
-	display: inline-block;
-	border: 1.5px solid #fbc005;
+	margin-bottom: 5px;
 }
