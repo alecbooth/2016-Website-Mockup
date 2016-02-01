@@ -15,6 +15,7 @@
 }
 .sponsorLevel {
 	border-top: 2px solid #fbc005;
+	padding-top: 25px;
 }
 .topLevel {
 	border-top: none;
@@ -180,10 +181,8 @@
 	max-width: 100%;
 }
 
-.bottom {
-	border-bottom: 2px solid #fbc005;
 
-}
+
 .titleDescription2 {
 	text-align: center;
 }
@@ -195,10 +194,11 @@
 }
 .subTitle2 {
 	color: black;
-	text-align: center;
+	text-align: left;
 	font-family: "Abel", sans-serif;
 	letter-spacing: 4.5px;
 	font-size: 30px;
 	margin-left: 25px;
-	padding-top: 20px;
+	padding-top: 25px;
+	border-bottom: none;
 }
