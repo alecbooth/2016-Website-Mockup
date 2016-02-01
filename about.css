@@ -6,10 +6,6 @@
 	float: left;
 }
 
-p {
-	line-height: 2em;
-}
-
 .underline {
 	border-bottom: 4px solid #fbc005;
 	padding-left: 8px;
@@ -34,8 +30,7 @@ p {
 	margin-right: 100px;
 	margin-top: 50px;
 	margin-bottom: 50px;
-	border-style: 2px solid #FBC005;
-	padding-bottom: 30px;
+	padding-bottom: 55px;
 }
 
 body, html {
@@ -84,7 +79,7 @@ body, html {
 }
 
 .footer1 a {
-	text-decoration: none;
+	text-decoration: n;
 	display: inline;
 	float: right;
 }
@@ -256,6 +251,26 @@ body, html {
 	margin-left: 25px;
 	border-bottom: 2px solid black;
 }
+.subTitle2 {
+	color: black;
+	text-align: center;
+	font-family: "Abel", sans-serif;
+	letter-spacing: 4.5px;
+	font-size: 30px;
+	margin-left: 125px;
+	margin-right: 125px;
+	border-bottom: 2px solid black;
+}
+.subTitle3 {
+	color: black;
+	text-align: center;
+	font-family: "Abel", sans-serif;
+	letter-spacing: 4.5px;
+	font-size: 30px;
+	margin-left: 150px;
+	margin-right: 150px;
+	border-bottom: 2px solid black;
+}
 .aboutTitle {
 	margin-left: 390px;
 	margin-right: 400px;	
@@ -270,6 +285,8 @@ body, html {
 	margin-left: 429px;
 	margin-right: 439px;
 	text-align: center;
+}
+.aboutTitle3 {
 }
 .divider {
 	width: 0px;
@@ -287,4 +304,19 @@ body, html {
 	border-bottom: 2px solid #444444;
 	margin-left: 100px;
 	margin-right: 100px;
+}
+
+
+.contactPeople{
+	display: flex;
+	justify-content: flex-start;
+}
+.leads {
+	flex: 1.3 6 20%;
+}
+.mentors {
+	flex: 1 6 20%;
+}
+.mentorList {
+	display: flex;
 }
