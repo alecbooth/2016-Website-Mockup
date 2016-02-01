@@ -84,6 +84,7 @@
 }
 .boardText {
 	margin-left: 237px;
+	margin-bottom: 50px;
 }
 .boardText1 {
 	padding-left: 91px;
@@ -97,4 +98,32 @@
 }
 .footer {
 	margin-bottom: 0;
+}
+.calender {
+	background-color: none;
+	padding-bottom: 50px;
+}
+.calenderDiv {
+	margin-top: 50px;
+	margin-bottom: 50px;
+	background-color: white;
+	text-align: center;
+	font-family: "Montserrat", sans-serif;
+	
+}
+.heymate {
+	color: white;
+	font-family: "Abel", sans-serif;
+	letter-spacing: 4.5px;
+	font-size: 20px;
+	text-align: center;
+	margin-top: 50px;
+	text-align: center;
+	letter-spacing: 4.5px;
+	border-bottom-style: solid;
+	border-bottom-color: #fbc005;
+    margin-left: 400px;
+    margin-right: 400px;
+	margin-bottom: 15px;
+	
 }

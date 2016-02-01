@@ -27,8 +27,13 @@
 }
 .p {
 	margin-bottom: 25px;
+	padding-right: 25px;
+	padding-left: 25px;
 }
 .outreachPics {
 	height: 500px;
 	margin-top: 50px;
+}
+.pSpacing {
+	margin-bottom: 25px;
 }
