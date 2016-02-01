@@ -589,6 +589,33 @@ header {
 }
 
 
+/*attempt*/
+#prev {
+	position:absolute;
+	padding-top: 125px;
+	left:75px;
+	width:200px;
+	text-decoration:none;
+	text-shadow:0 0 2px #000;
+	opacity:0;
+	z-index: 1;
+	transition: all 600ms ease-in-out;
+}
+#next{
+	position:absolute;
+	padding-top: 125px;
+	left:990px;
+	width:200px;
+	text-decoration:none;
+	text-shadow:0 0 2px #000;
+	opacity: 0;
+	transform: scaleX(-1);
+	z-index: 1;
+	transition: all 600ms ease-in-out;
+}
+#arrows:hover  > button {
+	opacity: 0.35;
+	transition: all 400ms ease-in-out;
 
 
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
