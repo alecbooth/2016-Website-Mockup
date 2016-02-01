@@ -593,7 +593,7 @@ header {
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 
-@media (max-width: 700px) and landscape{
+@media (max-width: 700px) and landscape {
 	body, html {
 		margin: 0;
 		padding: 0;
@@ -843,9 +843,9 @@ header {
 		display: inline;
 	}
 	.url1 {
-		float: left;
+
 		display: inline; 
-		padding-right: 432px;
+		
 	}
 	.infoPic {
 		display: inline-block;
