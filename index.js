@@ -4,9 +4,21 @@ $(document).ready(function(){
 		slidesToScroll: 1,
 		autoplay: true,
 		autoplaySpeed: 3000,
-		arrows: false,
+		arrows: true,
+		fade: true,
+		infinite: true,
+		
+		nextArrow: $("#next"),
+		prevArrow: $("#prev"),
 	});
 });
+
+
+
+
+
+
+
 /*
 	var $slideDiv = $(".slideDiv");
 	var $slickSlide = $(".slick-slide");
