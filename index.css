@@ -259,6 +259,7 @@ header {
 .infoPic {
 	display: inline-block;
 	height: 354px;
+	width: 531px;
 }
 .surround{
 	height:375px;
@@ -268,13 +269,23 @@ header {
 
 	background-color: white;
 }
-.inBetween {
+#inBetween {
 	background-color: #0A46A8;
-	margin: 50px 100px 50px 100px;
-	padding: 75px;	
+	margin: 50px 100px 50px 100px;	
 	display: flex;
 	align-items:center;
 	justify-content: center;
+	height: 557.172px;
+	width: 1063px;
+}
+#inBetween2 {
+	background-color: #0A46A8;
+	margin: 50px 100px 50px 100px;	
+	display: flex;
+	align-items:center;
+	justify-content: center;
+	height: 669.344px;
+	width: 1063px;
 }
 .videoLinkDiv {
 	margin-right: 98px;
@@ -300,6 +311,8 @@ header {
 #thisDiv {
 	margin-left: 100px;
 	margin-right: 100px;
+	width: 1063px;
+	height: 708px;
 }
 .tertiaryDiv {
 	width: 527.5px;
@@ -413,6 +426,9 @@ header {
 	border-top: 2px solid #fbc005;
 	border-bottom: 2px solid #fbc005;
 	
+	width: 913px;
+	height: 519.344;
+	
 	text-align: center;
 	color: white;
 }
@@ -428,6 +444,8 @@ header {
 }
 .division {
 	margin-bottom: 0px;
+	height: 659.063px;
+	width: 1063px;
 }
 #engineering {
 	margin-top: 0px;
@@ -454,8 +472,10 @@ header {
 	margin-right: 505px;
 	margin-bottom: 50px;
 	
-	padding-bottom: 13px;
+	height: 47px;
+	width: 253px;
 	
+	padding-bottom: 13px;
 	border-bottom: 2px solid #fbc005;
 }
 /*this is the code for the tabs, mostly text classes*/
@@ -1537,6 +1557,7 @@ header {
 	}
 	.division-row {
 		display: flex;
+		flex-flow: row wrap;
 		
 		justify-content: center;
 	}
@@ -1544,8 +1565,7 @@ header {
 		border-bottom: 2px solid #fbc005;
 	}
 	.division-row > div {
-		flex-grow: 1;
-		flex-basis: 0;
+		
 	}
 	.divisionLeft{
 		border-right: 1.5px solid #fbc005;  
