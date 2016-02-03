@@ -341,7 +341,7 @@ body, html {
 		*, *:before, *:after {
 			box-sizing: border-box;
 		}
-		}
+		
 		.teamPic {
 		height: 30em;
 		margin-left: 25px;
