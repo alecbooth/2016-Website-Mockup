@@ -1,6 +1,5 @@
 /*#ffcc66 is the light yellow hex #0A46A8 is the blue*/
 
-/*#ffcc66 is the light yellow hex #0A46A8 is the blue*/
 body, html {
 	margin: 0;
 	padding: 0;
@@ -586,7 +585,7 @@ header {
 	z-index: 1;
 	height: 127px;
 	width: 1030px;
-	background: linear-gradient(155deg, #0A46A8 15%, transparent 75%);
+	background: linear-gradient(155deg, #0A46A8 -35%, transparent 75%);
 	margin-top: 83px;
 }
 
@@ -1782,4 +1781,3 @@ header {
 		height: 45px;
 		width: 200px;
 	}
-
