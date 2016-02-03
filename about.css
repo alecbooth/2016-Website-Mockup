@@ -4,6 +4,10 @@
 	margin-right: 15px;
 	margin-bottom: 15px;
 	float: left;
+    width: 680px;
+    height: 440px;
+    padding-top: 0px;
+    margin-top: 14px;
 }
 
 .underline {
@@ -32,6 +36,8 @@
 	margin-bottom: 50px;
 	padding-bottom: 55px;
 	border-radius: 2px;
+    width:  1063px;
+    height:  473.188px;
 }
 
 body, html {
@@ -47,6 +53,9 @@ body, html {
 	display: flex;
 	flex-flow: row wrap;
     padding-bottom: 15px;
+    width: 1063px;
+    height: 306px;
+    padding-top: 20px;
 }
 
 .leaderPic {
@@ -125,6 +134,8 @@ body, html {
 	margin-top: 50px;
 	padding-top: 1px;
 	border-radius: 2px;
+    width:  1063px;
+    height:  908.563px;
 }
 
  
@@ -210,6 +221,9 @@ body, html {
     margin-right: 465px;
 	margin-bottom: 15px;
 	border-radius: 2px;
+    width: 333px;
+    height: 58.797px;
+
 }
 
 .backgroundClearFIRST {
@@ -225,11 +239,13 @@ body, html {
 	border-bottom-color: #fbc005;
     margin-left: 550px;
     margin-right: 550px;
-	margin-bottom: 15px
+	margin-bottom: 15px;
+    width: 163px;
+    height: 58.797px;
 }
 
 .topMarginForMission {
-	padding-top: 25px
+    padding-top: 0px;
 }
 
 .awardsDescription {
@@ -280,6 +296,8 @@ body, html {
 	margin-left: 390px;
 	margin-right: 400px;	
 	text-align: center;
+    width: 273px;
+    height:  34px;
 }
 .aboutTitle1 {
 	margin-left: 787px;

@@ -15,7 +15,8 @@
 	color: white;
 	font-size: 40px;
 	letter-spacing: 4.5px;
-	
+	width: 352px;
+	height:  32px; 
 	border-bottom: 2px solid #fbc005;
 	
 	padding-bottom: 15px;
@@ -72,6 +73,7 @@
 .flex {
 	display: flex;
 	height: 500px;
+	width: 1062px; 
 }
 .boardpic {
 	padding-left: 50px;
@@ -79,6 +81,8 @@
 }
 .clickHere {
 	margin-top: 75px; 
+	width: 1063px;
+	height: 95px; 
 }
 .boardText {
 	margin-left: 237px;
@@ -99,6 +103,10 @@
 .calender {
 	background-color: none;
 	padding-bottom: 50px;
+	width: 1203px;
+	height: 811px; 
+
+	
 }
 .calenderDiv {
 	margin: 50px 25px 50px 25px;
@@ -107,26 +115,16 @@
 	font-family: "Montserrat", sans-serif;
 	border-radius: 2px;
 	margin-left: 100px;
-	margin-right: 100px;
+
+	width: 1063px;
+	height: 811px; 
 }
-.heymate {
-	color: white;
-	font-family: "Abel", sans-serif;
-	letter-spacing: 4.5px;
-	font-size: 20px;
-	text-align: center;
-	margin-top: 50px;
-	text-align: center;
-	letter-spacing: 4.5px;
-	border-bottom-style: solid;
-	border-bottom-color: #fbc005;
-    margin-left: 400px;
-    margin-right: 400px;
-	margin-bottom: 15px;
-}
+
 .boards {
 	background-color: white; 
 	margin-left: 100px;
 	margin-right: 100px;
 	border-radius: 2px;
+	width: 1063px;
+	height: 1030px;
 }
