@@ -599,6 +599,7 @@ header {
 	opacity:0;
 	z-index: 1;
 	transition: all 600ms ease-in-out;
+	background-image: url("arrow.png")
 }
 #next{
 	position:absolute;
@@ -1202,7 +1203,6 @@ header {
 		height: 45px;
 		width: 200px;
 	}
-<<<<<<< HEAD
 }
 
 
@@ -1777,5 +1777,4 @@ header {
 		width: 200px;
 	}
 }*/
-=======
->>>>>>> f98613dc2d093b391c6fe102f792702b03e90552
+
