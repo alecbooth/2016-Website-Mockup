@@ -577,16 +577,16 @@ header {
 .rightSubBar{
 	margin-right: 25px;
 }
-.slant:after {
+.slant {
 	position: absolute;
+	display: inline-block;
+	overflow: hidden;
 	z-index: 1;
-	transform: skew(45deg);
-	transform-origin: 100% 0 0 0;
-	background: #0A46A8;
-	height: 45px;
-	width: 200px;
+	height: 127px;
+	width: 1030px;
+	background: linear-gradient(155deg, #0A46A8 15%, transparent 75%);
+	margin-top: 83px;
 }
-
 
 /*attempt*/
 #prev {
@@ -1193,7 +1193,7 @@ header {
 	.rightSubBar{
 		margin-right: 25px;
 	}
-	.slant:after {
+	.slant {
 		position: absolute;
 		z-index: 1;
 		transform: skew(45deg);
