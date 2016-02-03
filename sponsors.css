@@ -12,6 +12,7 @@
 	margin-right: 100px;
 	background-color: white;
 	margin-bottom: 50px;
+	border-radius: 2px;
 }
 .sponsorLevel {
 	border-top: 2px solid #fbc005;
@@ -175,6 +176,7 @@
 	margin-bottom: 50px;
 	border-style: 2px solid #FBC005;
 	padding-bottom: 10px;
+	border-radius: 2px;
 }
 
 .sponsorPic {

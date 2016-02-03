@@ -5,10 +5,8 @@
 	font-family: "Montserrat", sans-serif;
 }
 .mainDiv {
-	margin-right: 100px;
-	margin-left: 100px;
-	margin-bottom: 50px;
-	background-color: white;
+	margin-bottom: none;
+	background-color: none;
 	text-align: center;
 	font-family: "Montserrat", sans-serif;
 }
@@ -107,7 +105,9 @@
 	background-color: white;
 	text-align: center;
 	font-family: "Montserrat", sans-serif;
-	
+	border-radius: 2px;
+	margin-left: 100px;
+	margin-right: 100px;
 }
 .heymate {
 	color: white;
@@ -123,5 +123,10 @@
     margin-left: 400px;
     margin-right: 400px;
 	margin-bottom: 15px;
-	
+}
+.boards {
+	background-color: white; 
+	margin-left: 100px;
+	margin-right: 100px;
+	border-radius: 2px;
 }
