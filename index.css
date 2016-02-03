@@ -226,8 +226,9 @@ header {
 	background-color: #FFF;
 	padding: 14px 15px 10px;
 	height:80px;
+	width: 1233px; 
 }
-.footer a {
+.footer a {
 	text-decoration: none;
 	display: inline;
 	float: right;
@@ -253,7 +254,7 @@ header {
 .url1 {
 	float: left;
 	display: inline; 
-	padding-right: 432px;
+	padding-right: 100px;
 }
 .infoPic {
 	display: inline-block;
