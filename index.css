@@ -498,6 +498,7 @@ header {
 	margin-right: 100px;
 	margin-bottom: 50px;
 	text-align: center;
+	border-radius: 2px; 
 }
 
 #specialThanks * {
@@ -519,6 +520,7 @@ header {
 #moriarty {
 	width: 200px;
 	margin-left: 50px;
+	font-size: 45px;
 }
 #RR {
 	height: 85px;
@@ -577,16 +579,16 @@ header {
 .rightSubBar{
 	margin-right: 25px;
 }
-.slant:after {
+.slant {
 	position: absolute;
+	display: inline-block;
+	overflow: hidden;
 	z-index: 1;
-	transform: skew(45deg);
-	transform-origin: 100% 0 0 0;
-	background: #0A46A8;
-	height: 45px;
-	width: 200px;
+	height: 127px;
+	width: 1030px;
+	background: linear-gradient(155deg, #0A46A8 15%, transparent 75%);
+	margin-top: 83px;
 }
-
 
 /*attempt*/
 #prev {
@@ -616,7 +618,10 @@ header {
 #arrows:hover  > button {
 	opacity: 0.35;
 	transition: all 400ms ease-in-out;
-
+}
+.radius {
+	border-radius: 2px;
+}
 
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 /*media css after this point*///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -1115,6 +1120,7 @@ header {
 		margin-right: 100px;
 		margin-bottom: 50px;
 		text-align: center;
+		border
 	}
 
 	#specialThanks * {
@@ -1767,7 +1773,7 @@ header {
 	.rightSubBar{
 		margin-right: 25px;
 	}
-	.slant:after {
+	.slant {
 		position: absolute;
 		z-index: 1;
 		transform: skew(45deg);
@@ -1776,5 +1782,4 @@ header {
 		height: 45px;
 		width: 200px;
 	}
-}*/
 
