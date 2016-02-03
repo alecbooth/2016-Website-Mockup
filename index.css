@@ -1,6 +1,5 @@
-<<<<<<< HEAD
-@media (min-width: 800px){/*#ffcc66 is the light yellow hex #0A46A8 is the blue*/
-=======
+/*#ffcc66 is the light yellow hex #0A46A8 is the blue*/
+
 /*#ffcc66 is the light yellow hex #0A46A8 is the blue*/
 body, html {
 	margin: 0;
@@ -624,7 +623,6 @@ header {
 
 /*
 @media (max-width: 700px) and landscape {
->>>>>>> 06f5cc85dcff348f0ff6af6d7e59850870fcb275
 	body, html {
 		margin: 0;
 		padding: 0;
@@ -1204,6 +1202,7 @@ header {
 		height: 45px;
 		width: 200px;
 	}
+<<<<<<< HEAD
 }
 
 
@@ -1778,3 +1777,5 @@ header {
 		width: 200px;
 	}
 }*/
+=======
+>>>>>>> f98613dc2d093b391c6fe102f792702b03e90552

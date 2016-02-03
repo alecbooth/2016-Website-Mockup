@@ -84,7 +84,6 @@
 }
 .boardText {
 	margin-left: 237px;
-	margin-bottom: 50px;
 }
 .boardText1 {
 	padding-left: 91px;
@@ -104,8 +103,7 @@
 	padding-bottom: 50px;
 }
 .calenderDiv {
-	margin-top: 50px;
-	margin-bottom: 50px;
+	margin: 50px 25px 50px 25px;
 	background-color: white;
 	text-align: center;
 	font-family: "Montserrat", sans-serif;
