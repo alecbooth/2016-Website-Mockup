@@ -6,6 +6,8 @@
 	font-family: "Abel", sans-serif;
 	letter-spacing: 4.5px;
 	font-size: 26px;
+	width: 1273px;
+	height: 31px; 
 }
 .sponsors {
 	margin-left: 100px;
@@ -13,6 +15,8 @@
 	background-color: white;
 	margin-bottom: 50px;
 	border-radius: 2px;
+	width: 1063px;
+	height: 3460px;
 }
 .sponsorLevel {
 	border-top: 2px solid #fbc005;
@@ -69,8 +73,8 @@
 	font-size: 40px;
     padding-top: 29px;
     padding-bottom: 10px;
-    margin-left: 520px;
-    margin-right: 520px;
+    margin-left: 550px;
+    margin-right: 510px;
 	border-bottom-style: solid;
 	border-bottom-color: #fbc005;
 }
@@ -179,6 +183,13 @@
 	border-style: 2px solid #FBC005;
 	padding-bottom: 10px;
 	border-radius: 2px;
+	width: 1063px; 
+	height: 978px; 
+}
+
+.Sponsor > img {
+	width: 1063px;
+	height: 770px; 
 }
 
 .sponsorPic {
@@ -207,4 +218,14 @@
 	margin-left: 25px;
 	padding-top: 25px;
 	border-bottom: none;
+}
+.backgroundClearWhoWeAre {
+	height: 76px; 
+}
+.imgDiv {
+	width: 1063px;
+	height: 770px; 
+}
+.intro {
+	padding-right: 50px;
 }
