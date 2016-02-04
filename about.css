@@ -25,6 +25,8 @@
 	margin-bottom: 50px;
 	border-style: 2px solid #FBC005;
 	padding-bottom: 30px;
+    width: 1063px;
+    height: 514px;
 }
 
 
@@ -198,6 +200,8 @@ body, html {
 	justify-content: center;
 	align-items: baseline;
 	border-radius: 2px;
+    width: 1063px;
+    height: 1834.880px;
 }
 
 .award-year {
@@ -258,6 +262,8 @@ body, html {
 	margin-bottom: 15px;
 	letter-spacing: 0px;
 	padding-bottom: 15px;
+    width: 1023px;
+    height: 128px;
 }
 
 .whoWeAreDescription  {
