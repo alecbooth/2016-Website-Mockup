@@ -66,6 +66,8 @@
     margin-left: 450px;
     margin-right: 450px;
     margin-bottom: 15px;
+    width: 363px;
+    height: 58.797px;
 }
 
 .WTWImage {
@@ -267,4 +269,8 @@
 }
 .outreachR {
 	border-radius: 2px;
+    width: 1263px;
+    height: 1768.500px;
+    padding-bottom: 0px;
+    margin-bottom: 50px;
 }
