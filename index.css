@@ -18,7 +18,11 @@ body, html {
 *, *:before, *:after {
 	box-sizing: border-box;
 }
-
+.everything{
+	width: 1263px;
+	height: 100%;
+	margin: 0px auto;
+}
 
 .header ul {
 	overflow: hidden;
