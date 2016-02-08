@@ -316,6 +316,7 @@ header {
 	justify-content: center;
 	height: 557.172px;
 	width: 1063px;
+	opacity: 0.85; 
 }
 #inBetween2 {
 	background-color: #0A46A8;
@@ -325,6 +326,7 @@ header {
 	justify-content: center;
 	height: 669.344px;
 	width: 1063px;
+	opacity: 0.85;
 }
 .videoLinkDiv {
 	margin-right: 98px;
