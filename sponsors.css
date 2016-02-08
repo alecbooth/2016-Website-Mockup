@@ -220,13 +220,14 @@
 	padding-top: 25px;
 	border-bottom: none;
 }
-.backgroundClearWhoWeAre {
-	height: 76px; 
-}
+
 .imgDiv {
 	width: 1063px;
 	height: 770px; 
 }
 .intro {
 	padding-right: 50px;
+}
+.become {
+	
 }
