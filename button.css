@@ -1,11 +1,24 @@
 button {
 	height: 100px;
 	width: 200px;
+	padding: 0px;
+	border: 0px;
 }
 .a {
-	background-image: url("arrow.png");
+	height: 100px;
+	width: 200px;
+	position: absolute;
+	z-index: 1;
 }
 .b{
-	
+	height: 100px;
+	width: 200px;
+	margin: 0px 200px;
+	position: relative;
 }
-100%
+.c{
+	position: absolute;
+}
+.d {
+	margin: 0px 200px;
+}
