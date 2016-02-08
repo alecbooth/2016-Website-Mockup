@@ -278,30 +278,47 @@ header {
 	background-color: white;
 }
 
-
-.prevArrow {
-	padding: 0px;
-	border: 0px;
-	cursor: pointer;
-	outline:0;
-	height: 100px;
-	width: 150px;
+.prevArrow, .nextArrow{
+	display: none;
 }
-.nextArrow {
+.surround:hover > .prevArrow {
 	padding: 0px;
 	border: 0px;
 	cursor: pointer;
 	outline:0;
-	height: 100px;
-	width: 150px;
+	height: 65px;
+	width: 65px;
+	z-index: 49;
+	position: absolute;
+	top: 48%;
+	left: 125px;
+	background: none;
+	opacity: .6;
+	display: block;
+}
+.surround:hover > .nextArrow {
+	padding: 0px;
+	border: 0px;
+	cursor: pointer;
+	outline:0;
+	height: 65px;
+	width: 65px;
+	z-index: 49;
+	position: absolute;
+	transform: scaleX(-1);
+	top: 48%;
+	right: 125px;
+	background: none;
+	opacity: .6;
+	display: block;
 }
 .arrow1 {
-	height: 150px;
-	width: 200px;
+	height: 65px;
+	width: 65px;
 }
 .arrow2 {
-	height: 150px;
-	width: 200px;
+	height: 65px;
+	width: 65px;
 }
 
 .surround2 {
