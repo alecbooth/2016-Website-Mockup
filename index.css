@@ -277,6 +277,33 @@ header {
 
 	background-color: white;
 }
+
+
+.prevArrow {
+	padding: 0px;
+	border: 0px;
+	cursor: pointer;
+	outline:0;
+	height: 100px;
+	width: 150px;
+}
+.nextArrow {
+	padding: 0px;
+	border: 0px;
+	cursor: pointer;
+	outline:0;
+	height: 100px;
+	width: 150px;
+}
+.arrow1 {
+	height: 150px;
+	width: 200px;
+}
+.arrow2 {
+	height: 150px;
+	width: 200px;
+}
+
 .surround2 {
 	height: 413.906px;
 	width: 913px;
@@ -605,7 +632,7 @@ header {
 	flex-flow: row wrap;
 	margin-left: 60px;
     width: 1203px;
-    height: 55px;
+    height: 50px;
 }
 .subNav {	
 	margin: 0px 15px 15px 15px;
@@ -617,6 +644,7 @@ header {
 }
 .noDecoration {
 	text-decoration: none;
+	height: 40px;
 }
 .subBarNav:hover {
 	background-color: #fbc005;
