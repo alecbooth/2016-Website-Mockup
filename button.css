@@ -3,22 +3,15 @@ button {
 	width: 200px;
 	padding: 0px;
 	border: 0px;
-}
-.a {
-	height: 100px;
-	width: 200px;
-	position: absolute;
-	z-index: 1;
+	cursor: pointer;
+	outline:0;
+	background: none;
 }
 .b{
 	height: 100px;
 	width: 200px;
-	margin: 0px 200px;
 	position: relative;
 }
-.c{
-	position: absolute;
-}
 .d {
-	margin: 0px 200px;
+	margin: 0px 50px;
 }
