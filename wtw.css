@@ -5,10 +5,8 @@
 	font-size: 40px;
 	border-bottom: 2px solid #fbc005;
 	padding-bottom: 15px;
-	margin-right: 350px;
-	margin-left: 350px;
-	padding-top: 11px;
-	height: 35px;
+	margin-top: 40px;
+	height: 47px;
  
 }
 .contentDiv {
@@ -37,19 +35,4 @@
 .outreachPics {
 	height: 500px;
 	margin-top: 50px;
-}
-.pSpacing {
-	margin-bottom: 25px;
-}
-#landscape {
-	height: 292px;
-}
-.listDiv {
-	margin-left: 50px; 
-}
-.demon {
-	margin-left: 497.5px;
-}
-.autism {
-	margin-left: 486.5px;
 }
