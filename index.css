@@ -278,9 +278,14 @@ header {
 	background-color: white;
 }
 
+
+.prev  .next{
+
+}
 .prevArrow, .nextArrow{
-	display: none;
+	position: absolute;
 	opacity: 0;
+	transition: opacity .25s ease-in;
 }
 .surround:hover > .prevArrow {
 	padding: 0px;
@@ -291,11 +296,12 @@ header {
 	width: 65px;
 	z-index: 49;
 	position: absolute;
-	top: 80%;
+	top: 50%;
 	left: 125px;
 	background: none;
-	opacity: .6;
+	opacity: .9;
 	display: block;
+	transform: scaleX(-1);
 }
 .surround:hover .nextArrow {
 	padding: 0px;
@@ -306,11 +312,10 @@ header {
 	width: 65px;
 	z-index: 49;
 	position: absolute;
-	transform: scaleX(-1);
-	top: 80%;
+	top: 50%;
 	right: 125px;
 	background: none;
-	opacity: .6;
+	opacity: .9;
 	display: block;
 }
 .arrow1 {
