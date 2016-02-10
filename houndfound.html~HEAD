@@ -5,7 +5,7 @@
 		<title>Team 868 | TechHOUNDS</title>
 		<link rel="stylesheet" type="text/css" href="index.css">
 		<link rel="stylesheet" type="text/css" href="wtw.css">
-
+		<link rel="stylesheet" type="text/css" href="outreach.css">
 		<link rel="stylesheet" type="text/css" href="http://cdn.jsdelivr.net/jquery.slick/1.5.9/slick.css"/>
 		<link href='https://fonts.googleapis.com/css?family=Anton' rel='stylesheet' type='text/css'>
 		<link href='https://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet' type='text/css'>
@@ -13,13 +13,19 @@
 		<link href='https://fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css'>
 		<style>
 			.mainh2 {
-				width: 630px;
 				padding: 0px;
+				width: 225px;
 			}
-			.contentDiv {
-				width: 1063px;
-				height: 787px;
+			.footer {
+				margin-top: 75px;
 			}
+			.contentDiv > p{
+				padding: 25px;
+			}
+			#a {
+				text-decoration: none;
+				color: #0A46A8;
+			}			
 		</style>
 	</head>
 	<body>
@@ -49,7 +55,7 @@
 							<div class="flexEnd"><h1 id ="eight">TEAM 868</h1></div>
 						</div>
 						<div id="coin">
-							<img src ="Gold_Coin.png" class="img">
+							<img src ="pictures/Gold_Coin.png" class="img">
 						</div>
 					</header>
 				</div>
@@ -89,26 +95,30 @@
 					</div></a>
 				</div>
 				
-				<center><h2 class = "mainh2">WOMEN IN TECHNOLOGY WORKSHOP:</h2></center>
-				<div class="contentDiv">
-				<center>
-					<img class="outreachPics" src="IMG_3795.JPG">
-				</center>
-				<p>In 2015, TechHOUNDS launched the first central Indiana Women in Technology Workshop (independent of the Carmel school system),
-				a novel student-run conference that encourages middle school girls from across Indiana to pursue STEM careers. In addition to 
-				computer science (featuring the 1150 Coding Academy) and CAD sessions, the program hosts an interdisciplinary panel 
-				(open to the public) and private discussion between industry, government, and education, to increase female representation in 
-				STEM. The 2015 panel featured:</p>
-					<ul>
-						<li>  Susan Brooks, United States Congresswoman</li>
-						<li>  Glenda Ritz, Superintendent of Public Instruction</li>
-						<li>  Dorothy Gorman, Chief Communications Officer of PLTW Engineering Education</li>
-						<li>  Lisa Laughner, CEO of Go Electric Inc. and former VP of Rolls-Royce Corporate Ventures</li>
-						<li>  Praveena Theertham, Systems Engineer at Beckman Coulter</li>
-						<li>  Melissa Lavella, Outreach Coordinator of Women in Hi Tech</li>
-					</ul>
+				<center><h2 class = "mainh2">H<span class="lower">OUND</span>F<span class="lower">OUND:</span></h2></center>
+				<div class = "contentDiv">
+					<center>
+						<img class="outreachPics" src="IMG_3580.JPG">
+					</center>
+					<p class = "p">
+						Carmel High School's TechHOUNDS Robotics Team has a strong commitment to furthering the development of FIRST (For Inspiration and Recognition of Science and Technology) Robotics in Carmel and the central Indiana community. Through the HoundFound program, the TechHOUNDS have committed to providing any interested teacher in the central Indiana community with 1.) at least half of the funding necessary to start a FIRST LEGO League (FLL) or Junior FLL team and 2.) weekly mentoring for the FLL program (either in-person or by email).
+						Through this program, we hope to encourage elementary and middle school teachers to partner with our experienced student members and mentors, fostering a greater sense of excitement and appreciation for STEM (science, technology, engineering, and mathematics) across Indiana. By contributing to the development of committed STEM leaders, TechHOUNDS strives to effect positive change for the innovators of tomorrow.
+						Carmel High School's TechHOUNDS Robotics Team has a strong commitment to furthering the development of FIRST 
+						(For Inspiration and Recognition of Science and Technology) Robotics in Carmel and the central Indiana community.
+						Through the HoundFound program, the TechHOUNDS have committed to providing any interested teacher in the central 
+						Indiana community with 1.) at least half of the funding necessary to start a FIRST LEGO League (FLL) or Junior FLL team and 2.) 
+						weekly mentoring for the FLL program (either in-person or by email).
+						<br><br>
+						Through this program, we hope to encourage elementary and middle school teachers to partner with our experienced 
+						student members and mentors, fostering a greater sense of excitement and appreciation for STEM 
+						(science, technology, engineering, and mathematics) across Indiana. By contributing to the development of committed STEM leaders,
+						TechHOUNDS strives to effect positive change for the innovators of tomorrow.
+						<br><br>
+						For the 2017 season, TechHOUNDS has already confirmed the start of an FLL and Jr. FLL team at Forest Dale Elementary school.
+						For more information regarding FIRST and the FLL/Jr. FLL programs, please click  <a href = "http://www.firstinspires.org/" id = "a">here.</a>
+						<br>
+					</p>
 				</div>
-					
 				<div class="footer">
 					<p class ="url1">&#169; 2016 Carmel High School/Boeing/Delphi Foundation/Rolls-Royce</p>
 					<div class="url">
@@ -126,7 +136,6 @@
 						</a>
 					</div>
 				</div>
-			</div>
 		</div>
 	</body>
 </html>
