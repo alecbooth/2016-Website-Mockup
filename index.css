@@ -279,15 +279,10 @@ header {
 }
 
 
-.prev  .next{
-
-}
 .prevArrow, .nextArrow{
 	position: absolute;
 	opacity: 0;
-	transition: opacity .25s ease-in;
-}
-.surround:hover > .prevArrow {
+	transition: opacity .45s ease-in;
 	padding: 0px;
 	border: 0px;
 	cursor: pointer;
@@ -295,36 +290,33 @@ header {
 	height: 65px;
 	width: 65px;
 	z-index: 49;
-	position: absolute;
-	top: 50%;
-	left: 125px;
 	background: none;
-	opacity: .9;
-	display: block;
+}
+
+.prevArrow {
+	margin-top: 172px;
+	margin-left: 25px;
 	transform: scaleX(-1);
 }
+.nextArrow {
+	margin-top:172px;
+	margin-left: 974px;
+}
+.surround:hover > .prevArrow {
+	opacity: 1;
+}
 .surround:hover .nextArrow {
-	padding: 0px;
-	border: 0px;
-	cursor: pointer;
-	outline:0;
-	height: 65px;
-	width: 65px;
-	z-index: 49;
-	position: absolute;
-	top: 50%;
-	right: 125px;
-	background: none;
-	opacity: .9;
-	display: block;
+	opacity: 1;
 }
 .arrow1 {
 	height: 65px;
 	width: 65px;
+	z-index:48;
 }
 .arrow2 {
 	height: 65px;
 	width: 65px;
+	z-index:48;
 }
 
 .surround2 {

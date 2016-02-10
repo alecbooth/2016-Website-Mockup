@@ -1,8 +1,7 @@
 ------------------------------
 MEDIA PAGE
-BUTTONS
-ANCHOR FOOTER 
 PICS FOR OUTREACH: BUILD IT, SPEAKING DEMON, 
 OUTREACH UNDERLINES
 BACKGROUND PICS FOR EACH PAGE, BLACK AND WHITE
-OUTREACH SPACING
+OUTREACH SPACING                                      
+-----------------------------------------------
