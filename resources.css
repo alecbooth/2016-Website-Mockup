@@ -125,5 +125,17 @@
 	margin-right: 100px;
 	border-radius: 2px;
 	width: 1063px;
+<<<<<<< HEAD
 	height: 1065px;
+=======
+	height: 1030px;
+}
+.calendarHeader{
+	font-family: "Abel", sans-serif;
+	padding-top: 15.5px;
+	font-size: 30px;
+	border-bottom: 2px solid black;
+	margin-right: 375px;
+	margin-left: 375px;
+>>>>>>> 1ff6f6e6988bbf6ac1f729a384d0c6eaea0222c8
 }
