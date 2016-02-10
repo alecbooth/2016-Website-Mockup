@@ -38,6 +38,12 @@ button{
 	font-family: "Monserrat", sans-serif;
 	border: 2px solid transparent;
 	border-radius: 3px;
+	transition-property: background-color;
+	transition-timing-function: ease-in;
+	transition-duration: 1s;
+	transition-property: color;
+	transition-timing-function: ease-in;
+	transition-duration: .25s;
 	background-color: rgba(54, 69, 79, 1);
 }
 button:hover{
