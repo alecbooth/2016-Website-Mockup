@@ -138,3 +138,32 @@
 	margin-right: 375px;
 	margin-left: 375px;
 }
+.github {
+	background-color: white;
+	margin-left: 100px;
+	margin-right: 100px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	padding-bottom: 55px;
+	border-radius: 2px;
+    width:  1063px;
+    height:  520.188px;
+}
+.textDiv {
+	border-bottom: 2px solid black; 
+	margin-right: 250px; 
+	margin-left: 250px; 
+}
+.techResources {
+	color: black; 
+	font-spacing: 2px; 
+	padding-top: 25px; 
+	color: black;
+	text-align: center;
+	font-family: "Abel", sans-serif;
+	letter-spacing: 4.5px;
+	font-size: 30px;
+	margin-left: 250px;
+	margin-right: 250px; 
+	border-bottom: 2px solid black;
+}
