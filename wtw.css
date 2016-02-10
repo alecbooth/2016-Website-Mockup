@@ -8,7 +8,8 @@
 	margin-right: 350px;
 	margin-left: 350px;
 	padding-top: 11px;
-	height: 32px;
+	height: 35px;
+ 
 }
 .contentDiv {
 	background-color: white;
@@ -45,4 +46,10 @@
 }
 .listDiv {
 	margin-left: 50px; 
+}
+.demon {
+	margin-left: 497.5px;
+}
+.autism {
+	margin-left: 486.5px;
 }
