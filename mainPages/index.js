@@ -8,8 +8,8 @@ $(document).ready(function(){
 		fade: true,
 		infinite: true,
 		
-		nextArrow: $("#next"),
-		prevArrow: $("#prev"),
+		nextArrow: $(".nextArrow"),
+		prevArrow: $(".prevArrow"),
 	});
 });
 
