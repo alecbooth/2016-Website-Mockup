@@ -55,7 +55,7 @@
 							<div class="flexEnd"><h1 id ="eight">TEAM 868</h1></div>
 						</div>
 						<div id="coin">
-							<img src ="Gold_Coin.png" class="img">
+							<img src ="pictures/Gold_Coin.png" class="img">
 						</div>
 					</header>
 				</div>
@@ -95,7 +95,7 @@
 					</div></a>
 				</div>
 				
-				<h2 class = "mainh2">H<span class="lower">OUND</span>F<span class="lower">OUND:</span></h2>
+				<center><h2 class = "mainh2">H<span class="lower">OUND</span>F<span class="lower">OUND:</span></h2></center>
 				<div class = "contentDiv">
 					<center>
 						<img class="outreachPics" src="IMG_3580.JPG">
