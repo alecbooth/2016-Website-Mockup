@@ -1,17 +1,16 @@
 .headerText {
 	color: white;
 	font-family: "Abel", sans-serif;
-	letter-spacing: 4.5px;
 	font-size: 40px;
 	text-align: center;
 	margin-top: 50px;
 	text-align: center;
 	letter-spacing: 4.5px;
-	border-bottom-style: solid;
-	border-bottom-color: #fbc005;
+	border-bottom: 2px solid #fbc005;
     margin-left: 400px;
     margin-right: 400px;
-	margin-bottom: 15px
+	margin-bottom: 15px;
+	padding-bottom: 7px;
 }
 .login {
 	background-color: white;
@@ -38,8 +37,6 @@
 	background-color: #FFF;
 	padding: 14px 15px 10px;
 	height:80px;
-	margin-top: 258px;
-	
 }
 .footer1 a { 
 	text-decoration: none;
