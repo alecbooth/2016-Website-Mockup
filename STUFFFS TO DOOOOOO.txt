@@ -1,11 +1,4 @@
 ------------------------------
-MEDIA PAGE
-<<<<<<< HEAD
-BUTTONS
-=======
->>>>>>> 1cd43fe508d89136b70df3268c2f78103551aded
-PICS FOR OUTREACH: BUILD IT, SPEAKING DEMON, 
-OUTREACH UNDERLINES
-BACKGROUND PICS FOR EACH PAGE, BLACK AND WHITE
-OUTREACH SPACING                                      
+OUTREACH UNDERLINES      
+redesign bottom links on resources                          
 -----------------------------------------------
