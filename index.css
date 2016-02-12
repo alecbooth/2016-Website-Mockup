@@ -253,8 +253,20 @@ header {
 	opacity: 1;
 	padding: 0px;
 }
+.socialmedia1 {
+	width: 50px;
+	height: 50px;
+	margin:  0 5px;
+	display: inline;
+	opacity: 1;
+	padding: 0px;
+	padding-bottom: 0px; 
+}
 .socialmedia:hover{
 	opacity: .55;
+}
+.socialmedia1:hover {
+	opacity: .55; 
 }
 .url {
 	display: inline;
