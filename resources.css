@@ -101,9 +101,9 @@
 .calender {
 	background-color: none;
 	padding-bottom: 50px;
-    width: 1049px;
+    width: 1063px;
 	height: 811px; 
-
+	margin-top: 60px;
 	
 }
 .calenderDiv {
@@ -115,7 +115,7 @@
 	margin-left: 100px;
 	padding-top: 10px; 
 	width: 1063px;
-	height: 811px; 
+	height: 835px; 
 }
 
 .boards {
@@ -184,15 +184,15 @@
 	margin-top: 20px;
 }
 
-.expBoard {
+#expBoard {
 	margin: 50px 285px;
 	width: 693px;
 }
-.calendar {
+#calendar {
 	margin: 50px 350px;
 	width: 563px;
 }
-.teamR {
+#teamR {
 	margin: 50px 420px;
 	width: 423px;
 }
