@@ -15,12 +15,9 @@
 	color: white;
 	font-size: 40px;
 	letter-spacing: 4.5px;
-	width: 1263px;
 	border-bottom: 2px solid #fbc005;
 	
 	padding: 15px;
-	
-	margin: 50px auto;
 	
 	text-align: center;
 }
@@ -146,7 +143,7 @@
 	padding-bottom: 55px;
 	border-radius: 2px;
     width:  1063px;
-    height:  300px;
+    height:  320px;
 }
 .textDiv {
 	border-bottom: 2px solid black; 
@@ -188,14 +185,24 @@
 }
 
 .expBoard {
-	
+	margin: 50px 285px;
+	width: 693px;
 }
 .calendar {
-	
+	margin: 50px 350px;
+	width: 563px;
 }
 .teamR {
-	
+	margin: 50px 420px;
+	width: 423px;
 }
-.loginText{
-	
+.subTitle1 {
+	color: black;
+	text-align: center;
+	font-family: "Abel", sans-serif;
+	letter-spacing: 4.5px;
+	font-size: 30px;
+	border-bottom: 2px solid black;
+	width: 140px;
+	padding-top: 20px;
 }
