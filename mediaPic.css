@@ -34,7 +34,7 @@ button{
 	height: 50px;
 	color: white;
 	width: 140.531px;
-	font-size: 25px;
+	font-size: 24px;
 	font-family: "Monserrat", sans-serif;
 	border: 2px solid transparent;
 	border-radius: 3px;
@@ -42,7 +42,7 @@ button{
 	transition-timing-function: ease-in;
 	transition-duration: 1s;
 	transition-property: color;
-	transition-timing-function: ease-in;
+	transition-timing-function: ease-out;
 	transition-duration: .25s;
 	background-color: rgba(54, 69, 79, 1);
 }

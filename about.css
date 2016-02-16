@@ -69,19 +69,6 @@ body, html {
 	color: black;
 }
 
-/*.woodie {
-	
-	border-left: 2px solid #fbc005;
-}
-
-.sheri {
-	border-left: 2px solid #fbc005;
-}
-
-.robert {
-	border-left: 2px solid #fbc005;
-}*/
-
 .footer1 {
 	text-align: center;
 	background-color: #FFF;
@@ -266,37 +253,25 @@ body, html {
     height: 128px;
 }
 
-.whoWeAreDescription  {
-	
-}
-.subTitle1 {
+.subTitle{
 	color: black;
 	text-align: center;
 	font-family: "Abel", sans-serif;
 	letter-spacing: 4.5px;
 	font-size: 30px;
-	margin-left: 25px;
 	border-bottom: 2px solid black;
 }
-.subTitle2 {
-	color: black;
-	text-align: center;
-	font-family: "Abel", sans-serif;
-	letter-spacing: 4.5px;
-	font-size: 30px;
-	margin-left: 125px;
-	margin-right: 125px;
-	border-bottom: 2px solid black;
+#leadership {
+	width:195px;
 }
-.subTitle3 {
-	color: black;
-	text-align: center;
-	font-family: "Abel", sans-serif;
-	letter-spacing: 4.5px;
-	font-size: 30px;
-	margin-left: 150px;
-	margin-right: 150px;
-	border-bottom: 2px solid black;
+#subTitle1 {
+	width: 135px;
+}
+#subTitle2 {
+
+}
+#subTitle3 {
+
 }
 .aboutTitle {
 	margin-left: 390px;
@@ -314,8 +289,6 @@ body, html {
 	margin-left: 429px;
 	margin-right: 439px;
 	text-align: center;
-}
-.aboutTitle3 {
 }
 .divider {
 	width: 0px;
