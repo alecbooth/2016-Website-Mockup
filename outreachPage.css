@@ -1,14 +1,15 @@
 .mainh2 {
-	text-align: center;
+	display: inline-block;
 	color: white;
 	font-family: "Abel", sans-serif;
 	font-size: 40px;
 	border-bottom: 2px solid #fbc005;
-	padding-bottom: 15px;
-	margin-top: 40px;
-	height: 47px;
+	padding: 0px 40px 15px;
+	margin-top: 50px;
+	
 }
 .contentDiv {
+	display: inline-block;
 	background-color: white;
 	margin-right: 100px;
 	margin-left: 100px;
@@ -16,22 +17,22 @@
 	border-radius: 2px; 
 }
 .contentDiv > p {
-	padding-right: 25px;
-	padding-left: 25px;
-	padding-top: 25px;
+	padding: 25px 25px 25px 25px;
 }
 .contentDiv > ul > li {
 	margin-left: 75px;
 }
-.contentDiv > ul {
-	padding-bottom: 25px;
-}
-.p {
-	margin-bottom: 25px;
-	padding-right: 25px;
-	padding-left: 25px;
-}
 .outreachPics {
 	height: 500px;
 	margin-top: 50px;
+}
+#a {
+	text-decoration: none;
+	color: #0A46A8;
+}
+.list {
+	padding: 0px 25px 0px 115px;
+}
+.spanOne {
+	text-decoration: underline;
 }
