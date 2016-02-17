@@ -128,7 +128,7 @@
 	margin-right: 375px;
 	margin-left: 375px;
 }
-.github {
+.teamResourcesLogin {
 	background-color: white;
 	margin-left: 100px;
 	margin-right: 100px;
@@ -190,7 +190,7 @@
 	margin: 50px 420px;
 	width: 423px;
 }
-.subTitle1 {
+#loginTitle {
 	color: black;
 	text-align: center;
 	font-family: "Abel", sans-serif;
