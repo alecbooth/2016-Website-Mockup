@@ -8,8 +8,7 @@ body, html {
 	background-attachment: fixed;
 }
 .teamPic {
-	height: 30em;
-	margin-left: 25px;
+	margin-left: 15px;
 	margin-right: 15px;
 	margin-bottom: 15px;
 	float: left;
@@ -275,11 +274,14 @@ body, html {
 #subTitle1 {
 	width: 135px;
 }
+.subTitle1{
+	font-family: "Abel", sans-serif;
+	border-bottom: 2px solid black;
+	letter-spacing: 4.5px;
+	width: 135px;
+}
 .subTitle2 {
 	margin-top: 0px;
-}
-#subTitle3 {
-
 }
 .aboutTitle {
 	margin-left: 390px;

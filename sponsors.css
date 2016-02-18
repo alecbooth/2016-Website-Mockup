@@ -20,6 +20,7 @@
 }
 .sponsorLevel {
 	padding-top: 25px;
+	text-align: center;
 }
 .topLevel {
 	border-top: none;
@@ -194,14 +195,13 @@
 }
 .titleDescription2 {
 	text-align: center;
-}
-.subTitle2 {
-	padding-top: 15px;
 } 
 .sponsorLevel1 {
 	margin-top: 10px;
 	width: 1063px;
 	height: 364.7px; 
+	text-align: center;
+	padding-top: 25px;
 }
 .subTitle2 {
 	color: black;
@@ -220,6 +220,10 @@
 .intro {
 	padding-right: 50px;
 }
-.become {
-	
+.sponsorLevelTitle {
+	font-family: "Abel", sans-serif;
+	border-bottom: 2px solid black;
+	font-size: 40px;
+	height: 43px;
+	font-weight: strong;
 }
