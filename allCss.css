@@ -1,0 +1,1147 @@
+/*sponsors*/
+.subsubTitle {
+	margin-top: 25px;
+	margin-bottom: 25px;
+	text-align: center;
+	color: white;
+	font-family: "Abel", sans-serif;
+	letter-spacing: 4.5px;
+	font-size: 26px;
+	width: 1273px;
+	height: 31px; 
+}
+.sponsors {
+	margin-left: 100px;
+	margin-right: 100px;
+	background-color: white;
+	margin-bottom: 50px;
+	border-radius: 2px;
+	width: 1063px;
+	height: 3950px;
+}
+.sponsorLevel {
+	padding-top: 25px;
+	text-align: center;
+}
+.topLevel {
+	border-top: none;
+	padding-top: 5px;
+}
+.sponsors1 {
+	display: flex;
+	flex-flow: row wrap;
+	
+	align-items: center;
+}
+
+.sponsors1 > * {
+	margin: 25px;
+}
+.introSponsors {
+	border-top: 2px solid #fbs005;	
+}
+
+.sponsorImage {
+	margin-left: 15px;
+	text-align: center;
+	height: 253px; 
+}
+.sponsorText {
+	font-size: 45px;
+
+}
+.sponsor1 {
+	background: none;
+	color: white;
+	width: 1263px;
+	height: 132.7px; 
+}
+.textDescription1 {
+	color: white;
+	text-align: left;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 17px;
+	margin-left: 25px;
+	margin-right: 25px;
+	margin-bottom: 15px;
+	letter-spacing: 0px;
+	padding-bottom: 15px;
+}
+.titleText1 {
+	color: white;
+	text-align: center;
+	font-family: "Abel", sans-serif;
+	letter-spacing: 4.5px;
+	font-size: 40px;
+    padding-top: 29px;
+    padding-bottom: 10px;
+    margin-left: 550px;
+    margin-right: 510px;
+	border-bottom-style: solid;
+	border-bottom-color: #fbc005;
+	margin-top: 0px;
+}
+.boeing {
+	width: 415px;
+	margin-left: 15px;
+	text-align: center;
+
+}
+.delphi {
+	width: 280px;
+	margin-left: 15px;
+	text-align: center;
+}
+.redali {
+	width: 280px;
+	margin-left: 15px;
+	text-align: center;
+}
+.sponsorText1 {
+	font-size: 24px;
+}
+.kiwanis {
+	width: 200px;
+	margin-left: 15px;
+	text-align: center;
+}
+.alison {
+	width: 235px;
+	margin-left: 15px;
+	text-align: center;
+}
+.delta {
+	width: 235px;
+	margin-left: 15px;
+	text-align: center;
+}
+.edusource {
+	width: 220px;
+	margin-left: 15px;
+	text-align: center;
+}
+.sponsorText2 {
+	font-size: 19px;
+}
+.pip {
+	width: 180px;
+	margin-left: 15px;
+	text-align: center; 
+}
+.mcalisters {
+	width: 180px;
+	margin-left: 15px;
+	text-align: center; 
+}
+.bronze {
+	width: 180px;
+	margin-left: 15px;
+	text-align: center; 
+}
+.multiParagraphBold {
+	color: black;
+	text-align: center;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 25px;
+	margin-left: 25px;
+	margin-right: 25px;
+	margin-bottom: 15px;
+	letter-spacing: 0px;
+	font-style: bold;
+}
+
+.multiParagraphCenter {
+	color: black;
+	text-align: center;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 17px;
+	margin-left: 25px;
+	margin-right: 25px;
+	margin-bottom: 15px;
+	letter-spacing: 0px;
+}
+
+.multiParagraphCenterTop {
+	color: black;
+	text-align: center;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 17px;
+	margin-left: 25px;
+	margin-right: 25px;
+	margin-bottom: 15px;
+	letter-spacing: 0px;
+	padding-top: 17px;
+}
+
+.Sponsor {
+	background-color: white;
+	margin-left: 100px;
+	margin-right: 100px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	border-style: 2px solid #FBC005;
+	padding-bottom: 10px;
+	border-radius: 2px;
+	width: 1063px; 
+	height: 978px; 
+}
+
+.Sponsor > img {
+	width: 1063px;
+	height: 770px; 
+}
+
+.sponsorPic {
+	max-width: 100%;
+}
+.titleDescription2 {
+	text-align: center;
+} 
+.sponsorLevel1 {
+	margin-top: 10px;
+	width: 1063px;
+	height: 364.7px; 
+	text-align: center;
+	padding-top: 25px;
+}
+.subTitle2 {
+	color: black;
+	text-align: left;
+	font-family: "Abel", sans-serif;
+	letter-spacing: 4.5px;
+	font-size: 30px;
+	margin-left: 25px;
+	padding-top: 25px;
+	border-bottom: none;
+}
+.imgDiv {
+	width: 1063px;
+	height: 770px; 
+}
+.intro {
+	padding-right: 50px;
+}
+.sponsorLevelTitle {
+	font-family: "Abel", sans-serif;
+	border-bottom: 2px solid black;
+	font-size: 40px;
+	height: 43px;
+	font-weight: strong;
+}
+/*resources*/
+.mainDiv {
+	margin-bottom: none;
+	background-color: none;
+	text-align: center;
+	font-family: "Montserrat", sans-serif;
+}
+.mainh2 {
+	font-family: "Abel", sans-serif;
+	color: white;
+	font-size: 40px;
+	letter-spacing: 4.5px;
+	border-bottom: 2px solid #fbc005;
+	
+	padding: 15px;
+	
+	text-align: center;
+}
+.secondaryh2 {
+	border-bottom: 2px solid black;
+	
+	padding-bottom: 7px;
+	padding-top: 15px;
+	
+	margin-top: 15px;
+	margin-right: 325px;
+	margin-left: 325px;
+	font-size: 30px;
+	font-family: "Abel", sans-serif;
+}
+.boardImg {
+	display: flex;
+	margin-right: 183px;
+	height: 500px;
+	margin-left: 50px;
+	
+}
+.roboRioParagraph {
+	padding-left: 25px;
+	padding-right: 25px;
+	padding-top: 15.5px;
+	font-family: "Montserrat", sans-serif;
+	margin-bottom: 0px;
+}
+.Firsth3 {
+	font-size: 30px;
+	font-family: "Abel", sans-serif;
+	margin-top: 0px;
+	display: flex;
+	margin-right: 0px;
+}
+.teamresources {
+	margin-right: 100px;
+	
+	margin-bottom: 50px;
+	background-color: white;
+	text-align: center;
+	font-family: "Montserrat", sans-serif;
+}
+.download1  {
+	float: right;
+	text-align: center;
+}
+.flex {
+	display: flex;
+	height: 500px;
+	width: 1062px; 
+}
+.boardpic {
+	padding-left: 50px;
+}
+.clickHere {
+	background-color: white;
+	margin-left: 100px;
+	margin-right: 100px;
+	margin-bottom: 50px;
+	width: 1063px;
+	height: 101px; 
+}
+.boardText {
+	margin-left: 237px;
+}
+.boardText1 {
+	padding-left: 91px;
+}
+#marginLeft {
+	margin-left: 128px;
+    margin-right: 0px;
+}
+.boardText1 {
+	padding-left: 136px;
+}
+.footer {
+	margin-bottom: 0;
+}
+.calender {
+	background-color: none;
+	padding-bottom: 50px;
+    width: 1063px;
+	height: 811px; 
+	margin-top: 60px;
+	
+}
+.calenderDiv {
+	margin: 50px 25px 0px 25px;
+	background-color: white;
+	text-align: center;
+	font-family: "Montserrat", sans-serif;
+	border-radius: 2px;
+	margin-left: 100px;
+	padding-top: 10px; 
+	width: 1063px;
+	height: 835px; 
+}
+
+.boards {
+	background-color: white; 
+	margin-left: 100px;
+	margin-right: 100px;
+	border-radius: 2px;
+	width: 1063px;
+	height: 859px;
+}
+.calendarHeader{
+	font-family: "Abel", sans-serif;
+	padding-top: 15.5px;
+	font-size: 30px;
+	border-bottom: 2px solid black;
+	margin-right: 375px;
+	margin-left: 375px;
+}
+.teamResourcesLogin {
+	background-color: white;
+	margin-left: 100px;
+	margin-right: 100px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	padding-bottom: 55px;
+	border-radius: 2px;
+    width:  1063px;
+    height:  320px;
+}
+.textDiv {
+	border-bottom: 2px solid black; 
+	margin-right: 250px; 
+	margin-left: 250px; 
+}
+.techResources {
+	color: black; 
+	font-spacing: 2px; 
+	padding-top: 25px; 
+	color: black;
+	text-align: center;
+	font-family: "Abel", sans-serif;
+	letter-spacing: 4.5px;
+	font-size: 30px;
+	margin-left: 250px;
+	margin-right: 250px; 
+	border-bottom: 2px solid black;
+}
+
+.login {
+	text-align: center;
+}
+.username {
+	height: 25px;
+	margin-top: 10px;
+}
+.password {
+	height: 25px;
+	margin-top: 10px;
+}
+.submit {
+	text-decoration:none;
+	padding: 5px;
+	height: 40px;
+	width: 70px;
+	font-size: 16px;
+	margin-top: 20px;
+}
+
+#expBoard {
+	margin: 50px 285px;
+	width: 693px;
+}
+#calendar {
+	margin: 50px 350px;
+	width: 563px;
+}
+#teamR {
+	margin: 50px 420px;
+	width: 423px;
+}
+#loginTitle {
+	color: black;
+	text-align: center;
+	font-family: "Abel", sans-serif;
+	letter-spacing: 4.5px;
+	font-size: 30px;
+	border-bottom: 2px solid black;
+	width: 140px;
+	padding-top: 20px;
+}
+/*outreach*/
+.Row1 {
+	margin-top: 50px;
+    margin-bottom: 0px;
+    margin-right: 100px;
+    margin-left: 100px;
+    background-color: white;
+	display: flex;
+	border-radius: 2px; 
+}
+
+.WTW {
+	padding-bottom: 30px;
+}
+.WTWTitle{
+	color: black;
+	text-align: center;
+	font-family: "Abel", sans-serif;
+	letter-spacing: 4.5px;
+	font-size: 40px;
+    padding-top: 29px;
+    padding-bottom: 10px;
+    margin-left: 200px;
+    margin-right: 200px;
+	border-bottom-style: solid;
+	border-bottom-color: black;
+}
+
+.backgroundClearWTW {
+	color: white;
+    font-family: "Abel", sans-serif;
+    letter-spacing: 4.5px;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 50px;
+    letter-spacing: 4.5px;
+}
+
+.WTWImage {
+	width: 481px;
+	margin-left: 25.5px;
+	margin-right: 25.5px;
+	display: inline-block;
+	margin-top: 25px;
+}
+
+.WTWSubTitle {
+	color: black;
+	text-align: center;
+	font-family: "Abel", sans-serif;
+	letter-spacing: 4.5px;
+	font-size: 25px;
+	border-bottom: 2px solid #fbc005;
+    margin-left: 25.5px;
+	margin-right: 25.5px;
+	padding-bottom: 10px;
+}
+
+.multiParagraphWTW {
+	color: black;
+	text-align: left;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 13px;
+	letter-spacing: 0px;
+    margin-left: 26px;
+	width: 481px;
+	margin-bottom: 0px;
+}
+
+.FIRSTSTEPImage {
+	width: 481px;
+	margin-left: 26px;
+	margin-top: 25px;
+}
+
+.Row2 {
+	margin-top: 0px;
+    margin-right: 100px;
+    margin-left: 100px;
+    background-color: white;
+	display: flex;
+}
+
+.continueReading {
+	text-align: right;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 13px;
+	letter-spacing: 0px;
+    margin-left: 26px;
+	margin-top: 0px;
+	margin-right: 25px;
+	font-style: italic;
+	color: #0a46a8;
+}
+
+#continueReadingRight {
+	margin-right:0px;
+}
+
+.HoundFoundImage {
+	width: 321px;
+	height: 214px;
+	margin-left: 25.5px;
+	margin-right: 25.5px;
+	display: inline-block;
+	margin-top: 25px;
+}
+
+.WTWSubTitle3 {
+	color: black;
+	text-align: center;
+	font-family: "Abel", sans-serif;
+	letter-spacing: 4.5px;
+	font-size: 25px;
+	border-bottom: 2px solid #fbc005;
+    margin-left: 25.5px;
+	margin-right: 0px;
+	padding-bottom: 10px;
+    width: 321px;
+}
+
+.Row2Section1 {
+	width: 346.5px;
+}
+
+.multiParagraphWTW3 {
+	color: black;
+	text-align: left;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 13px;
+	letter-spacing: 0px;
+    margin-left: 26px;
+	width: 321px;
+	margin-bottom: 0px;
+}
+.noUnderline {
+	color: #0a46a8;
+	text-decoration: none;
+}
+
+.HelpingHoundsImage {
+	width: 321px;
+	margin-left: 25.5px;
+	margin-right: 25.5px;
+	display: inline-block;
+	margin-top: 25px;
+}
+
+.EngineeringWorkshopsImage {
+	width: 321px;
+	margin-right: 25.5px;
+	display: inline-block;
+	margin-top: 25px;
+	height: 214px;
+}
+
+.multiParagraphWTW3Right {
+	color: black;
+	text-align: left;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 13px;
+	letter-spacing: 0px;
+	width: 321px;
+	margin-bottom: 0px;
+}
+
+.Row2Section3 {
+	margin-left: 0px;
+}
+
+.WTWSubTitle3Right {
+	color: black;
+	text-align: center;
+	font-family: "Abel", sans-serif;
+	letter-spacing: 4.5px;
+	font-size: 25px;
+	border-bottom: 2px solid #fbc005;
+	margin-right: 0px;
+	padding-bottom: 10px;
+    width: 321px;
+}
+
+.BuildItWithTechHOUNDSImages {
+	width: 321px;
+	margin-left: 25.5px;
+	margin-right: 25.5px;
+	display: inline-block;
+	margin-top: 25px;
+	height: 214px;
+}
+
+.Row3 {
+	margin-top: 0px;
+    margin-bottom: 50px;
+    margin-right: 100px;
+    margin-left: 100px;
+    background-color: white;
+	display: flex;
+	border-radius: 2px;
+}
+
+.WTWSubTitle321px {
+	color: black;
+	text-align: center;
+	font-family: "Abel", sans-serif;
+	letter-spacing: 4.5px;
+	font-size: 21px;
+	border-bottom: 2px solid #fbc005;
+    margin-left: 25.5px;
+	margin-right: 0px;
+	padding-bottom: 10px;
+    width: 321px;
+	padding-top: 3px;
+}
+
+.Row3Section1 {
+	width: 346.5px;
+}
+
+.MentoringImage {
+	width: 321px;
+	margin-left: 25.5px;
+	margin-right: 25.5px;
+	display: inline-block;
+	margin-top: 25px;
+	height: 214px;
+}
+
+.SpeakingtoInspireImage {
+	width: 321px;
+	margin-right: 25.5px;
+	display: inline-block;
+	margin-top: 25px;
+	height: 214px;
+}
+.outreachR {
+	border-radius: 2px;
+    width: 1263px;
+    height: 1768.500px;
+    padding-bottom: 0px;
+    margin-bottom: 50px;
+}
+#outreachTitle{
+	height: 47px;
+	border-bottom: 2px solid #fbc005;
+	width: 230px;
+}
+/*media*/
+body, html {
+	background-image:
+		/*-webkit-filter: grayscale(100%); */
+		linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
+		url("websitepicture.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+.picDiv {
+	background-color: white;
+	
+	margin-left: 100px;
+	margin-right: 100px;
+	margin-bottom: 50px;
+	border-radius: 2px;
+	width: 1063px;
+	height: 3782.230px;
+}
+.picLink {
+	margin-top: 15.5px;
+	margin-right: 15.5px; 
+	margin-left: 15.5px;
+	display: inline-block;
+	text-decoration: none;
+	border: hidden;
+	width: 320px;
+	height: 205.391px;
+	vertical-align: top;
+	text-align: center;
+	font-family: "Montserrat", sans-serif;
+}
+.mediaPic{
+	padding: 15px;
+	padding-bottom: 15.5px;
+	width: 290px;
+	height: 161px;
+}
+.vidPic {
+	padding: 15px;
+	width: 290px;
+	height: 161px;
+}
+#vidDiv{
+	background-color: white;
+	
+	margin-left: 100px;
+	margin-right: 100px;
+	margin-bottom: 50px;
+	border-radius: 2px;
+	width: 1063px;
+	height: 667.5px;
+}
+.picLink:hover{
+	border: 2px solid #0A46A8;
+	border-radius: 10px;
+}
+.vidLink:hover{
+	border: 2px solid #0A46A8;
+	border-radius: 10px;
+}
+h3 {
+	font-size: 17px;
+	color: black;
+	height: 32px;
+	width: 320px;
+	margin-top: 0px;
+	margin-bottom: 15.5px;
+	display: relative;
+}
+.h1 {
+	text-align:center;
+
+	border-bottom: 2px solid #fbc005;
+	
+	font-family: "Abel", sans-serif;
+	font-size: 40px;
+	color: white;
+	letter-spacing: 4.5px;
+	
+	margin-right: 550px;
+	margin-left: 550px;
+	
+	padding-top: 15px;
+	padding-bottom: 10px;
+	
+	width: 163px;
+	height: 59px;
+}
+.bottom {
+	margin-bottom: 15.5px;
+}
+.h2 {
+	text-align:center;
+
+	border-bottom: 2px solid black;
+	
+	font-family: "Montserrat", sans-serif;
+	font-size: 30px;
+	color: black;
+	letter-spacing: 4.5px;
+	
+	margin-right: 475px;
+	margin-left: 475px;
+	margin-bottom: 5px;
+	
+	padding-top: 15px;
+	padding-bottom: 10px;	
+	height: 49px;
+	width: 113px;
+}
+.topZero{
+	margin-top: 0px;
+}
+.vidLink{
+	margin-top: 15.5px;
+	margin-right: 15.5px; 
+	margin-left: 15.5px;
+	display: inline-block;
+	text-decoration: none;
+	border: hidden;
+	width: 320px;
+	vertical-align: top;
+	text-align: center;
+	font-family: "Montserrat", sans-serif;
+	height: 205.391px;
+}
+/*about*/
+body, html {
+	background-image:
+		linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
+		url("about_bg.jpg");
+
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+.teamPic {
+	margin-left: 15px;
+	margin-right: 15px;
+	margin-bottom: 15px;
+	float: left;
+    width: 680px;
+    height: 440px;
+    padding-top: 0px;
+    margin-top: 14px;
+}
+
+.underline {
+	border-bottom: 4px solid #fbc005;
+	padding-left: 8px;
+	padding-right: 8px;
+	padding-bottom: 5px;
+}
+#aboutTeam868 {
+	width: 355px;
+	height: 47px;
+	border-bottom: 2px solid #fbc005;
+	
+}
+#whoWeAreTitle{
+	height: 47px;
+	width: 255px;
+	border-bottom: 2px solid #fbc005;
+}
+#firstTitle{
+	height: 47px;
+	width: 125px;
+	border-bottom: 2px solid #fbc005;
+}
+#awardTitle{
+	height: 47px;
+	width: 170px;
+	border-bottom: 2px solid #fbc005;
+}
+#contactTitle{
+	height: 47px;
+	width: 183px;
+	border-bottom: 2px solid #fbc005;
+}
+.whoWeAre {
+	background-color: white;
+	margin-left: 100px;
+	margin-right: 100px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	border-style: 2px solid #FBC005;
+	padding-bottom: 30px;
+    width: 1063px;
+    height: 514px;
+}
+
+
+.about868 {
+	background-color: white;
+	margin-left: 100px;
+	margin-right: 100px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	padding-bottom: 55px;
+	border-radius: 2px;
+    width:  1063px;
+    height:  473.188px;
+}
+#leaders {
+	display: flex;
+	flex-flow: row wrap;
+    padding-bottom: 15px;
+    width: 1063px;
+    height: 306px;
+    padding-top: 20px;
+}
+
+.leaderPic {
+	width: 24.86%;
+}
+
+.leadertext {
+	font-size: 15px;
+	color: black;
+}
+
+.footer1 {
+	text-align: center;
+	background-color: #FFF;
+	padding: 14px 15px 10px;
+	height:80px;
+	margin-top: 50px;
+}
+
+.footer1 a {
+	text-decoration: n;
+	display: inline;
+	float: right;
+}
+.footer1::after {
+	content: "";
+	clear: both;
+}
+
+.multiParagraph {
+	color: black;
+	text-align: left;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 17px;
+	margin-left: 25px;
+	margin-right: 25px;
+	margin-bottom: 15px;
+	letter-spacing: 0px;
+}
+
+.Mission {
+	color: black;
+	text-align: left;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 17px;
+	margin-left: 25px;
+	margin-right: 25px;
+	letter-spacing: 0px;
+}
+.whoWeAre {
+	padding-top: 5px;
+	padding-bottom: 5px;
+	border-radius: 2px;
+}
+.FIRST-explanation 	 {
+	margin-left: 100px;
+	margin-right: 100px;
+	background-color: white;
+	margin-bottom: 50px;
+	margin-top: 50px;
+	padding-top: 1px;
+	border-radius: 2px;
+    width:  1063px;
+    height:  908.563px;
+}
+.mission {
+	margin-top: 50px;
+	padding-top: 10px; 
+}
+.fix {
+	margin-left: 25px;
+	padding-bottom: 25px;
+}
+.missionDiv {
+	padding-top: 22px;
+	padding-bottom: 15px;
+}
+.italicized {
+	color: black;
+	text-align: left;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 17px;
+	margin-left: 25px;
+	margin-right: 25px;
+	margin-bottom: 15px;
+	letter-spacing: 0px;
+	font-style: italic;
+}
+.border {
+	border: 5px solid #fbc005;
+}
+#awards-header {
+	margin-left: 100px;
+	margin-right: 100px;
+	margin-bottom: 50px;
+}
+#awards-header > * {
+	color: white;
+}
+#awards-header > h1 {
+	border-bottom: 2px solid #fbc005;
+}
+#awards h1 {
+	color: #020202;
+}
+#awards {
+	background-color: white;
+	color: black;
+	
+	display: flex;
+	flex-flow: row wrap;
+	
+	justify-content: center;
+	align-items: baseline;
+	border-radius: 2px;
+    width: 1063px;
+    height: 1834.880px;
+}
+.award-year {
+	width: calc(50% - 2*20px);
+	margin: 20px;
+	text-align: center;
+}
+.backgroundClearWhoWeAre {
+	color: white;
+	font-family: "Abel", sans-serif;
+	letter-spacing: 4.5px;
+	font-size: 20px;
+	text-align: center;
+	margin-top: 0px;
+	letter-spacing: 4.5px;
+	margin-bottom: 15.5px;
+}
+.backgroundClearFIRST {
+	color: white;
+	font-family: "Abel", sans-serif;
+	letter-spacing: 4.5px;
+	font-size: 20px;
+	text-align: center;
+	margin-top: 50px;
+	text-align: center;
+	letter-spacing: 4.5px;
+}
+
+.topMarginForMission {
+    padding-top: 0px;
+}
+
+.awardsDescription {
+	color: black;
+	text-align: center;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 17px;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-bottom: 15px;
+	letter-spacing: 0px;
+	padding-bottom: 15px;
+    width: 1023px;
+    height: 128px;
+}
+
+.subTitle{
+	color: black;
+	text-align: center;
+	font-family: "Abel", sans-serif;
+	letter-spacing: 4.5px;
+	font-size: 30px;
+	border-bottom: 2px solid black;
+}
+#leadership {
+	width:195px;
+}
+#subTitle1 {
+	width: 135px;
+}
+.subTitle1{
+	font-family: "Abel", sans-serif;
+	border-bottom: 2px solid black;
+	letter-spacing: 4.5px;
+	width: 135px;
+}
+.subTitle2 {
+	margin-top: 0px;
+}
+.aboutTitle {
+	margin-left: 390px;
+	margin-right: 400px;	
+	text-align: center;
+    width: 273px;
+    height:  34px;
+}
+.aboutTitle1 {
+	margin-left: 757px;
+	margin-right: 90px;	
+	text-align: center;
+}
+.aboutTitle2 {
+	margin-left: 429px;
+	margin-right: 439px;
+	text-align: center;
+}
+.aboutTitle3 {
+	text-align: center;
+	font-family: "Abel", sans-serif;
+	border-bottom: 2px solid black;
+	margin-right: 150px;
+	margin-left: 150px;
+	height: 39px;
+	font-size: 22px;
+}
+.divider {
+	width: 0px;
+	border: 1px solid #fbc005;
+	display: inline-block;
+	margin-top: 25px;
+	margin-bottom: 130px;
+}
+.awards {
+	border-bottom: 2px solid black;
+	margin-left: 110px;
+	margin-right: 110px;
+}
+.awards1 {
+	border-bottom: 2px solid #444444;
+	margin-left: 100px;
+	margin-right: 100px;
+}
+.contactPeople{
+	display: flex;
+	justify-content: flex-start;
+}
+.leads {
+	flex: 1.3 6 20%;
+}
+.mentors {
+	flex: 1 6 20%;
+}
+.mentorList {
+	display: flex;
+}
+.aboutUl{
+	padding-left: 50px;
+}
+.contact {
+	margin-left: 100px;
+	margin-right: 100px;
+	background-color: white;
+	margin-bottom: 50px;
+	margin-top: 50px;
+	padding-top: 1px;
+	border-radius: 2px;
+    width:  1063px;
+	height: 807px;
+}
